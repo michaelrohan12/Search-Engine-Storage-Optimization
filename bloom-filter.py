@@ -4,6 +4,8 @@ import json
 from pybloom import BloomFilter
 import regex as re
 from pathlib import Path
+import tempfile
+import itertools 
 
 # class BloomFilter(object):
 #     def __init__(self, capacity, error_rate=0.001):
@@ -42,13 +44,14 @@ def create_bloom_filter(json_file):
     
     result = Path(json_file.name)
     
-    name = re.sub('_DS.json','_Filter.xml',result.name)
+    name = re.sub('_DS.json','_Filter',result.name)
     
-    path = sys.path[0] + '\\Bloom-Filters\\' + name
+    path = sys.path[0] + '\\Bloom-Filters\\' 
     
-    with open(path, "wb") as outfile:
-        data_filter.tofile(outfile)
-        
+    tempfile._get_candidate_names = lambda: itertools.repeat(name) 
+    
+    f = tempfile.NamedTemporaryFile(prefix='',suffix = '', dir=path, delete=False) 
+    data_filter.tofile(f)        
     return name
         
     # print("Canon" in data_filter)
