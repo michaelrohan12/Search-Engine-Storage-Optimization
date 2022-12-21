@@ -1,6 +1,6 @@
 {
-      "Backlit-Keyboard": {
-            "Yes": [
+      "backlit-keyboard": {
+            "yes": [
                   "1011",
                   "1012",
                   "1013",
@@ -98,13 +98,13 @@
                   "1244",
                   "1247"
             ],
-            "No": [
+            "no": [
                   "1023",
                   "1028",
                   "1049"
             ]
       },
-      "Battery-Cell": {
+      "battery-cell": {
             "2-cell": [
                   "1011",
                   "1022",
@@ -316,7 +316,7 @@
                   "1218"
             ]
       },
-      "Bluetooth": {
+      "bluetooth": {
             "v4.2": [
                   "1011",
                   "1014",
@@ -549,17 +549,18 @@
                   "1232",
                   "1246"
             ],
-            "Dual-Band,-2x2": [
+            "dual-band,-2x2": [
                   "1017",
                   "1018",
                   "1019",
                   "1021"
             ],
-            "Bluetooth\u00c2\u00ae-4.1": [
+            "bluetooth\u00e2\u00ae-4.1": [
                   "1051"
             ],
-            "Yes": [
+            "yes": [
                   "1068",
+                  "1175",
                   "1248"
             ],
             "4.2": [
@@ -568,19 +569,16 @@
                   "1133",
                   "1162"
             ],
-            "YES": [
-                  "1175"
-            ],
             "4.1": [
                   "1179",
                   "1249"
             ],
-            "Bluetooth-4.2": [
+            "bluetooth-4.2": [
                   "1222"
             ]
       },
-      "Cache": {
-            "4-MB": [
+      "cache": {
+            "4-mb": [
                   "1011",
                   "1015",
                   "1022",
@@ -627,7 +625,7 @@
                   "1238",
                   "1239"
             ],
-            "6-MB": [
+            "6-mb": [
                   "1012",
                   "1014",
                   "1016",
@@ -725,7 +723,7 @@
                   "1244",
                   "1246"
             ],
-            "3-MB": [
+            "3-mb": [
                   "1013",
                   "1024",
                   "1081",
@@ -743,11 +741,11 @@
                   "1215",
                   "1223"
             ],
-            "5-MB": [
+            "5-mb": [
                   "1030",
                   "1110"
             ],
-            "8-MB": [
+            "8-mb": [
                   "1031",
                   "1043",
                   "1050",
@@ -781,7 +779,7 @@
                   "1245",
                   "1247"
             ],
-            "12-MB": [
+            "12-mb": [
                   "1044",
                   "1048",
                   "1053",
@@ -799,7 +797,7 @@
                   "1203",
                   "1221"
             ],
-            "16-MB": [
+            "16-mb": [
                   "1062",
                   "1107",
                   "1156",
@@ -811,11 +809,11 @@
                   "1179",
                   "1249"
             ],
-            "2-MB": [
+            "2-mb": [
                   "1093",
                   "1125"
             ],
-            "9-MB": [
+            "9-mb": [
                   "1095",
                   "1113",
                   "1118",
@@ -829,14 +827,14 @@
                   "1200",
                   "1206"
             ],
-            "11-MB": [
+            "11-mb": [
                   "1105"
             ],
             "8": [
                   "1133"
             ]
       },
-      "Transparent-Silver": [
+      "transparent-silver": [
             "1011",
             "1018",
             "1021",
@@ -852,7 +850,7 @@
             "1217",
             "1226"
       ],
-      "Manufacturing-Defects": [
+      "manufacturing-defects": [
             "1011",
             "1012",
             "1013",
@@ -893,6 +891,7 @@
             "1048",
             "1049",
             "1050",
+            "1051",
             "1052",
             "1053",
             "1054",
@@ -1076,7 +1075,7 @@
             "1246",
             "1249"
       ],
-      "Dimensions": {
+      "dimensions": {
             "322-x-212-x-19.9-mm": [
                   "1011",
                   "1022",
@@ -1221,7 +1220,7 @@
             "326-x-225-x-17.9-mm": [
                   "1065"
             ],
-            "357.2-x-230.4-x-19.9-mm-(WxDxH)": [
+            "357.2-x-230.4-x-19.9-mm-(wxdxh)": [
                   "1068",
                   "1070",
                   "1072"
@@ -1551,8 +1550,8 @@
                   "1245"
             ]
       },
-      "Disk-Drive": {
-            "Not-Available": [
+      "disk-drive": {
+            "not-available": [
                   "1011",
                   "1012",
                   "1013",
@@ -1780,7 +1779,7 @@
                   "1247",
                   "1249"
             ],
-            "CD/DVD-writer": [
+            "cd/dvd-writer": [
                   "1055",
                   "1132",
                   "1136",
@@ -1794,12 +1793,12 @@
                   "1218",
                   "1248"
             ],
-            "CD/DVD-reader": [
+            "cd/dvd-reader": [
                   "1175"
             ]
       },
-      "Domestic-Warranty": {
-            "1-Year": [
+      "domestic-warranty": {
+            "1-year": [
                   "1011",
                   "1012",
                   "1013",
@@ -1989,7 +1988,7 @@
                   "1246",
                   "1249"
             ],
-            "2-Year": [
+            "2-year": [
                   "1069",
                   "1080",
                   "1113",
@@ -2008,7 +2007,7 @@
                   "1191",
                   "1247"
             ],
-            "18-Months": [
+            "18-months": [
                   "1087",
                   "1091",
                   "1099",
@@ -2031,7 +2030,7 @@
                   "1242",
                   "1244"
             ],
-            "3-Year": [
+            "3-year": [
                   "1161",
                   "1163",
                   "1165",
@@ -2039,8 +2038,8 @@
                   "1236"
             ]
       },
-      "Finger-Print-Sensor": {
-            "Yes": [
+      "finger-print-sensor": {
+            "yes": [
                   "1011",
                   "1014",
                   "1022",
@@ -2118,7 +2117,7 @@
                   "1242",
                   "1244"
             ],
-            "No": [
+            "no": [
                   "1037",
                   "1063",
                   "1087",
@@ -2128,8 +2127,8 @@
                   "1239"
             ]
       },
-      "Graphic-Processor": {
-            "Intel-Integrated-UHD": [
+      "graphic-processor": {
+            "intel-integrated-uhd": [
                   "1011",
                   "1022",
                   "1023",
@@ -2159,7 +2158,7 @@
                   "1190",
                   "1194"
             ],
-            "NVIDIA-Geforce-GTX-1650": [
+            "nvidia-geforce-gtx-1650": [
                   "1012",
                   "1031",
                   "1044",
@@ -2179,10 +2178,10 @@
                   "1144",
                   "1221"
             ],
-            "Intel-Integrated-HD-6000": [
+            "intel-integrated-hd-6000": [
                   "1013"
             ],
-            "Intel-Integrated-UHD-620": [
+            "intel-integrated-uhd-620": [
                   "1014",
                   "1015",
                   "1016",
@@ -2237,7 +2236,7 @@
                   "1243",
                   "1244"
             ],
-            "NVIDIA-Geforce-MX110": [
+            "nvidia-geforce-mx110": [
                   "1018",
                   "1019",
                   "1047",
@@ -2245,31 +2244,32 @@
                   "1097",
                   "1193"
             ],
-            "AMD-Radeon-Vega-8": [
+            "amd-radeon-vega-8": [
                   "1020",
                   "1039",
+                  "1070",
                   "1072",
                   "1073",
                   "1092",
                   "1172",
                   "1217"
             ],
-            "Intel-Integrated-HD-620": [
+            "intel-integrated-hd-620": [
                   "1024",
                   "1081",
                   "1145",
                   "1215"
             ],
-            "NVIDIA-Geforce-MX230": [
+            "nvidia-geforce-mx230": [
                   "1029",
                   "1045",
                   "1134"
             ],
-            "AMD-Radeon-Vega-3": [
+            "amd-radeon-vega-3": [
                   "1030",
                   "1110"
             ],
-            "NVIDIA-Geforce-MX250": [
+            "nvidia-geforce-mx250": [
                   "1032",
                   "1054",
                   "1079",
@@ -2277,12 +2277,12 @@
                   "1133",
                   "1225"
             ],
-            "NVIDIA-Geforce-GTX-1660-Ti": [
+            "nvidia-geforce-gtx-1660-ti": [
                   "1042",
                   "1069",
                   "1192"
             ],
-            "NVIDIA-Geforce-GTX-1050": [
+            "nvidia-geforce-gtx-1050": [
                   "1043",
                   "1050",
                   "1094",
@@ -2298,56 +2298,53 @@
                   "1200",
                   "1247"
             ],
-            "AMD-Radeon-RX-Vega-10": [
+            "amd-radeon-rx-vega-10": [
                   "1049",
                   "1106"
             ],
-            "Intel-Integrated-N.A.": [
+            "intel-integrated-n.a.": [
                   "1051"
             ],
-            "NVIDIA-Geforce-GTX-1650-Ti": [
+            "nvidia-geforce-gtx-1650-ti": [
                   "1052",
                   "1100"
             ],
-            "NVIDIA-Geforce-MX130": [
+            "nvidia-geforce-mx130": [
                   "1060",
                   "1149",
                   "1155",
                   "1230",
                   "1231"
             ],
-            "AMD-Radeon-Pro-5500M": [
+            "amd-radeon-pro-5500m": [
                   "1062",
                   "1107"
             ],
-            "AMD-Radeon-Pro-5300M": [
+            "amd-radeon-pro-5300m": [
                   "1064",
                   "1077"
             ],
-            "Intel-Integrated-Intel-UHD-620": [
+            "intel-integrated-intel-uhd-620": [
                   "1068"
             ],
-            "AMD-Radeon-vega-8": [
-                  "1070"
-            ],
-            "Intel-Integrated-UHD-617": [
+            "intel-integrated-uhd-617": [
                   "1071",
                   "1082"
             ],
-            "Intel-Integrated-Iris-Plus": [
+            "intel-integrated-iris-plus": [
                   "1075",
                   "1084",
                   "1127",
                   "1131",
                   "1233"
             ],
-            "AMD-Radeon-520": [
+            "amd-radeon-520": [
                   "1076"
             ],
-            "NVIDIA-Geforce-GTX-1650-MaxQ": [
+            "nvidia-geforce-gtx-1650-maxq": [
                   "1080"
             ],
-            "Intel-Integrated-HD-615": [
+            "intel-integrated-hd-615": [
                   "1087",
                   "1093",
                   "1099",
@@ -2359,131 +2356,131 @@
                   "1238",
                   "1239"
             ],
-            "Intel-Integrated-HD515": [
+            "intel-integrated-hd515": [
                   "1090"
             ],
-            "NVIDIA-Geforce-GTX-1050-Ti": [
+            "nvidia-geforce-gtx-1050-ti": [
                   "1095",
                   "1118",
                   "1124"
             ],
-            "NVIDIA-Geforce-N16S-GTR": [
+            "nvidia-geforce-n16s-gtr": [
                   "1104"
             ],
-            "AMD-Radeon": [
+            "amd-radeon": [
                   "1105"
             ],
-            "NVIDIA-Geforce-RTX-2060": [
+            "nvidia-geforce-rtx-2060": [
                   "1113",
                   "1150",
                   "1180",
                   "1214"
             ],
-            "NVIDIA-Geforce-MX150": [
+            "nvidia-geforce-mx150": [
                   "1120",
                   "1167",
                   "1246"
             ],
-            "Intel-Integrated-HD620": [
+            "intel-integrated-hd620": [
                   "1123",
                   "1139"
             ],
-            "Qualcomm-Adreno-685": [
+            "qualcomm-adreno-685": [
                   "1125"
             ],
-            "Intel-Integrated-Iris-Plus-655": [
+            "intel-integrated-iris-plus-655": [
                   "1126",
                   "1166"
             ],
-            "AMD-Radeon-R5": [
+            "amd-radeon-r5": [
                   "1132"
             ],
-            "NVIDIA-Geforce-940MX": [
+            "nvidia-geforce-940mx": [
                   "1136",
                   "1146",
                   "1160"
             ],
-            "Intel-Integrated-HD-520": [
+            "intel-integrated-hd-520": [
                   "1140"
             ],
-            "NVIDIA-Geforce-GTX-1060": [
+            "nvidia-geforce-gtx-1060": [
                   "1148",
                   "1152",
                   "1159",
                   "1218",
                   "1219"
             ],
-            "NVIDIA-Geforce-GTX-1070": [
+            "nvidia-geforce-gtx-1070": [
                   "1151",
                   "1174",
                   "1206",
                   "1216"
             ],
-            "Intel-Integrated-HD630": [
+            "intel-integrated-hd630": [
                   "1153"
             ],
-            "AMD-Radeon-Pro-560X": [
+            "amd-radeon-pro-560x": [
                   "1156",
                   "1183"
             ],
-            "Intel-Integrated-HD615": [
+            "intel-integrated-hd615": [
                   "1157",
                   "1211"
             ],
-            "NVIDIA-Geforce-GTX-1050Ti": [
+            "nvidia-geforce-gtx-1050ti": [
                   "1170",
                   "1177",
                   "1188"
             ],
-            "NVIDIA-Geforce-GTX-GTX1650": [
+            "nvidia-geforce-gtx-gtx1650": [
                   "1175"
             ],
-            "NVIDIA-Geforce-1050Ti": [
+            "nvidia-geforce-1050ti": [
                   "1176"
             ],
-            "NVIDIA-Geforce-GTX-1080": [
+            "nvidia-geforce-gtx-1080": [
                   "1178"
             ],
-            "Intel-Integrated-HD520": [
+            "intel-integrated-hd520": [
                   "1181"
             ],
-            "Intel-Integrated-UHD620": [
+            "intel-integrated-uhd620": [
                   "1182"
             ],
-            "Intel-Integrated-UHD-615": [
+            "intel-integrated-uhd-615": [
                   "1187",
                   "1224"
             ],
-            "NVIDIA-Geforce-920MX": [
+            "nvidia-geforce-920mx": [
                   "1198"
             ],
-            "Intel-Integrated-HD": [
+            "intel-integrated-hd": [
                   "1199"
             ],
-            "NVIDIA-Geforce-RTX-2070": [
+            "nvidia-geforce-rtx-2070": [
                   "1203"
             ],
-            "NVIDIA-Geforce-GTX-980M": [
+            "nvidia-geforce-gtx-980m": [
                   "1212"
             ],
-            "Intel-Integrated": [
+            "intel-integrated": [
                   "1222"
             ],
-            "AMD-Radeon-R7-M270": [
+            "amd-radeon-r7-m270": [
                   "1223"
             ],
-            "NVIDIA-Geforce-UHD": [
+            "nvidia-geforce-uhd": [
                   "1229"
             ],
-            "NVIDIA-Geforce-GTX-1050-Max-Q": [
+            "nvidia-geforce-gtx-1050-max-q": [
                   "1245"
             ],
-            "NVIDIA-Geforce-GeForce\u00c2\u00ae-MX250": [
+            "nvidia-geforce-geforce\u00e2\u00ae-mx250": [
                   "1248"
             ]
       },
-      "HDMI-Port": {
-            "1-x-HDMI-Port-(v1.4)": [
+      "hdmi-port": {
+            "1-x-hdmi-port-(v1.4)": [
                   "1011",
                   "1014",
                   "1016",
@@ -2535,7 +2532,7 @@
                   "1234",
                   "1243"
             ],
-            "1-x-HDMI-Port": [
+            "1-x-hdmi-port": [
                   "1012",
                   "1015",
                   "1024",
@@ -2612,7 +2609,7 @@
                   "1246",
                   "1247"
             ],
-            "1-x-HDMI-Port-(v1.4b)": [
+            "1-x-hdmi-port-(v1.4b)": [
                   "1020",
                   "1023",
                   "1025",
@@ -2634,7 +2631,7 @@
                   "1229",
                   "1230"
             ],
-            "1-x-HDMI-Port-(v2.0)": [
+            "1-x-hdmi-port-(v2.0)": [
                   "1031",
                   "1042",
                   "1043",
@@ -2666,14 +2663,14 @@
                   "1218",
                   "1228"
             ],
-            "1-x-HDMI-Port-(v2.0b)": [
+            "1-x-hdmi-port-(v2.0b)": [
                   "1056",
                   "1067",
                   "1098",
                   "1130",
                   "1192"
             ],
-            "1-x-HDMI": [
+            "1-x-hdmi": [
                   "1068",
                   "1070",
                   "1072",
@@ -2681,7 +2678,7 @@
                   "1179",
                   "1249"
             ],
-            "1-x-Mini-HDMI-Port": [
+            "1-x-mini-hdmi-port": [
                   "1087",
                   "1195",
                   "1197",
@@ -2689,14 +2686,14 @@
                   "1238",
                   "1239"
             ],
-            "Yes": [
+            "yes": [
                   "1132",
                   "1212",
                   "1223"
             ]
       },
-      "Included-Software": {
-            "Asus-Splendid,-Tru2Life": [
+      "included-software": {
+            "asus-splendid,-tru2life": [
                   "1011",
                   "1022",
                   "1029",
@@ -2707,17 +2704,17 @@
                   "1129",
                   "1194"
             ],
-            "Asus-GiftBox,-Asus-Splendid": [
+            "asus-giftbox,-asus-splendid": [
                   "1014"
             ],
-            "My-Asus,-Splendid": [
+            "my-asus,-splendid": [
                   "1027",
                   "1047",
                   "1057",
                   "1109",
                   "1112"
             ],
-            "Asus-Splendid": [
+            "asus-splendid": [
                   "1040",
                   "1081",
                   "1092",
@@ -2728,18 +2725,18 @@
                   "1226",
                   "1245"
             ],
-            "Asus-Splendid,-ICEsound": [
+            "asus-splendid,-icesound": [
                   "1115"
             ],
-            "Dragon-Centre,-Nahimic-2": [
+            "dragon-centre,-nahimic-2": [
                   "1138"
             ],
-            "Dragon-Gaming-Center": [
+            "dragon-gaming-center": [
                   "1171"
             ]
       },
-      "Internal-Mic": {
-            "Built-in-Microphone": [
+      "internal-mic": {
+            "built-in-microphone": [
                   "1011",
                   "1012",
                   "1016",
@@ -2814,11 +2811,11 @@
                   "1243",
                   "1247"
             ],
-            "Dual-Microphones": [
+            "dual-microphones": [
                   "1013",
                   "1157"
             ],
-            "Built-in-Array-Microphone": [
+            "built-in-array-microphone": [
                   "1014",
                   "1039",
                   "1056",
@@ -2839,21 +2836,21 @@
                   "1234",
                   "1245"
             ],
-            "Integrated-Dual-Array-Microphone": [
+            "integrated-dual-array-microphone": [
                   "1020",
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "Integrated-Monaural-Microphone": [
+            "integrated-monaural-microphone": [
                   "1023",
                   "1025",
                   "1028",
                   "1033",
                   "1073"
             ],
-            "Built-in-Microphones": [
+            "built-in-microphones": [
                   "1024",
                   "1035",
                   "1044",
@@ -2869,7 +2866,7 @@
                   "1217",
                   "1230"
             ],
-            "Dual-Array-Microphone": [
+            "dual-array-microphone": [
                   "1026",
                   "1031",
                   "1034",
@@ -2877,13 +2874,13 @@
                   "1050",
                   "1190"
             ],
-            "Integrated-Digital-Microphone": [
+            "integrated-digital-microphone": [
                   "1030",
                   "1074",
                   "1083",
                   "1193"
             ],
-            "Built-in-Digital-Microphone": [
+            "built-in-digital-microphone": [
                   "1032",
                   "1093",
                   "1155",
@@ -2895,7 +2892,7 @@
                   "1232",
                   "1246"
             ],
-            "Built-in-Dual-Microphone": [
+            "built-in-dual-microphone": [
                   "1038",
                   "1079",
                   "1088",
@@ -2903,14 +2900,14 @@
                   "1110",
                   "1182"
             ],
-            "Dual-Array-Digital-Microphone": [
+            "dual-array-digital-microphone": [
                   "1042",
                   "1075",
                   "1118",
                   "1124",
                   "1144"
             ],
-            "Built-in-Dual-Array-Microphones": [
+            "built-in-dual-array-microphones": [
                   "1060",
                   "1087",
                   "1099",
@@ -2921,7 +2918,7 @@
                   "1238",
                   "1239"
             ],
-            "Dual-Array-Digital-Microphones": [
+            "dual-array-digital-microphones": [
                   "1061",
                   "1159",
                   "1185",
@@ -2931,7 +2928,7 @@
                   "1220",
                   "1231"
             ],
-            "Built-in-Three-Array-Microphone": [
+            "built-in-three-array-microphone": [
                   "1062",
                   "1064",
                   "1077",
@@ -2940,18 +2937,18 @@
             "inbuilt": [
                   "1068"
             ],
-            "Built-in-Three-Microphone": [
+            "built-in-three-microphone": [
                   "1071",
                   "1082"
             ],
-            "Dual-Far-field-Studio-Microphone": [
+            "dual-far-field-studio-microphone": [
                   "1084",
                   "1103"
             ],
-            "Dual-Array-Microphones": [
+            "dual-array-microphones": [
                   "1090"
             ],
-            "Built-in-Dual-Array-Microphone": [
+            "built-in-dual-array-microphone": [
                   "1091",
                   "1201",
                   "1202",
@@ -2968,16 +2965,16 @@
                   "1242",
                   "1244"
             ],
-            "Built-in-Dual-Microphones": [
+            "built-in-dual-microphones": [
                   "1095",
                   "1139",
                   "1152"
             ],
-            "Dual-Digital-Microphone-Array": [
+            "dual-digital-microphone-array": [
                   "1111",
                   "1228"
             ],
-            "Built-in-Array-Microphones": [
+            "built-in-array-microphones": [
                   "1115",
                   "1119",
                   "1137",
@@ -2987,48 +2984,48 @@
                   "1188",
                   "1200"
             ],
-            "Single-Microphone": [
+            "single-microphone": [
                   "1120"
             ],
-            "Built-in-Digital-Microphones": [
+            "built-in-digital-microphones": [
                   "1121",
                   "1143",
                   "1149"
             ],
-            "Dual-Far-field-Studio-Mics": [
+            "dual-far-field-studio-mics": [
                   "1125",
                   "1233"
             ],
-            "Built-in-Three-Microphones": [
+            "built-in-three-microphones": [
                   "1126",
                   "1156",
                   "1166",
                   "1183"
             ],
-            "Three-Microphones": [
+            "three-microphones": [
                   "1153"
             ],
-            "Single-Digital-Microphone": [
+            "single-digital-microphone": [
                   "1160",
                   "1198",
                   "1215"
             ],
-            "Built-in-Dual-Digital-Microphone": [
+            "built-in-dual-digital-microphone": [
                   "1177",
                   "1216",
                   "1218"
             ],
-            "Yes": [
+            "yes": [
                   "1179",
                   "1211",
                   "1249"
             ],
-            "2-Digital-Microphones": [
+            "2-digital-microphones": [
                   "1212"
             ]
       },
-      "Keyboard": {
-            "Backlit-Chiclet-Keyboard": [
+      "keyboard": {
+            "backlit-chiclet-keyboard": [
                   "1011",
                   "1022",
                   "1029",
@@ -3040,19 +3037,24 @@
                   "1129",
                   "1194"
             ],
-            "Full-size-Backlit-Keyboard": [
+            "full-size-backlit-keyboard": [
                   "1013",
-                  "1153"
+                  "1153",
+                  "1196"
             ],
-            "Illuminated-Chiclet-Keyboard": [
+            "illuminated-chiclet-keyboard": [
                   "1014",
                   "1016",
                   "1039",
                   "1040",
+                  "1068",
+                  "1070",
+                  "1072",
                   "1078",
                   "1092",
                   "1115",
                   "1116",
+                  "1133",
                   "1135",
                   "1141",
                   "1154",
@@ -3066,12 +3068,13 @@
                   "1234",
                   "1245"
             ],
-            "Full-Size-Island-style-Keyboard": [
+            "full-size-island-style-keyboard": [
                   "1015",
                   "1035",
-                  "1055"
+                  "1055",
+                  "1227"
             ],
-            "English-Backlit-Keyboard": [
+            "english-backlit-keyboard": [
                   "1020",
                   "1026",
                   "1046",
@@ -3080,16 +3083,18 @@
                   "1225",
                   "1229"
             ],
-            "Non-backlit-English-Keyboard": [
+            "non-backlit-english-keyboard": [
                   "1023",
+                  "1025",
                   "1028"
             ],
-            "Island-style-Keyboard": [
+            "island-style-keyboard": [
                   "1024",
                   "1087",
                   "1091",
                   "1097",
                   "1099",
+                  "1120",
                   "1145",
                   "1195",
                   "1197",
@@ -3111,10 +3116,7 @@
                   "1242",
                   "1244"
             ],
-            "Non-Backlit-English-Keyboard": [
-                  "1025"
-            ],
-            "Chiclet-Keyboard": [
+            "chiclet-keyboard": [
                   "1027",
                   "1047",
                   "1051",
@@ -3124,51 +3126,47 @@
                   "1128",
                   "1134",
                   "1147",
-                  "1217"
+                  "1179",
+                  "1217",
+                  "1249"
             ],
-            "English-Backlit-Blue-Keyboard": [
+            "english-backlit-blue-keyboard": [
                   "1031",
                   "1050"
             ],
-            "English-Non-Backlit-Keyboard": [
+            "english-non-backlit-keyboard": [
                   "1033",
                   "1073"
             ],
-            "English-Backlit-Grey-Keyboard": [
+            "english-backlit-grey-keyboard": [
                   "1034"
             ],
-            "English-International-Keyboard": [
+            "english-international-keyboard": [
                   "1044",
                   "1114",
                   "1230"
             ],
-            "English-Blue-Backlit-Keyboard": [
+            "english-blue-backlit-keyboard": [
                   "1048"
             ],
-            "Blue-Backlit-English-Keyboard": [
+            "blue-backlit-english-keyboard": [
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "Illuminated-Chiclet-RGB-Keyboard": [
+            "illuminated-chiclet-rgb-keyboard": [
                   "1056",
                   "1066",
                   "1086",
                   "1130",
                   "1192"
             ],
-            "Backlit-Chiclet-RGB-Keyboard": [
+            "backlit-chiclet-rgb-keyboard": [
                   "1067",
                   "1098"
             ],
-            "Illuminated-chiclet-keyboard": [
-                  "1068",
-                  "1070",
-                  "1072",
-                  "1133"
-            ],
-            "Standard-English-Keyboard": [
+            "standard-english-keyboard": [
                   "1076",
                   "1111",
                   "1119",
@@ -3187,58 +3185,43 @@
                   "1243",
                   "1246"
             ],
-            "Backlit-Island-style-Keyboard": [
+            "backlit-island-style-keyboard": [
                   "1090"
             ],
-            "Standard-Keyboard": [
+            "standard-keyboard": [
                   "1104",
                   "1132",
                   "1146",
                   "1191",
                   "1199"
             ],
-            "Island-Style-Keyboard": [
-                  "1120"
-            ],
-            "Backlight-Keyboard": [
+            "backlight-keyboard": [
                   "1123",
                   "1136",
                   "1176"
             ],
-            "Full-sized-Backlit-Keyboard": [
+            "full-sized-backlit-keyboard": [
                   "1126",
                   "1156",
-                  "1166"
+                  "1166",
+                  "1183"
             ],
-            "Island-Style-Backlit-Keyboard": [
+            "island-style-backlit-keyboard": [
                   "1137"
             ],
-            "Full-size-Keyboard": [
+            "full-size-keyboard": [
                   "1157"
             ],
-            "Alienware-TactX-Keyboard": [
+            "alienware-tactx-keyboard": [
                   "1178",
                   "1206"
             ],
-            "Chiclet-keyboard": [
-                  "1179",
-                  "1249"
-            ],
-            "Full-Sized-Backlit-Keyboard": [
-                  "1183"
-            ],
-            "Spill-Resistant-Backlit-keyboard": [
+            "spill-resistant-backlit-keyboard": [
                   "1190"
-            ],
-            "Full-Size-Backlit-Keyboard": [
-                  "1196"
-            ],
-            "Full-Size-Island-Style-Keyboard": [
-                  "1227"
             ]
       },
-      "MS-Office-Provided": {
-            "No": [
+      "ms-office-provided": {
+            "no": [
                   "1011",
                   "1012",
                   "1013",
@@ -3398,7 +3381,7 @@
                   "1248",
                   "1249"
             ],
-            "Yes": [
+            "yes": [
                   "1015",
                   "1020",
                   "1023",
@@ -3463,8 +3446,8 @@
                   "1246"
             ]
       },
-      "Mic-In": {
-            "Yes": [
+      "mic-in": {
+            "yes": [
                   "1011",
                   "1012",
                   "1013",
@@ -3700,623 +3683,623 @@
                   "1249"
             ]
       },
-      "Model-Number": {
-            "X412FA-EK361T": [
+      "model-number": {
+            "x412fa-ek361t": [
                   "1011"
             ],
-            "15-ec0101AX": [
+            "15-ec0101ax": [
                   "1012"
             ],
-            "MQD32HN/A-A1466": [
+            "mqd32hn/a-a1466": [
                   "1013"
             ],
-            "S430FA-EB039T": [
+            "s430fa-eb039t": [
                   "1014"
             ],
-            "14-dh0107TU": [
+            "14-dh0107tu": [
                   "1015"
             ],
-            "UX430UA-GV573T": [
+            "ux430ua-gv573t": [
                   "1016"
             ],
-            "X543UA-DM582T": [
+            "x543ua-dm582t": [
                   "1017"
             ],
-            "X543UB-DM581T": [
+            "x543ub-dm581t": [
                   "1018"
             ],
-            "X543UB-DM582T": [
+            "x543ub-dm582t": [
                   "1019"
             ],
-            "S340-14API": [
+            "s340-14api": [
                   "1020"
             ],
-            "X543UA-DM581T": [
+            "x543ua-dm581t": [
                   "1021"
             ],
-            "X412FA-EK363T": [
+            "x412fa-ek363t": [
                   "1022"
             ],
-            "81W8-idea-pad-S145--15IIL-U": [
+            "81w8-idea-pad-s145--15iil-u": [
                   "1023"
             ],
-            "130-15IKB": [
+            "130-15ikb": [
                   "1024",
                   "1097"
             ],
-            "S145-15IIL": [
+            "s145-15iil": [
                   "1025"
             ],
-            "S340-14IIL": [
+            "s340-14iil": [
                   "1026",
                   "1034",
                   "1169"
             ],
-            "X543UA-DM841T": [
+            "x543ua-dm841t": [
                   "1027"
             ],
-            "81W8-Ideapad-S145-15IIL-U": [
+            "81w8-ideapad-s145-15iil-u": [
                   "1028"
             ],
-            "X412FJ-EK511T": [
+            "x412fj-ek511t": [
                   "1029"
             ],
-            "15s-eq0007AU": [
+            "15s-eq0007au": [
                   "1030"
             ],
-            "L340-15IRH": [
+            "l340-15irh": [
                   "1031",
                   "1048",
                   "1050"
             ],
-            "SF314-55G": [
+            "sf314-55g": [
                   "1032"
             ],
-            "S145-15IKB": [
+            "s145-15ikb": [
                   "1033"
             ],
-            "14-dh1007TU": [
+            "14-dh1007tu": [
                   "1035"
             ],
-            "X412FA-EK513T": [
+            "x412fa-ek513t": [
                   "1036"
             ],
-            "Insprion-3593": [
+            "insprion-3593": [
                   "1037"
             ],
-            "A515-55": [
+            "a515-55": [
                   "1038"
             ],
-            "UM431DA-AM581TS": [
+            "um431da-am581ts": [
                   "1039"
             ],
-            "X412FA-EK230T": [
+            "x412fa-ek230t": [
                   "1040"
             ],
-            "X412FA-EK362T": [
+            "x412fa-ek362t": [
                   "1041"
             ],
-            "15-ec0073AX": [
+            "15-ec0073ax": [
                   "1042"
             ],
-            "15-DK00261TX": [
+            "15-dk00261tx": [
                   "1043"
             ],
-            "G3-3590": [
+            "g3-3590": [
                   "1044",
                   "1114"
             ],
-            "X412FJ-EK512T": [
+            "x412fj-ek512t": [
                   "1045"
             ],
-            "81VV-ideapad-S340--14IIL-U": [
+            "81vv-ideapad-s340--14iil-u": [
                   "1046"
             ],
-            "X509JB-EJ591T": [
+            "x509jb-ej591t": [
                   "1047"
             ],
-            "15s-eq0132AU": [
+            "15s-eq0132au": [
                   "1049"
             ],
-            "X512FA-EJ373T": [
+            "x512fa-ej373t": [
                   "1051"
             ],
-            "15IMH05": [
+            "15imh05": [
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "S540-15IML": [
+            "s540-15iml": [
                   "1054"
             ],
-            "15q-ds1001TU": [
+            "15q-ds1001tu": [
                   "1055"
             ],
-            "G531GT-BQ124T": [
+            "g531gt-bq124t": [
                   "1056"
             ],
-            "X509JB-EJ592T": [
+            "x509jb-ej592t": [
                   "1057"
             ],
-            "F571GT-AL518T": [
+            "f571gt-al518t": [
                   "1058",
                   "1059"
             ],
-            "14-dh1025TX": [
+            "14-dh1025tx": [
                   "1060"
             ],
-            "14-cd0087TU": [
+            "14-cd0087tu": [
                   "1061"
             ],
-            "MVVK2HN/A": [
+            "mvvk2hn/a": [
                   "1062"
             ],
-            "VOS-3590": [
+            "vos-3590": [
                   "1063"
             ],
-            "MVVJ2HN/A": [
+            "mvvj2hn/a": [
                   "1064"
             ],
-            "14-ce3006TU": [
+            "14-ce3006tu": [
                   "1065"
             ],
-            "G531GT-AL017T": [
+            "g531gt-al017t": [
                   "1066"
             ],
-            "G531GT-AL271T": [
+            "g531gt-al271t": [
                   "1067"
             ],
-            "X512FA-EJ547TX512F": [
+            "x512fa-ej547tx512f": [
                   "1068"
             ],
-            "GF65-Thin-9SD-293IN": [
+            "gf65-thin-9sd-293in": [
                   "1069"
             ],
-            "X512DA-EJ502T": [
+            "x512da-ej502t": [
                   "1070"
             ],
-            "MRE92HN/A": [
+            "mre92hn/a": [
                   "1071"
             ],
-            "X512DA-EJ503T": [
+            "x512da-ej503t": [
                   "1072"
             ],
-            "S145-15API": [
+            "s145-15api": [
                   "1073"
             ],
-            "14S-ER0003TU": [
+            "14s-er0003tu": [
                   "1074"
             ],
-            "13-aw0204TU": [
+            "13-aw0204tu": [
                   "1075"
             ],
-            "VOS-3480": [
+            "vos-3480": [
                   "1076"
             ],
-            "MVVL2HN/A": [
+            "mvvl2hn/a": [
                   "1077"
             ],
-            "UX430UA-GV372T": [
+            "ux430ua-gv372t": [
                   "1078"
             ],
-            "A515-54": [
+            "a515-54": [
                   "1079"
             ],
-            "GF63-Thin-9SC-460IN": [
+            "gf63-thin-9sc-460in": [
                   "1080"
             ],
-            "X412UA-EK342T": [
+            "x412ua-ek342t": [
                   "1081"
             ],
-            "MREF2HN/A": [
+            "mref2hn/a": [
                   "1082"
             ],
-            "14S-ER0002TU": [
+            "14s-er0002tu": [
                   "1083"
             ],
-            "M1866": [
+            "m1866": [
                   "1084",
                   "1103"
             ],
-            "X412FA-EK512T": [
+            "x412fa-ek512t": [
                   "1085"
             ],
-            "G531GT-AL018T": [
+            "g531gt-al018t": [
                   "1086"
             ],
-            "NS14A1IN010P": [
+            "ns14a1in010p": [
                   "1087"
             ],
             "1796": [
                   "1088",
                   "1139"
             ],
-            "G3-3590/G3-15-3590": [
+            "g3-3590/g3-15-3590": [
                   "1089"
             ],
-            "X2": [
+            "x2": [
                   "1090"
             ],
-            "NS13A2IN206P": [
+            "ns13a2in206p": [
                   "1091"
             ],
-            "X412DA-EK141T": [
+            "x412da-ek141t": [
                   "1092"
             ],
             "1824": [
                   "1093"
             ],
-            "15-EC0098AX": [
+            "15-ec0098ax": [
                   "1094"
             ],
-            "AN515-52": [
+            "an515-52": [
                   "1095"
             ],
-            "SF313-51": [
+            "sf313-51": [
                   "1096"
             ],
-            "G531GT-AL007T": [
+            "g531gt-al007t": [
                   "1098"
             ],
-            "NS14A1IN501P": [
+            "ns14a1in501p": [
                   "1099"
             ],
-            "X512FL-EJ502T": [
+            "x512fl-ej502t": [
                   "1101"
             ],
-            "SF313-51-30EP": [
+            "sf313-51-30ep": [
                   "1102"
             ],
-            "Ideapad-510": [
+            "ideapad-510": [
                   "1104"
             ],
-            "SF314-42": [
+            "sf314-42": [
                   "1105"
             ],
-            "UM462DA-AI701TS": [
+            "um462da-ai701ts": [
                   "1106"
             ],
-            "MVVM2HN/A": [
+            "mvvm2hn/a": [
                   "1107"
             ],
-            "TP412FA-EC371TS": [
+            "tp412fa-ec371ts": [
                   "1109"
             ],
-            "SF314-41": [
+            "sf314-41": [
                   "1110"
             ],
             "insp-7380": [
                   "1111"
             ],
-            "X509JA-EJ592T": [
+            "x509ja-ej592t": [
                   "1112"
             ],
-            "GL73": [
+            "gl73": [
                   "1113"
             ],
-            "UX331UAL-EG002T": [
+            "ux331ual-eg002t": [
                   "1115"
             ],
-            "UX333FA-A4116T": [
+            "ux333fa-a4116t": [
                   "1116"
             ],
-            "14-dh1011TU": [
+            "14-dh1011tu": [
                   "1117"
             ],
-            "15-dc0082TX": [
+            "15-dc0082tx": [
                   "1118"
             ],
-            "720S-13IKB": [
+            "720s-13ikb": [
                   "1119",
                   "1142"
             ],
-            "330-15IKB": [
+            "330-15ikb": [
                   "1120"
             ],
-            "SF514-52T": [
+            "sf514-52t": [
                   "1121"
             ],
-            "SF313-51-506P": [
+            "sf313-51-506p": [
                   "1122"
             ],
-            "IP-720S": [
+            "ip-720s": [
                   "1123"
             ],
-            "15-dc0084TX": [
+            "15-dc0084tx": [
                   "1124"
             ],
-            "M1876": [
+            "m1876": [
                   "1125"
             ],
-            "MV962HN": [
+            "mv962hn": [
                   "1126"
             ],
-            "14s-dr1006TU": [
+            "14s-dr1006tu": [
                   "1127",
                   "1131"
             ],
-            "X543UA-DM362T": [
+            "x543ua-dm362t": [
                   "1128"
             ],
-            "X412FA-EK371T": [
+            "x412fa-ek371t": [
                   "1129"
             ],
-            "G731GT-H7179T": [
+            "g731gt-h7179t": [
                   "1130"
             ],
             "59427747": [
                   "1132"
             ],
-            "X512FL-EJ701T": [
+            "x512fl-ej701t": [
                   "1133"
             ],
-            "X509FJ-EJ502T": [
+            "x509fj-ej502t": [
                   "1134"
             ],
-            "S410UA-EB409T": [
+            "s410ua-eb409t": [
                   "1135"
             ],
-            "IP-520": [
+            "ip-520": [
                   "1136"
             ],
-            "730-13IKB": [
+            "730-13ikb": [
                   "1137"
             ],
-            "GL62M-7RDX-1878XIN": [
+            "gl62m-7rdx-1878xin": [
                   "1138"
             ],
-            "SP513-51": [
+            "sp513-51": [
                   "1140"
             ],
-            "S410UA-EB720T": [
+            "s410ua-eb720t": [
                   "1141"
             ],
-            "SF713-51": [
+            "sf713-51": [
                   "1143",
                   "1232"
             ],
-            "15-dk0047TX": [
+            "15-dk0047tx": [
                   "1144"
             ],
-            "330S-15IKB": [
+            "330s-15ikb": [
                   "1145"
             ],
-            "IP-320-15IKB": [
+            "ip-320-15ikb": [
                   "1146"
             ],
-            "X409JA-EK591T": [
+            "x409ja-ek591t": [
                   "1147"
             ],
-            "GS65-8RE-084IN": [
+            "gs65-8re-084in": [
                   "1148"
             ],
-            "A515-51G-5206": [
+            "a515-51g-5206": [
                   "1149"
             ],
-            "GS65-Stealth-9SE-636IN": [
+            "gs65-stealth-9se-636in": [
                   "1150"
             ],
-            "GE73-Raider-RGB-8RF-024IN": [
+            "ge73-raider-rgb-8rf-024in": [
                   "1151"
             ],
-            "PH315-51-785W": [
+            "ph315-51-785w": [
                   "1152"
             ],
-            "MPTT2HN/A": [
+            "mptt2hn/a": [
                   "1153"
             ],
-            "FX504GD-E4021T": [
+            "fx504gd-e4021t": [
                   "1154"
             ],
-            "A515-51G--5673": [
+            "a515-51g--5673": [
                   "1155"
             ],
-            "MV932HN": [
+            "mv932hn": [
                   "1156"
             ],
-            "MNYH2HN/A": [
+            "mnyh2hn/a": [
                   "1157"
             ],
-            "A315-56": [
+            "a315-56": [
                   "1158"
             ],
-            "15-ce073TX": [
+            "15-ce073tx": [
                   "1159"
             ],
             "7570": [
                   "1160"
             ],
-            "NX101": [
+            "nx101": [
                   "1161",
                   "1163",
                   "1165"
             ],
-            "Y540": [
+            "y540": [
                   "1162"
             ],
             "3480": [
                   "1164"
             ],
-            "MV972HN": [
+            "mv972hn": [
                   "1166"
             ],
-            "520-15IKB": [
+            "520-15ikb": [
                   "1167"
             ],
-            "UX333FA-A4184T": [
+            "ux333fa-a4184t": [
                   "1168"
             ],
-            "UX580GE-E2032T": [
+            "ux580ge-e2032t": [
                   "1170"
             ],
-            "GL62-7RDX": [
+            "gl62-7rdx": [
                   "1171"
             ],
-            "13-ar0118AU": [
+            "13-ar0118au": [
                   "1172"
             ],
-            "FX503VD-DM112T": [
+            "fx503vd-dm112t": [
                   "1173"
             ],
-            "GE73VR-7RF-086IN": [
+            "ge73vr-7rf-086in": [
                   "1174"
             ],
-            "Legion-Y540": [
+            "legion-y540": [
                   "1175"
             ],
-            "GL62M-7REX": [
+            "gl62m-7rex": [
                   "1176"
             ],
-            "G3-572": [
+            "g3-572": [
                   "1177"
             ],
-            "AW159321TB8S": [
+            "aw159321tb8s": [
                   "1178"
             ],
-            "E203MAH-FD004T": [
+            "e203mah-fd004t": [
                   "1179",
                   "1249"
             ],
-            "GS65": [
+            "gs65": [
                   "1180"
             ],
-            "X349-M": [
+            "x349-m": [
                   "1181"
             ],
-            "SF314-52": [
+            "sf314-52": [
                   "1182"
             ],
-            "MR942HN/A": [
+            "mr942hn/a": [
                   "1183"
             ],
-            "GL503VD-FY254T": [
+            "gl503vd-fy254t": [
                   "1184"
             ],
-            "15-ce071TX": [
+            "15-ce071tx": [
                   "1185"
             ],
-            "GL553VD-FY103T": [
+            "gl553vd-fy103t": [
                   "1186"
             ],
-            "13-ak0040TU": [
+            "13-ak0040tu": [
                   "1187"
             ],
-            "Y520-15IKBN": [
+            "y520-15ikbn": [
                   "1188"
             ],
-            "15-cx0141TX": [
+            "15-cx0141tx": [
                   "1189"
             ],
-            "E14": [
+            "e14": [
                   "1190"
             ],
-            "GL62-7RD": [
+            "gl62-7rd": [
                   "1191"
             ],
-            "G531GU-ES511T": [
+            "g531gu-es511t": [
                   "1192"
             ],
-            "15-Di0000TX": [
+            "15-di0000tx": [
                   "1193"
             ],
-            "X412FA-EK511T": [
+            "x412fa-ek511t": [
                   "1194"
             ],
-            "NS13A1IN015P": [
+            "ns13a1in015p": [
                   "1195"
             ],
-            "14-da0004TU": [
+            "14-da0004tu": [
                   "1196"
             ],
-            "NS13A1IN014P": [
+            "ns13a1in014p": [
                   "1197"
             ],
             "320e-15ikb-d": [
                   "1198"
             ],
-            "Yoga-900": [
+            "yoga-900": [
                   "1199"
             ],
-            "Y530-15ICH": [
+            "y530-15ich": [
                   "1200"
             ],
-            "NS14A2IN241P": [
+            "ns14a2in241p": [
                   "1201"
             ],
-            "NS14A2IN239P": [
+            "ns14a2in239p": [
                   "1202"
             ],
-            "GX531GWR-ES024T": [
+            "gx531gwr-es024t": [
                   "1203"
             ],
-            "NS14A2IN245P": [
+            "ns14a2in245p": [
                   "1204"
             ],
-            "NS14A2IN244P": [
+            "ns14a2in244p": [
                   "1205"
             ],
-            "AW177161TB8S": [
+            "aw177161tb8s": [
                   "1206"
             ],
-            "NS14A2IN246P": [
+            "ns14a2in246p": [
                   "1207"
             ],
-            "NS14A2IN249P": [
+            "ns14a2in249p": [
                   "1208"
             ],
-            "SF514-52T--59JY": [
+            "sf514-52t--59jy": [
                   "1209"
             ],
-            "NS14A2IN206P": [
+            "ns14a2in206p": [
                   "1210"
             ],
-            "SP714-51": [
+            "sp714-51": [
                   "1211"
             ],
-            "G9-591": [
+            "g9-591": [
                   "1212"
             ],
-            "NS14A2IN187P": [
+            "ns14a2in187p": [
                   "1213"
             ],
-            "UX581GV-H2041T": [
+            "ux581gv-h2041t": [
                   "1214"
             ],
             "5378": [
                   "1215"
             ],
-            "G9-793": [
+            "g9-793": [
                   "1216"
             ],
-            "M509DA-EJ581T": [
+            "m509da-ej581t": [
                   "1217"
             ],
-            "G9-593": [
+            "g9-593": [
                   "1218"
             ],
-            "GL502VM-FY230T": [
+            "gl502vm-fy230t": [
                   "1219"
             ],
-            "13-ap0121TU": [
+            "13-ap0121tu": [
                   "1220"
             ],
-            "15-df1004TX": [
+            "15-df1004tx": [
                   "1221"
             ],
-            "X512FA-EJ372T": [
+            "x512fa-ej372t": [
                   "1222"
             ],
             "7548": [
                   "1223"
             ],
-            "13-ak0049TU": [
+            "13-ak0049tu": [
                   "1224"
             ],
-            "S540-13IML": [
+            "s540-13iml": [
                   "1225"
             ],
-            "X512FA-EJ549T": [
+            "x512fa-ej549t": [
                   "1226"
             ],
             "13-an0045tu": [
@@ -4325,66 +4308,66 @@
             "insp-7386": [
                   "1228"
             ],
-            "S340-15IIL": [
+            "s340-15iil": [
                   "1229"
             ],
             "5584": [
                   "1230"
             ],
-            "14-cd0050TX": [
+            "14-cd0050tx": [
                   "1231"
             ],
             "1867": [
                   "1233"
             ],
-            "UX331FAL-EG075T": [
+            "ux331fal-eg075t": [
                   "1234"
             ],
-            "NS14A2IN223P": [
+            "ns14a2in223p": [
                   "1235"
             ],
-            "NS13A1IN012P": [
+            "ns13a1in012p": [
                   "1236"
             ],
-            "NS14A2IN215P": [
+            "ns14a2in215p": [
                   "1237"
             ],
-            "NS13A1IN013P": [
+            "ns13a1in013p": [
                   "1238"
             ],
-            "NS13A1IN019P": [
+            "ns13a1in019p": [
                   "1239"
             ],
-            "NS14A2IN218P": [
+            "ns14a2in218p": [
                   "1240"
             ],
-            "NS14A2IN220P": [
+            "ns14a2in220p": [
                   "1241"
             ],
-            "NS14A2IN228P": [
+            "ns14a2in228p": [
                   "1242"
             ],
-            "MAi5882SWT": [
+            "mai5882swt": [
                   "1243"
             ],
-            "NS14A2IN225P": [
+            "ns14a2in225p": [
                   "1244"
             ],
-            "UX533FD-A9100T": [
+            "ux533fd-a9100t": [
                   "1245"
             ],
             "insp-7580": [
                   "1246"
             ],
-            "GL63-8RC": [
+            "gl63-8rc": [
                   "1247"
             ],
             "15-cs3006tx": [
                   "1248"
             ]
       },
-      "Multi-Card-Slot": {
-            "Micro-SD-Card-Reader": [
+      "multi-card-slot": {
+            "micro-sd-card-reader": [
                   "1011",
                   "1012",
                   "1014",
@@ -4440,16 +4423,17 @@
                   "1244",
                   "1245"
             ],
-            "SDXC-Card-Reader": [
+            "sdxc-card-reader": [
                   "1013",
                   "1115",
                   "1141",
                   "1170"
             ],
-            "SD-Card-Reader": [
+            "sd-card-reader": [
                   "1016",
                   "1032",
                   "1039",
+                  "1072",
                   "1078",
                   "1095",
                   "1096",
@@ -4477,62 +4461,59 @@
                   "1228",
                   "1246"
             ],
-            "2-in-1-Card-Reader-(SD/MMC)": [
+            "2-in-1-card-reader-(sd/mmc)": [
                   "1058",
                   "1059"
             ],
-            "1-x-micro-SD-card": [
+            "1-x-micro-sd-card": [
                   "1068",
                   "1133"
             ],
-            "1-x-MicroSD": [
+            "1-x-microsd": [
                   "1070"
             ],
-            "SD-Card-reader": [
-                  "1072"
-            ],
-            "3-in-1-Card-Reader": [
+            "3-in-1-card-reader": [
                   "1080"
             ],
-            "Micro-SDXC-Card-Reader": [
+            "micro-sdxc-card-reader": [
                   "1084",
                   "1088",
                   "1093",
                   "1103",
                   "1139"
             ],
-            "SD-Media-Card-Reader": [
+            "sd-media-card-reader": [
                   "1094"
             ],
-            "2-in-1-Card-Reader-(SD,-MMC)": [
+            "2-in-1-card-reader-(sd,-mmc)": [
                   "1109",
                   "1184",
                   "1186",
                   "1219"
             ],
-            "4-in-1-Card-Reader": [
+            "4-in-1-card-reader": [
                   "1132"
             ],
-            "Yes": [
+            "yes": [
                   "1174"
             ],
-            "2-in-1-Card-Reader-(SD,-SDXC)": [
+            "2-in-1-card-reader-(sd,-sdxc)": [
                   "1177",
                   "1218"
             ],
-            "Micro-SD": [
+            "micro-sd": [
                   "1179",
                   "1234",
                   "1249"
             ],
-            "Card-Reader": [
+            "card-reader": [
                   "1216"
             ],
-            "Micro-SD-Media-Card-Reader": [
+            "micro-sd-media-card-reader": [
                   "1221"
             ]
       },
-      "Physical-Damage": [
+      "physical-damage": [
             "1011",
             "1012",
             "1014",
@@ -4572,6 +4553,7 @@
             "1048",
             "1049",
             "1050",
+            "1051",
             "1052",
             "1053",
             "1054",
@@ -4748,7 +4730,7 @@
             "1246",
             "1249"
       ],
-      "Number-of-Cores": {
+      "number-of-cores": {
             "2": [
                   "1011",
                   "1015",
@@ -4954,7 +4936,7 @@
                   "1214"
             ]
       },
-      "OS-Architecture": {
+      "os-architecture": {
             "64-bit": [
                   "1011",
                   "1012",
@@ -5183,8 +5165,8 @@
                   "1249"
             ]
       },
-      "Operating-System": {
-            "Windows-10-Home": [
+      "operating-system": {
+            "windows-10-home": [
                   "1011",
                   "1012",
                   "1014",
@@ -5393,18 +5375,18 @@
                   "1247",
                   "1249"
             ],
-            "Mac-OS-Sierra": [
+            "mac-os-sierra": [
                   "1013",
                   "1153",
                   "1157"
             ],
-            "Mac-OS-Catalina": [
+            "mac-os-catalina": [
                   "1062",
                   "1064",
                   "1077",
                   "1107"
             ],
-            "Mac-OS-Mojave": [
+            "mac-os-mojave": [
                   "1071",
                   "1082",
                   "1126",
@@ -5412,11 +5394,11 @@
                   "1166",
                   "1183"
             ],
-            "Linux": [
+            "linux": [
                   "1076",
                   "1182"
             ],
-            "Windows-10-Pro": [
+            "windows-10-pro": [
                   "1090",
                   "1139",
                   "1161",
@@ -5427,733 +5409,733 @@
                   "1221",
                   "1224"
             ],
-            "Windows-10-Home-in-S-Mode": [
+            "windows-10-home-in-s-mode": [
                   "1093"
             ],
-            "DOS": [
+            "dos": [
                   "1097",
                   "1138"
             ],
-            "Windows-8-Pro": [
+            "windows-8-pro": [
                   "1132"
             ],
-            "Windows-10": [
+            "windows-10": [
                   "1162",
                   "1175",
                   "1248"
             ],
-            "Chrome": [
+            "chrome": [
                   "1196"
             ]
       },
-      "Part-Number": {
-            "90NB0L91-M11350": [
+      "part-number": {
+            "90nb0l91-m11350": [
                   "1011"
             ],
-            "167W1PA#ACJ": [
+            "167w1pa#acj": [
                   "1012"
             ],
-            "MQD32HN/A": [
+            "mqd32hn/a": [
                   "1013"
             ],
-            "7AL87PA#ACJ": [
+            "7al87pa#acj": [
                   "1015"
             ],
-            "90NB0EC6-M15290": [
+            "90nb0ec6-m15290": [
                   "1016"
             ],
-            "90NB0HF7-M41870": [
+            "90nb0hf7-m41870": [
                   "1017"
             ],
-            "90NB0IM6-M23390": [
+            "90nb0im6-m23390": [
                   "1018"
             ],
-            "90NB0IM7-M23400": [
+            "90nb0im7-m23400": [
                   "1019"
             ],
-            "81NB00F6IN": [
+            "81nb00f6in": [
                   "1020"
             ],
-            "90NB0HF6-M41860": [
+            "90nb0hf6-m41860": [
                   "1021"
             ],
-            "90NB0L93-M12020": [
+            "90nb0l93-m12020": [
                   "1022"
             ],
-            "81W800HDIN": [
+            "81w800hdin": [
                   "1023"
             ],
-            "81H700BEIN": [
+            "81h700bein": [
                   "1024"
             ],
-            "81W800B1IN": [
+            "81w800b1in": [
                   "1025"
             ],
-            "81VV00JFIN": [
+            "81vv00jfin": [
                   "1026"
             ],
-            "90NB0HF6-M43560": [
+            "90nb0hf6-m43560": [
                   "1027"
             ],
-            "81W800MCIN": [
+            "81w800mcin": [
                   "1028"
             ],
-            "90NB0M21-M05770": [
+            "90nb0m21-m05770": [
                   "1029"
             ],
-            "9VX05PA#ACJ": [
+            "9vx05pa#acj": [
                   "1030"
             ],
-            "81LK00J2IN": [
+            "81lk00j2in": [
                   "1031"
             ],
-            "NX.HBJSI.001": [
+            "nx.hbjsi.001": [
                   "1032"
             ],
-            "81VD008NIN": [
+            "81vd008nin": [
                   "1033"
             ],
-            "81VV00FNIN": [
+            "81vv00fnin": [
                   "1034"
             ],
-            "8GA82PA#ACJ": [
+            "8ga82pa#acj": [
                   "1035"
             ],
-            "90NB0L93-M14180": [
+            "90nb0l93-m14180": [
                   "1036"
             ],
-            "D560159WIN9S": [
+            "d560159win9s": [
                   "1037"
             ],
-            "NX.HSMSI.001": [
+            "nx.hsmsi.001": [
                   "1038"
             ],
-            "90NB0PB3-M02190": [
+            "90nb0pb3-m02190": [
                   "1039"
             ],
-            "90NB0L92-M04010": [
+            "90nb0l92-m04010": [
                   "1040"
             ],
-            "90NB0L92-M12010": [
+            "90nb0l92-m12010": [
                   "1041"
             ],
-            "9NH09PA#ACJ": [
+            "9nh09pa#acj": [
                   "1042"
             ],
-            "2X017PA": [
+            "2x017pa": [
                   "1043"
             ],
-            "BLK-C566517WIN9": [
+            "blk-c566517win9": [
                   "1044"
             ],
-            "90NB0M22-M05780": [
+            "90nb0m22-m05780": [
                   "1045"
             ],
-            "81VV008TIN": [
+            "81vv008tin": [
                   "1046"
             ],
-            "90NB0QD1-M00460": [
+            "90nb0qd1-m00460": [
                   "1047"
             ],
-            "81LK01J6IN": [
+            "81lk01j6in": [
                   "1048"
             ],
-            "3M184PA#ACJ": [
+            "3m184pa#acj": [
                   "1049"
             ],
-            "81LK01L3IN": [
+            "81lk01l3in": [
                   "1050"
             ],
-            "90NB0KR6-M20440": [
+            "90nb0kr6-m20440": [
                   "1051"
             ],
-            "81Y400BUIN": [
+            "81y400buin": [
                   "1052"
             ],
-            "81Y400BQIN": [
+            "81y400bqin": [
                   "1053"
             ],
-            "81NG002BIN": [
+            "81ng002bin": [
                   "1054"
             ],
-            "7WQ13PA#ACJ": [
+            "7wq13pa#acj": [
                   "1055"
             ],
-            "90NR01L3-M07590": [
+            "90nr01l3-m07590": [
                   "1056"
             ],
-            "90NB0QD2-M01510": [
+            "90nb0qd2-m01510": [
                   "1057"
             ],
-            "90NB0NL1-M08380": [
+            "90nb0nl1-m08380": [
                   "1058",
                   "1059"
             ],
-            "8GA92PA#ACJ": [
+            "8ga92pa#acj": [
                   "1060"
             ],
-            "4NL42PA#ACJ": [
+            "4nl42pa#acj": [
                   "1061"
             ],
-            "MVVK2HN/A": [
+            "mvvk2hn/a": [
                   "1062"
             ],
-            "C552511WIN9": [
+            "c552511win9": [
                   "1063"
             ],
-            "MVVJ2HN/A": [
+            "mvvj2hn/a": [
                   "1064"
             ],
-            "8QG90PA#ACJ": [
+            "8qg90pa#acj": [
                   "1065"
             ],
-            "90NR01L3-M02850": [
+            "90nr01l3-m02850": [
                   "1066"
             ],
-            "90NR01L3-M10540": [
+            "90nr01l3-m10540": [
                   "1067"
             ],
-            "90NB0KR7-M09780": [
+            "90nb0kr7-m09780": [
                   "1068"
             ],
-            "9S7-16W112-293": [
+            "9s7-16w112-293": [
                   "1069"
             ],
-            "90NB0LZ3-M11410": [
+            "90nb0lz3-m11410": [
                   "1070"
             ],
-            "MRE92HN/A": [
+            "mre92hn/a": [
                   "1071"
             ],
-            "90NB0LZ6-M11420": [
+            "90nb0lz6-m11420": [
                   "1072"
             ],
-            "81UT0079IN": [
+            "81ut0079in": [
                   "1073"
             ],
-            "3C465PA#ACJ": [
+            "3c465pa#acj": [
                   "1074"
             ],
-            "9JB01PA#ACJ": [
+            "9jb01pa#acj": [
                   "1075"
             ],
-            "E-C552106UIN9": [
+            "e-c552106uin9": [
                   "1076"
             ],
-            "MVVL2HN/A": [
+            "mvvl2hn/a": [
                   "1077"
             ],
-            "90NB0EC4-M15330": [
+            "90nb0ec4-m15330": [
                   "1078"
             ],
-            "NX.HN5SI.007": [
+            "nx.hn5si.007": [
                   "1079"
             ],
-            "9S7-16R312-460": [
+            "9s7-16r312-460": [
                   "1080"
             ],
-            "90NB0KP1-M05160": [
+            "90nb0kp1-m05160": [
                   "1081"
             ],
-            "MREF2HN/A": [
+            "mref2hn/a": [
                   "1082"
             ],
-            "3C464PA#ACJ": [
+            "3c464pa#acj": [
                   "1083"
             ],
-            "PUV-00028": [
+            "puv-00028": [
                   "1084"
             ],
-            "90NB0L92-M14170": [
+            "90nb0l92-m14170": [
                   "1085"
             ],
-            "90NR01L3-M03820": [
+            "90nr01l3-m03820": [
                   "1086"
             ],
-            "NS14A1IN010P": [
+            "ns14a1in010p": [
                   "1087"
             ],
-            "KJU-00015": [
+            "kju-00015": [
                   "1088"
             ],
-            "BLK-C566515WIN9": [
+            "blk-c566515win9": [
                   "1089"
             ],
-            "1AA32PA": [
+            "1aa32pa": [
                   "1090"
             ],
-            "NS13A2IN206P": [
+            "ns13a2in206p": [
                   "1091"
             ],
-            "90NB0M51-M01740": [
+            "90nb0m51-m01740": [
                   "1092"
             ],
-            "MHN-00015": [
+            "mhn-00015": [
                   "1093"
             ],
-            "2Z324PA/2z324pa#acj": [
+            "2z324pa/2z324pa#acj": [
                   "1094"
             ],
-            "NH.Q49SI.009": [
+            "nh.q49si.009": [
                   "1095"
             ],
-            "NX.H3YSI.006": [
+            "nx.h3ysi.006": [
                   "1096"
             ],
-            "81H7002BIN": [
+            "81h7002bin": [
                   "1097"
             ],
-            "90NR01L3-M09720": [
+            "90nr01l3-m09720": [
                   "1098"
             ],
-            "NS14A1IN501P": [
+            "ns14a1in501p": [
                   "1099"
             ],
-            "81Y400BPIN": [
+            "81y400bpin": [
                   "1100"
             ],
-            "X512FL-EJ502T": [
+            "x512fl-ej502t": [
                   "1101"
             ],
-            "NX.H3YSI.002": [
+            "nx.h3ysi.002": [
                   "1102"
             ],
-            "VDH-00013": [
+            "vdh-00013": [
                   "1103"
             ],
-            "80SV00YCIH": [
+            "80sv00ycih": [
                   "1104"
             ],
-            "NX.HSESI.001": [
+            "nx.hsesi.001": [
                   "1105"
             ],
-            "90NB0MK1-M02570": [
+            "90nb0mk1-m02570": [
                   "1106"
             ],
-            "MVVM2HN/A": [
+            "mvvm2hn/a": [
                   "1107"
             ],
-            "81Y400BNIN": [
+            "81y400bnin": [
                   "1108"
             ],
-            "90NB0N31-M09810": [
+            "90nb0n31-m09810": [
                   "1109"
             ],
-            "UN.HEYSI.003": [
+            "un.heysi.003": [
                   "1110"
             ],
-            "90NB0QE2-M01500": [
+            "90nb0qe2-m01500": [
                   "1112"
             ],
-            "9S7-17C722-039": [
+            "9s7-17c722-039": [
                   "1113"
             ],
-            "WHT-C566518WIN9": [
+            "wht-c566518win9": [
                   "1114"
             ],
-            "90NB0HT3-M02250": [
+            "90nb0ht3-m02250": [
                   "1115"
             ],
-            "90NB0JV3-M02600": [
+            "90nb0jv3-m02600": [
                   "1116"
             ],
-            "8GB02PA#ACJ": [
+            "8gb02pa#acj": [
                   "1117"
             ],
-            "4RJ56PA": [
+            "4rj56pa": [
                   "1118"
             ],
-            "81BV008TIN": [
+            "81bv008tin": [
                   "1119"
             ],
-            "81DE01K0IN": [
+            "81de01k0in": [
                   "1120"
             ],
-            "NX.GU4SI.004": [
+            "nx.gu4si.004": [
                   "1121"
             ],
-            "NX.H3YSI.005": [
+            "nx.h3ysi.005": [
                   "1122"
             ],
-            "81A80090IN": [
+            "81a80090in": [
                   "1123"
             ],
-            "4RJ78PA": [
+            "4rj78pa": [
                   "1124"
             ],
-            "MJX-00024": [
+            "mjx-00024": [
                   "1125"
             ],
-            "MV962HN": [
+            "mv962hn": [
                   "1126"
             ],
-            "13S63PA#ACJ": [
+            "13s63pa#acj": [
                   "1127",
                   "1131"
             ],
-            "90NB0HF7-M41800": [
+            "90nb0hf7-m41800": [
                   "1128"
             ],
-            "90NB0L91-M13450": [
+            "90nb0l91-m13450": [
                   "1129"
             ],
-            "90NR0223-M03600": [
+            "90nr0223-m03600": [
                   "1130"
             ],
             "59-427747": [
                   "1132"
             ],
-            "90NB0M92-M05450": [
+            "90nb0m92-m05450": [
                   "1133"
             ],
-            "90NB0MY2-M03730": [
+            "90nb0my2-m03730": [
                   "1134"
             ],
-            "90NB0GF1-M12420": [
+            "90nb0gf1-m12420": [
                   "1135"
             ],
-            "80YL00R8IN": [
+            "80yl00r8in": [
                   "1136"
             ],
-            "81CT0042IN": [
+            "81ct0042in": [
                   "1137"
             ],
-            "9S7-16J962-1878": [
+            "9s7-16j962-1878": [
                   "1138"
             ],
-            "FJT-00015": [
+            "fjt-00015": [
                   "1139"
             ],
-            "NX.GK4SI.014": [
+            "nx.gk4si.014": [
                   "1140"
             ],
-            "90NB0GF2-M12390": [
+            "90nb0gf2-m12390": [
                   "1141"
             ],
-            "81BV008UIN": [
+            "81bv008uin": [
                   "1142"
             ],
-            "NX.GN2SI.007": [
+            "nx.gn2si.007": [
                   "1143"
             ],
-            "7LG86PA#ACJ": [
+            "7lg86pa#acj": [
                   "1144"
             ],
-            "81F501EMIN": [
+            "81f501emin": [
                   "1145"
             ],
-            "IP-320-15IKB": [
+            "ip-320-15ikb": [
                   "1146"
             ],
-            "90NB0Q91-M00710": [
+            "90nb0q91-m00710": [
                   "1147"
             ],
-            "9S7-16Q211-084": [
+            "9s7-16q211-084": [
                   "1148"
             ],
-            "NX.GVLSI.002": [
+            "nx.gvlsi.002": [
                   "1149"
             ],
-            "9S7-16Q411-636": [
+            "9s7-16q411-636": [
                   "1150"
             ],
-            "GE73-Raider-RGB-8RF-024IN": [
+            "ge73-raider-rgb-8rf-024in": [
                   "1151"
             ],
-            "NH.Q47SI.001": [
+            "nh.q47si.001": [
                   "1152"
             ],
-            "MPTT2HN/A": [
+            "mptt2hn/a": [
                   "1153"
             ],
-            "90NR00J3-M00680": [
+            "90nr00j3-m00680": [
                   "1154"
             ],
-            "NX.GVLSI.001": [
+            "nx.gvlsi.001": [
                   "1155"
             ],
-            "MV932HN": [
+            "mv932hn": [
                   "1156"
             ],
-            "MNYH2HN/A": [
+            "mnyh2hn/a": [
                   "1157"
             ],
-            "NX.HS5SI.001": [
+            "nx.hs5si.001": [
                   "1158"
             ],
-            "2GD83PA#ACJ": [
+            "2gd83pa#acj": [
                   "1159"
             ],
-            "E-SLV-A569109WIN": [
+            "e-slv-a569109win": [
                   "1160"
             ],
-            "NP14N1IN001P": [
+            "np14n1in001p": [
                   "1161"
             ],
-            "81SY00B6IN": [
+            "81sy00b6in": [
                   "1162"
             ],
-            "NP14N1IN002P": [
+            "np14n1in002p": [
                   "1163"
             ],
-            "E-C552107WIN9": [
+            "e-c552107win9": [
                   "1164"
             ],
-            "NP14N1IN003P": [
+            "np14n1in003p": [
                   "1165"
             ],
-            "MV972HN": [
+            "mv972hn": [
                   "1166"
             ],
-            "81BF00KSIN": [
+            "81bf00ksin": [
                   "1167"
             ],
-            "90NB0JV6-M04220": [
+            "90nb0jv6-m04220": [
                   "1168"
             ],
-            "81VV008SIN": [
+            "81vv008sin": [
                   "1169"
             ],
-            "90NB0I83-M01800": [
+            "90nb0i83-m01800": [
                   "1170"
             ],
-            "9S7-16J952-1065": [
+            "9s7-16j952-1065": [
                   "1171"
             ],
-            "9FM75PA#ACJ": [
+            "9fm75pa#acj": [
                   "1172"
             ],
-            "90NR0GN1-M02270": [
+            "90nr0gn1-m02270": [
                   "1173"
             ],
-            "9S7-17C112-086": [
+            "9s7-17c112-086": [
                   "1174"
             ],
-            "81SY00C7IN": [
+            "81sy00c7in": [
                   "1175"
             ],
-            "9S7-16J962-2068": [
+            "9s7-16j962-2068": [
                   "1176"
             ],
-            "NH.Q2CSI.008-/-NH.Q2CSI.001": [
+            "nh.q2csi.008-/-nh.q2csi.001": [
                   "1177"
             ],
-            "B569905WIN9": [
+            "b569905win9": [
                   "1178"
             ],
-            "90NB0J12-M00500": [
+            "90nb0j12-m00500": [
                   "1179",
                   "1249"
             ],
-            "9S7-16Q411-206": [
+            "9s7-16q411-206": [
                   "1180"
             ],
-            "NX.VDFSI.006": [
+            "nx.vdfsi.006": [
                   "1181"
             ],
-            "NX.GQJSI.001": [
+            "nx.gqjsi.001": [
                   "1182"
             ],
-            "MR942HN/A": [
+            "mr942hn/a": [
                   "1183"
             ],
-            "90NB0GQ2-M04040": [
+            "90nb0gq2-m04040": [
                   "1184"
             ],
-            "2GD81PA#ACJ": [
+            "2gd81pa#acj": [
                   "1185"
             ],
-            "90NB0DW3-M01350": [
+            "90nb0dw3-m01350": [
                   "1186"
             ],
-            "6CQ62PA": [
+            "6cq62pa": [
                   "1187"
             ],
-            "80WK014GIN": [
+            "80wk014gin": [
                   "1188"
             ],
-            "4QM21PA": [
+            "4qm21pa": [
                   "1189"
             ],
-            "20RAS0KY00": [
+            "20ras0ky00": [
                   "1190"
             ],
-            "9S7-16J952-640": [
+            "9s7-16j952-640": [
                   "1191"
             ],
-            "90NR01J3-M09730": [
+            "90nr01j3-m09730": [
                   "1192"
             ],
-            "9VX41PA#ACJ": [
+            "9vx41pa#acj": [
                   "1193"
             ],
-            "90NB0L91-M14160": [
+            "90nb0l91-m14160": [
                   "1194"
             ],
-            "NS13A1IN015P": [
+            "ns13a1in015p": [
                   "1195"
             ],
-            "7BY61PA#ACJ": [
+            "7by61pa#acj": [
                   "1196"
             ],
-            "NS13A1IN014P": [
+            "ns13a1in014p": [
                   "1197"
             ],
             "80xl03r9ih": [
                   "1198"
             ],
-            "80UE00BLIH": [
+            "80ue00blih": [
                   "1199"
             ],
-            "81FV00KNIN": [
+            "81fv00knin": [
                   "1200"
             ],
-            "NS14A2IN241P": [
+            "ns14a2in241p": [
                   "1201"
             ],
-            "NS14A2IN239P": [
+            "ns14a2in239p": [
                   "1202"
             ],
-            "90NR02H1-M00380": [
+            "90nr02h1-m00380": [
                   "1203"
             ],
-            "NS14A2IN245P": [
+            "ns14a2in245p": [
                   "1204"
             ],
-            "NS14A2IN244P": [
+            "ns14a2in244p": [
                   "1205"
             ],
-            "B569901WIN9": [
+            "b569901win9": [
                   "1206"
             ],
-            "NS14A2IN246P": [
+            "ns14a2in246p": [
                   "1207"
             ],
-            "NS14A2IN249P": [
+            "ns14a2in249p": [
                   "1208"
             ],
-            "NX.GTMSI.025": [
+            "nx.gtmsi.025": [
                   "1209"
             ],
-            "NS14A2IN206P": [
+            "ns14a2in206p": [
                   "1210"
             ],
-            "NX.GKPSI.002": [
+            "nx.gkpsi.002": [
                   "1211"
             ],
-            "NX.Q0ASI.001": [
+            "nx.q0asi.001": [
                   "1212"
             ],
-            "NS14A2IN187P": [
+            "ns14a2in187p": [
                   "1213"
             ],
-            "90NB0NG1-M03310": [
+            "90nb0ng1-m03310": [
                   "1214"
             ],
-            "A564103SIN9-/-A564101WIN9": [
+            "a564103sin9-/-a564101win9": [
                   "1215"
             ],
-            "NH.Q1TSI.003": [
+            "nh.q1tsi.003": [
                   "1216"
             ],
-            "90NB0P51-M01470": [
+            "90nb0p51-m01470": [
                   "1217"
             ],
-            "NH.Q1YSI.004": [
+            "nh.q1ysi.004": [
                   "1218"
             ],
-            "90NB0DR1-M05560": [
+            "90nb0dr1-m05560": [
                   "1219"
             ],
-            "6DA87PA": [
+            "6da87pa": [
                   "1220"
             ],
-            "8AG42PA": [
+            "8ag42pa": [
                   "1221"
             ],
-            "90NB0KR3-M20430": [
+            "90nb0kr3-m20430": [
                   "1222"
             ],
-            "Y568501HIN9": [
+            "y568501hin9": [
                   "1223"
             ],
-            "7AL93PA": [
+            "7al93pa": [
                   "1224"
             ],
-            "81XA002SIN": [
+            "81xa002sin": [
                   "1225"
             ],
-            "90NB0KR2-M07760": [
+            "90nb0kr2-m07760": [
                   "1226"
             ],
-            "5SE71PA#ACJ": [
+            "5se71pa#acj": [
                   "1227"
             ],
-            "SLV-B565501WIN9": [
+            "slv-b565501win9": [
                   "1228"
             ],
-            "81WL002RIN": [
+            "81wl002rin": [
                   "1229"
             ],
-            "SLV-C568125WIN9": [
+            "slv-c568125win9": [
                   "1230"
             ],
-            "4LR35PA#ACJ": [
+            "4lr35pa#acj": [
                   "1231"
             ],
-            "NX.GK6SI.007": [
+            "nx.gk6si.007": [
                   "1232"
             ],
-            "VGY-00021": [
+            "vgy-00021": [
                   "1233"
             ],
-            "90NB0KD3-M01330": [
+            "90nb0kd3-m01330": [
                   "1234"
             ],
-            "NS14A2IN223P": [
+            "ns14a2in223p": [
                   "1235"
             ],
-            "NS13A1IN012P": [
+            "ns13a1in012p": [
                   "1236"
             ],
-            "NS14A2IN215P": [
+            "ns14a2in215p": [
                   "1237"
             ],
-            "NS13A1IN013P": [
+            "ns13a1in013p": [
                   "1238"
             ],
-            "NS13A1IN019P": [
+            "ns13a1in019p": [
                   "1239"
             ],
-            "NS14A2IN218P": [
+            "ns14a2in218p": [
                   "1240"
             ],
-            "NS14A2IN220P": [
+            "ns14a2in220p": [
                   "1241"
             ],
-            "NS14A2IN228P": [
+            "ns14a2in228p": [
                   "1242"
             ],
-            "MAi5882SWT": [
+            "mai5882swt": [
                   "1243"
             ],
-            "NS14A2IN225P": [
+            "ns14a2in225p": [
                   "1244"
             ],
-            "90NB0JX4-M01940": [
+            "90nb0jx4-m01940": [
                   "1245"
             ],
-            "SLV-B569501WIN9": [
+            "slv-b569501win9": [
                   "1246"
             ],
-            "9S7-16P612-262": [
+            "9s7-16p612-262": [
                   "1247"
             ],
-            "8LX85PA#ACJ": [
+            "8lx85pa#acj": [
                   "1248"
             ]
       },
-      "Touchpad": [
+      "touchpad": [
             "1011",
             "1014",
             "1016",
@@ -6282,8 +6264,8 @@
             "1246",
             "1247"
       ],
-      "Power-Supply": {
-            "45-W-AC-Adapter": [
+      "power-supply": {
+            "45-w-ac-adapter": [
                   "1011",
                   "1014",
                   "1015",
@@ -6333,10 +6315,10 @@
                   "1232",
                   "1234"
             ],
-            "45-W-MagSafe-2-Power-Adapter": [
+            "45-w-magsafe-2-power-adapter": [
                   "1013"
             ],
-            "65-W-AC-Adapter": [
+            "65-w-ac-adapter": [
                   "1018",
                   "1019",
                   "1020",
@@ -6384,7 +6366,7 @@
                   "1231",
                   "1246"
             ],
-            "135-W-AC-Adapter": [
+            "135-w-ac-adapter": [
                   "1031",
                   "1043",
                   "1048",
@@ -6400,7 +6382,7 @@
                   "1221",
                   "1247"
             ],
-            "150-W-AC-Adapter": [
+            "150-w-ac-adapter": [
                   "1056",
                   "1058",
                   "1059",
@@ -6414,17 +6396,17 @@
                   "1184",
                   "1191"
             ],
-            "96-W-AC-Adapter": [
+            "96-w-ac-adapter": [
                   "1062",
                   "1064",
                   "1077",
                   "1107"
             ],
-            "45-W": [
+            "45-w": [
                   "1068",
                   "1070"
             ],
-            "180-W-AC-Adapter": [
+            "180-w-ac-adapter": [
                   "1069",
                   "1113",
                   "1150",
@@ -6432,47 +6414,47 @@
                   "1212",
                   "1219"
             ],
-            "30-W-AC-Adapter": [
+            "30-w-ac-adapter": [
                   "1071",
                   "1082"
             ],
-            "45W": [
+            "45w": [
                   "1072"
             ],
-            "120-W-AC-Adapter": [
+            "120-w-ac-adapter": [
                   "1080",
                   "1154",
                   "1173"
             ],
-            "130-W-AC-Adapter": [
+            "130-w-ac-adapter": [
                   "1089"
             ],
-            "61-W-AC-Adapter": [
+            "61-w-ac-adapter": [
                   "1126",
                   "1166"
             ],
-            "65-W": [
+            "65-w": [
                   "1133"
             ],
-            "87-W-USB-C-Power-Adapter": [
+            "87-w-usb-c-power-adapter": [
                   "1153"
             ],
-            "87-W-AC-Adapter": [
+            "87-w-ac-adapter": [
                   "1156"
             ],
-            "29-W-USB-C-Power-Adapter": [
+            "29-w-usb-c-power-adapter": [
                   "1157"
             ],
-            "48-W-AC-Adapter": [
+            "48-w-ac-adapter": [
                   "1161",
                   "1163",
                   "1165"
             ],
-            "33-W": [
+            "33-w": [
                   "1179",
                   "1249"
             ],
-            "230-W-AC-Adapter": [
+            "230-w-ac-adapter": [
                   "1180",
                   "1192",
                   "1203",
@@ -6480,18 +6462,18 @@
                   "1216",
                   "1218"
             ],
-            "87-W-Power-Adapter": [
+            "87-w-power-adapter": [
                   "1183"
             ],
-            "40-W-AC-Adapter": [
+            "40-w-ac-adapter": [
                   "1226",
                   "1243"
             ],
-            "90-W-AC-Adapter": [
+            "90-w-ac-adapter": [
                   "1245"
             ]
       },
-      "Intel": [
+      "intel": [
             "1011",
             "1013",
             "1014",
@@ -6716,8 +6698,8 @@
             "1248",
             "1249"
       ],
-      "Processor-Generation": {
-            "10th-Gen": [
+      "processor-generation": {
+            "10th-gen": [
                   "1011",
                   "1022",
                   "1023",
@@ -6767,11 +6749,11 @@
                   "1233",
                   "1248"
             ],
-            "5th-Gen": [
+            "5th-gen": [
                   "1013",
                   "1223"
             ],
-            "8th-Gen": [
+            "8th-gen": [
                   "1014",
                   "1015",
                   "1016",
@@ -6870,7 +6852,7 @@
                   "1247",
                   "1249"
             ],
-            "7th-Gen": [
+            "7th-gen": [
                   "1024",
                   "1081",
                   "1087",
@@ -6912,7 +6894,7 @@
                   "1238",
                   "1239"
             ],
-            "9th-Gen": [
+            "9th-gen": [
                   "1031",
                   "1043",
                   "1044",
@@ -6943,22 +6925,22 @@
                   "1214",
                   "1221"
             ],
-            "2nd-Gen": [
+            "2nd-gen": [
                   "1039",
                   "1106"
             ],
-            "6th-Gen": [
+            "6th-gen": [
                   "1090",
                   "1181",
                   "1199",
                   "1212"
             ],
-            "4th-Gen": [
+            "4th-gen": [
                   "1132"
             ]
       },
-      "Processor-Name": {
-            "Core-i3": [
+      "processor-name": {
+            "core-i3": [
                   "1011",
                   "1015",
                   "1022",
@@ -6993,7 +6975,7 @@
                   "1226",
                   "1231"
             ],
-            "Ryzen-5-Quad-Core": [
+            "ryzen-5-quad-core": [
                   "1012",
                   "1020",
                   "1039",
@@ -7005,7 +6987,7 @@
                   "1172",
                   "1217"
             ],
-            "Core-i5": [
+            "core-i5": [
                   "1013",
                   "1014",
                   "1016",
@@ -7124,15 +7106,15 @@
                   "1247",
                   "1248"
             ],
-            "Ryzen-3-Dual-Core": [
+            "ryzen-3-dual-core": [
                   "1030"
             ],
-            "Ryzen-7-Quad-Core": [
+            "ryzen-7-quad-core": [
                   "1042",
                   "1049",
                   "1106"
             ],
-            "Core-i7": [
+            "core-i7": [
                   "1044",
                   "1048",
                   "1053",
@@ -7195,7 +7177,7 @@
                   "1230",
                   "1245"
             ],
-            "Core-i9": [
+            "core-i9": [
                   "1062",
                   "1107",
                   "1156",
@@ -7203,42 +7185,42 @@
                   "1178",
                   "1214"
             ],
-            "Core-M": [
+            "core-m": [
                   "1090"
             ],
-            "Pentium-Gold": [
+            "pentium-gold": [
                   "1093"
             ],
-            "Ryzen-5-Hexa-Core": [
+            "ryzen-5-hexa-core": [
                   "1105"
             ],
-            "Athlon-Dual-Core": [
+            "athlon-dual-core": [
                   "1110"
             ],
-            "SQ1-Octa-Core": [
+            "sq1-octa-core": [
                   "1125"
             ],
-            "Core-m3": [
+            "core-m3": [
                   "1157"
             ],
-            "Celeron-Dual-Core": [
+            "celeron-dual-core": [
                   "1179",
                   "1249"
             ]
       },
-      "Processor-Variant": {
-            "10110U": [
+      "processor-variant": {
+            "10110u": [
                   "1011",
                   "1022",
                   "1035",
                   "1041",
                   "1109"
             ],
-            "3550H": [
+            "3550h": [
                   "1012",
                   "1094"
             ],
-            "8265U": [
+            "8265u": [
                   "1014",
                   "1032",
                   "1040",
@@ -7255,13 +7237,13 @@
                   "1243",
                   "1246"
             ],
-            "8145U": [
+            "8145u": [
                   "1015",
                   "1068",
                   "1129",
                   "1226"
             ],
-            "8250U": [
+            "8250u": [
                   "1016",
                   "1017",
                   "1018",
@@ -7294,7 +7276,7 @@
                   "1242",
                   "1244"
             ],
-            "3500U": [
+            "3500u": [
                   "1020",
                   "1039",
                   "1070",
@@ -7304,7 +7286,7 @@
                   "1172",
                   "1217"
             ],
-            "1035G1": [
+            "1035g1": [
                   "1023",
                   "1028",
                   "1038",
@@ -7316,12 +7298,12 @@
                   "1147",
                   "1229"
             ],
-            "7020U": [
+            "7020u": [
                   "1024",
                   "1081",
                   "1145"
             ],
-            "1005G1": [
+            "1005g1": [
                   "1025",
                   "1026",
                   "1034",
@@ -7331,7 +7313,7 @@
                   "1158",
                   "1169"
             ],
-            "8130U": [
+            "8130u": [
                   "1027",
                   "1033",
                   "1102",
@@ -7340,7 +7322,7 @@
                   "1213",
                   "1231"
             ],
-            "10210U": [
+            "10210u": [
                   "1029",
                   "1036",
                   "1045",
@@ -7353,10 +7335,10 @@
                   "1194",
                   "1225"
             ],
-            "3200U": [
+            "3200u": [
                   "1030"
             ],
-            "9300H": [
+            "9300h": [
                   "1031",
                   "1043",
                   "1050",
@@ -7369,10 +7351,10 @@
                   "1144",
                   "1192"
             ],
-            "3750H": [
+            "3750h": [
                   "1042"
             ],
-            "9750H": [
+            "9750h": [
                   "1044",
                   "1066",
                   "1069",
@@ -7384,36 +7366,36 @@
                   "1203",
                   "1221"
             ],
-            "9750HF": [
+            "9750hf": [
                   "1048"
             ],
-            "3700U": [
+            "3700u": [
                   "1049",
                   "1106"
             ],
-            "10300H": [
+            "10300h": [
                   "1052",
                   "1108"
             ],
-            "10750H": [
+            "10750h": [
                   "1053",
                   "1100"
             ],
-            "NA": [
+            "na": [
                   "1062",
                   "1064",
                   "1077",
                   "1107"
             ],
-            "1011U": [
+            "1011u": [
                   "1063"
             ],
-            "1035G4": [
+            "1035g4": [
                   "1074",
                   "1075",
                   "1084"
             ],
-            "7Y54": [
+            "7y54": [
                   "1087",
                   "1099",
                   "1143",
@@ -7424,16 +7406,16 @@
                   "1238",
                   "1239"
             ],
-            "8650U": [
+            "8650u": [
                   "1088"
             ],
-            "M5-6Y54": [
+            "m5-6y54": [
                   "1090"
             ],
-            "4415Y": [
+            "4415y": [
                   "1093"
             ],
-            "8750H": [
+            "8750h": [
                   "1095",
                   "1113",
                   "1118",
@@ -7445,7 +7427,7 @@
                   "1200",
                   "1206"
             ],
-            "7200U": [
+            "7200u": [
                   "1104",
                   "1136",
                   "1146",
@@ -7453,19 +7435,19 @@
                   "1155",
                   "1198"
             ],
-            "4500U": [
+            "4500u": [
                   "1105"
             ],
-            "300U": [
+            "300u": [
                   "1110"
             ],
-            "8565U": [
+            "8565u": [
                   "1116",
                   "1133",
                   "1230",
                   "1245"
             ],
-            "8550U": [
+            "8550u": [
                   "1119",
                   "1141",
                   "1165",
@@ -7476,20 +7458,20 @@
                   "1207",
                   "1208"
             ],
-            "7500U": [
+            "7500u": [
                   "1123"
             ],
-            "SQ1": [
+            "sq1": [
                   "1125"
             ],
-            "1065G7": [
+            "1065g7": [
                   "1127",
                   "1131"
             ],
-            "4200U": [
+            "4200u": [
                   "1132"
             ],
-            "7700HQ": [
+            "7700hq": [
                   "1138",
                   "1171",
                   "1173",
@@ -7503,59 +7485,59 @@
                   "1218",
                   "1219"
             ],
-            "7300U": [
+            "7300u": [
                   "1139"
             ],
-            "7100U": [
+            "7100u": [
                   "1140",
                   "1215"
             ],
-            "8300H": [
+            "8300h": [
                   "1154",
                   "1189",
                   "1247"
             ],
-            "7300HQ": [
+            "7300hq": [
                   "1159",
                   "1177",
                   "1185"
             ],
-            "8950HK": [
+            "8950hk": [
                   "1170",
                   "1178"
             ],
-            "N4000": [
+            "n4000": [
                   "1179",
                   "1249"
             ],
-            "6006U": [
+            "6006u": [
                   "1181"
             ],
-            "8500Y": [
+            "8500y": [
                   "1187",
                   "1224"
             ],
-            "6560U": [
+            "6560u": [
                   "1199"
             ],
-            "7Y75": [
+            "7y75": [
                   "1211"
             ],
-            "6700HQ": [
+            "6700hq": [
                   "1212"
             ],
-            "9980HK": [
+            "9980hk": [
                   "1214"
             ],
-            "5200U": [
+            "5200u": [
                   "1223"
             ],
-            "1035G7": [
+            "1035g7": [
                   "1233"
             ]
       },
-      "RAM": {
-            "4-GB": [
+      "ram": {
+            "4-gb": [
                   "1011",
                   "1015",
                   "1022",
@@ -7594,7 +7576,7 @@
                   "1226",
                   "1231"
             ],
-            "8-GB": [
+            "8-gb": [
                   "1012",
                   "1013",
                   "1014",
@@ -7765,7 +7747,7 @@
                   "1247",
                   "1248"
             ],
-            "16-GB": [
+            "16-gb": [
                   "1062",
                   "1064",
                   "1069",
@@ -7795,20 +7777,20 @@
                   "1224",
                   "1245"
             ],
-            "32-GB": [
+            "32-gb": [
                   "1178",
                   "1214"
             ],
-            "2-GB": [
+            "2-gb": [
                   "1179",
                   "1249"
             ],
-            "24-GB": [
+            "24-gb": [
                   "1203"
             ]
       },
-      "RAM-Type": {
-            "DDR4": [
+      "ram-type": {
+            "ddr4": [
                   "1011",
                   "1012",
                   "1014",
@@ -8010,7 +7992,7 @@
                   "1248",
                   "1249"
             ],
-            "DDR3": [
+            "ddr3": [
                   "1013",
                   "1016",
                   "1071",
@@ -8046,18 +8028,18 @@
                   "1238",
                   "1239"
             ],
-            "LPDDR4X": [
+            "lpddr4x": [
                   "1084",
                   "1103",
                   "1125",
                   "1233"
             ],
-            "LPDDR3": [
+            "lpddr3": [
                   "1243"
             ]
       },
-      "SSD": {
-            "Yes": [
+      "ssd": {
+            "yes": [
                   "1011",
                   "1013",
                   "1014",
@@ -8248,7 +8230,7 @@
                   "1246",
                   "1248"
             ],
-            "No": [
+            "no": [
                   "1012",
                   "1017",
                   "1018",
@@ -8301,8 +8283,8 @@
                   "1249"
             ]
       },
-      "SSD-Capacity": {
-            "256-GB": [
+      "ssd-capacity": {
+            "256-gb": [
                   "1011",
                   "1014",
                   "1015",
@@ -8382,7 +8364,7 @@
                   "1243",
                   "1248"
             ],
-            "128-GB": [
+            "128-gb": [
                   "1013",
                   "1042",
                   "1061",
@@ -8411,7 +8393,7 @@
                   "1233",
                   "1246"
             ],
-            "512-GB": [
+            "512-gb": [
                   "1032",
                   "1038",
                   "1039",
@@ -8484,7 +8466,7 @@
                   "1242",
                   "1244"
             ],
-            "1-TB": [
+            "1-tb": [
                   "1056",
                   "1062",
                   "1067",
@@ -8498,14 +8480,15 @@
                   "1214",
                   "1245"
             ],
-            "8-GB": [
+            "8-gb": [
                   "1231"
             ]
       },
-      "Screen-Resolution": {
-            "1920-x-1080-Pixel": [
+      "screen-resolution": {
+            "1920-x-1080-pixel": [
                   "1011",
                   "1012",
+                  "1014",
                   "1016",
                   "1017",
                   "1018",
@@ -8556,6 +8539,7 @@
                   "1066",
                   "1067",
                   "1069",
+                  "1072",
                   "1073",
                   "1074",
                   "1075",
@@ -8576,6 +8560,7 @@
                   "1098",
                   "1099",
                   "1100",
+                  "1101",
                   "1102",
                   "1105",
                   "1106",
@@ -8600,11 +8585,13 @@
                   "1129",
                   "1130",
                   "1131",
+                  "1133",
                   "1134",
                   "1135",
                   "1136",
                   "1137",
                   "1138",
+                  "1140",
                   "1141",
                   "1142",
                   "1143",
@@ -8627,6 +8614,7 @@
                   "1167",
                   "1168",
                   "1169",
+                  "1171",
                   "1172",
                   "1173",
                   "1174",
@@ -8637,10 +8625,12 @@
                   "1182",
                   "1184",
                   "1185",
+                  "1186",
                   "1187",
                   "1188",
                   "1189",
                   "1190",
+                  "1191",
                   "1192",
                   "1193",
                   "1194",
@@ -8659,6 +8649,7 @@
                   "1209",
                   "1210",
                   "1213",
+                  "1215",
                   "1216",
                   "1217",
                   "1218",
@@ -8685,36 +8676,30 @@
                   "1244",
                   "1245",
                   "1246",
-                  "1247"
-            ],
-            "1440-x-900-Pixel": [
-                  "1013"
-            ],
-            "1920-x-1080-pixel": [
-                  "1014",
-                  "1072",
-                  "1101",
-                  "1133",
-                  "1140",
-                  "1171",
-                  "1186",
-                  "1191",
-                  "1215",
+                  "1247",
                   "1248"
             ],
-            "1366-x-768-Pixel": [
+            "1440-x-900-pixel": [
+                  "1013"
+            ],
+            "1366-x-768-pixel": [
                   "1015",
                   "1076",
                   "1097",
+                  "1104",
                   "1120",
+                  "1132",
                   "1146",
                   "1164",
-                  "1198"
+                  "1181",
+                  "1198",
+                  "1223"
             ],
             "1920x1080-pixel": [
-                  "1051"
+                  "1051",
+                  "1211"
             ],
-            "3072-x-1920-Pixel": [
+            "3072-x-1920-pixel": [
                   "1062",
                   "1064",
                   "1077",
@@ -8725,14 +8710,14 @@
                   "1070",
                   "1162"
             ],
-            "2560-x-1600-Pixel": [
+            "2560-x-1600-pixel": [
                   "1071",
                   "1082",
                   "1126",
                   "1166",
                   "1225"
             ],
-            "2736-x-1824-Pixel": [
+            "2736-x-1824-pixel": [
                   "1084",
                   "1088",
                   "1103",
@@ -8741,32 +8726,25 @@
             "1920-x-1280-pixel": [
                   "1090"
             ],
-            "1800-x-1200-Pixel": [
+            "1800-x-1200-pixel": [
                   "1093"
             ],
-            "1366-x-768-pixel": [
-                  "1104",
-                  "1181",
-                  "1223"
-            ],
-            "2880-x-1920-Pixel": [
+            "2880-x-1920-pixel": [
                   "1125"
-            ],
-            "1366-X-768-pixel": [
-                  "1132"
             ],
             "2800-x-1800-pixel": [
                   "1153"
             ],
-            "2880-x-1800-Pixel": [
+            "2880-x-1800-pixel": [
                   "1156",
                   "1183"
             ],
             "2304-x-1440-pixel": [
                   "1157"
             ],
-            "3840-x-2160-Pixel": [
+            "3840-x-2160-pixel": [
                   "1170",
+                  "1212",
                   "1214",
                   "1221"
             ],
@@ -8780,20 +8758,14 @@
             "3200-x-1800-pixel": [
                   "1199"
             ],
-            "1920X1080-pixel": [
-                  "1211"
-            ],
-            "3840-X-2160-pixel": [
-                  "1212"
-            ],
-            "1920\u00c3\u20141080-pixel": [
+            "1920\u00e3\u20141080-pixel": [
                   "1222"
             ],
-            "2256-x-1504-Pixel": [
+            "2256-x-1504-pixel": [
                   "1233"
             ]
       },
-      "Screen-Size": {
+      "screen-size": {
             "35.56-cm-(14-inch)": [
                   "1011",
                   "1014",
@@ -9060,8 +9032,8 @@
                   "1233"
             ]
       },
-      "Security-Chip": {
-            "TPM": [
+      "security-chip": {
+            "tpm": [
                   "1011",
                   "1016",
                   "1017",
@@ -9100,7 +9072,7 @@
                   "1233",
                   "1234"
             ],
-            "Trusted-Platform-Module-(TPM)": [
+            "trusted-platform-module-(tpm)": [
                   "1014",
                   "1115",
                   "1139",
@@ -9109,7 +9081,7 @@
                   "1170",
                   "1232"
             ],
-            "TPM-2.0": [
+            "tpm-2.0": [
                   "1020",
                   "1023",
                   "1025",
@@ -9134,14 +9106,14 @@
                   "1225",
                   "1229"
             ],
-            "Apple-T2-Security-Chip": [
+            "apple-t2-security-chip": [
                   "1126",
                   "1156",
                   "1166"
             ]
       },
-      "Series": {
-            "VivoBook-14": [
+      "series": {
+            "vivobook-14": [
                   "1011",
                   "1022",
                   "1029",
@@ -9155,38 +9127,42 @@
                   "1129",
                   "1194"
             ],
-            "Pavilion-Gaming": [
+            "pavilion-gaming": [
                   "1012",
                   "1043"
             ],
-            "MacBook-Air": [
+            "macbook-air": [
                   "1013",
                   "1071",
                   "1082"
             ],
-            "VivoBook-S-Series": [
+            "vivobook-s-series": [
                   "1014"
             ],
-            "Pavilion-x360": [
+            "pavilion-x360": [
                   "1015",
                   "1060",
                   "1061",
                   "1117",
                   "1231"
             ],
-            "ZenBook": [
+            "zenbook": [
                   "1016",
                   "1078"
             ],
-            "VivoBook-15": [
+            "vivobook-15": [
                   "1017",
                   "1018",
                   "1019",
                   "1021",
+                  "1068",
+                  "1070",
+                  "1072",
                   "1128",
+                  "1133",
                   "1226"
             ],
-            "Ideapad-S340": [
+            "ideapad-s340": [
                   "1020",
                   "1026",
                   "1034",
@@ -9194,14 +9170,14 @@
                   "1169",
                   "1229"
             ],
-            "Ideapad-S145": [
+            "ideapad-s145": [
                   "1023",
                   "1025",
                   "1028",
                   "1033",
                   "1073"
             ],
-            "Ideapad-130": [
+            "ideapad-130": [
                   "1024",
                   "1097"
             ],
@@ -9209,12 +9185,12 @@
                   "1030",
                   "1049"
             ],
-            "Ideapad-L340": [
+            "ideapad-l340": [
                   "1031",
                   "1048",
                   "1050"
             ],
-            "Swift-3": [
+            "swift-3": [
                   "1032",
                   "1096",
                   "1102",
@@ -9223,50 +9199,50 @@
                   "1122",
                   "1182"
             ],
-            "Pavilion-x360-14": [
+            "pavilion-x360-14": [
                   "1035"
             ],
-            "Inspiron-3000": [
+            "inspiron-3000": [
                   "1037",
                   "1114"
             ],
-            "Aspire-5": [
+            "aspire-5": [
                   "1038",
                   "1079",
                   "1149",
                   "1155"
             ],
-            "ZenBook-14": [
+            "zenbook-14": [
                   "1039"
             ],
-            "Pavilion": [
+            "pavilion": [
                   "1042",
                   "1094",
                   "1144",
                   "1189",
                   "1248"
             ],
-            "G3": [
+            "g3": [
                   "1044",
                   "1089"
             ],
-            "X512FA": [
+            "x512fa": [
                   "1051",
                   "1222"
             ],
-            "IdeaPad-Gaming-3i": [
+            "ideapad-gaming-3i": [
                   "1052",
                   "1053",
                   "1100"
             ],
-            "Ideapad-S540": [
+            "ideapad-s540": [
                   "1054",
                   "1225"
             ],
             "15q": [
                   "1055"
             ],
-            "ROG-Strix-G": [
+            "rog-strix-g": [
                   "1056",
                   "1066",
                   "1067",
@@ -9275,11 +9251,11 @@
                   "1130",
                   "1192"
             ],
-            "VivoBook-Gaming": [
+            "vivobook-gaming": [
                   "1058",
                   "1059"
             ],
-            "MacBook-Pro": [
+            "macbook-pro": [
                   "1062",
                   "1064",
                   "1077",
@@ -9287,22 +9263,17 @@
                   "1126",
                   "1153",
                   "1156",
-                  "1166"
+                  "1166",
+                  "1183"
             ],
-            "Vostro-3000": [
+            "vostro-3000": [
                   "1063",
                   "1164"
             ],
-            "Pavilion-14-ce": [
+            "pavilion-14-ce": [
                   "1065"
             ],
-            "Vivobook-15": [
-                  "1068",
-                  "1070",
-                  "1072",
-                  "1133"
-            ],
-            "G": [
+            "g": [
                   "1069"
             ],
             "14s": [
@@ -9311,22 +9282,22 @@
                   "1127",
                   "1131"
             ],
-            "Spectre-x360": [
+            "spectre-x360": [
                   "1075",
                   "1220",
                   "1221"
             ],
-            "Vostro-14-3000": [
+            "vostro-14-3000": [
                   "1076"
             ],
-            "GF63-Thin": [
+            "gf63-thin": [
                   "1080"
             ],
-            "Surface-Pro-7": [
+            "surface-pro-7": [
                   "1084",
                   "1103"
             ],
-            "Liber": [
+            "liber": [
                   "1087",
                   "1091",
                   "1099",
@@ -9350,13 +9321,13 @@
                   "1242",
                   "1244"
             ],
-            "Surface-Pro-6": [
+            "surface-pro-6": [
                   "1088"
             ],
-            "Surface-Go": [
+            "surface-go": [
                   "1093"
             ],
-            "Nitro-5": [
+            "nitro-5": [
                   "1095"
             ],
             "15": [
@@ -9366,198 +9337,195 @@
                   "1178",
                   "1193"
             ],
-            "ZenBook-Flip-14": [
+            "zenbook-flip-14": [
                   "1106"
             ],
-            "IdeaPad-Gaming-3": [
+            "ideapad-gaming-3": [
                   "1108"
             ],
-            "VivoBook-Flip-14": [
+            "vivobook-flip-14": [
                   "1109"
             ],
-            "Inspiron-13-7000-Series": [
+            "inspiron-13-7000-series": [
                   "1111",
                   "1228"
             ],
-            "ZenBook-13": [
+            "zenbook-13": [
                   "1115",
                   "1116",
                   "1168",
                   "1234"
             ],
-            "Ideapad-720S": [
+            "ideapad-720s": [
                   "1119",
                   "1142"
             ],
-            "Ideapad-330": [
+            "ideapad-330": [
                   "1120"
             ],
-            "Swift-5": [
+            "swift-5": [
                   "1121",
                   "1209"
             ],
-            "Surface-Pro-X": [
+            "surface-pro-x": [
                   "1125"
             ],
-            "VivoBook-S14": [
+            "vivobook-s14": [
                   "1135",
                   "1141"
             ],
-            "Yoga-730": [
+            "yoga-730": [
                   "1137"
             ],
-            "GL": [
+            "gl": [
                   "1138",
                   "1171",
                   "1176",
                   "1191"
             ],
-            "Surface-Pro": [
+            "surface-pro": [
                   "1139"
             ],
-            "Spin-5": [
+            "spin-5": [
                   "1140"
             ],
-            "Swift-7": [
+            "swift-7": [
                   "1143",
                   "1232"
             ],
-            "Ideapad-330s": [
+            "ideapad-330s": [
                   "1145"
             ],
-            "Ideapad": [
+            "ideapad": [
                   "1146"
             ],
-            "GS": [
+            "gs": [
                   "1148"
             ],
-            "GE": [
+            "ge": [
                   "1151"
             ],
-            "Predator-Helios-300": [
+            "predator-helios-300": [
                   "1152",
                   "1177"
             ],
-            "TUF": [
+            "tuf": [
                   "1154"
             ],
-            "MacBook": [
+            "macbook": [
                   "1157"
             ],
-            "Aspire-3": [
+            "aspire-3": [
                   "1158"
             ],
-            "Omen": [
+            "omen": [
                   "1159",
                   "1185"
             ],
-            "Inspiron-15-7000": [
+            "inspiron-15-7000": [
                   "1160"
             ],
-            "Legion-Y-Series": [
+            "legion-y-series": [
                   "1162"
             ],
-            "Ideapad-520": [
+            "ideapad-520": [
                   "1167"
             ],
-            "ZenBook-Pro-15": [
+            "zenbook-pro-15": [
                   "1170"
             ],
-            "Envy-13": [
+            "envy-13": [
                   "1172"
             ],
-            "FX503": [
+            "fx503": [
                   "1173"
             ],
-            "Legion": [
+            "legion": [
                   "1175"
             ],
-            "Vivobook": [
+            "vivobook": [
                   "1179",
                   "1249"
             ],
-            "Stealth": [
+            "stealth": [
                   "1180"
             ],
-            "Aspire": [
+            "aspire": [
                   "1181"
             ],
-            "Macbook-Pro": [
-                  "1183"
-            ],
-            "ROG-Strix-Edition": [
+            "rog-strix-edition": [
                   "1184"
             ],
-            "ROG": [
+            "rog": [
                   "1186",
                   "1219"
             ],
-            "Spectre-Folio-x360": [
+            "spectre-folio-x360": [
                   "1187"
             ],
-            "Legion-Y520": [
+            "legion-y520": [
                   "1188"
             ],
-            "ThinkPad-E14": [
+            "thinkpad-e14": [
                   "1190"
             ],
-            "Chromebook-x360": [
+            "chromebook-x360": [
                   "1196"
             ],
-            "Ideapad-320E": [
+            "ideapad-320e": [
                   "1198"
             ],
-            "Legion-Y530": [
+            "legion-y530": [
                   "1200"
             ],
-            "ROG-Zephyrus-S": [
+            "rog-zephyrus-s": [
                   "1203"
             ],
             "17": [
                   "1206"
             ],
-            "Spin-7": [
+            "spin-7": [
                   "1211"
             ],
-            "ZenBook-Pro-Duo": [
+            "zenbook-pro-duo": [
                   "1214"
             ],
-            "Inspiron-13-5000-Series": [
+            "inspiron-13-5000-series": [
                   "1215"
             ],
-            "Predator-17": [
+            "predator-17": [
                   "1216"
             ],
-            "Predator-15": [
+            "predator-15": [
                   "1218"
             ],
-            "Spectre-Folio": [
+            "spectre-folio": [
                   "1224"
             ],
-            "Pavilion-13": [
+            "pavilion-13": [
                   "1227"
             ],
-            "Inspiron-5000": [
+            "inspiron-5000": [
                   "1230"
             ],
-            "Surface-Laptop-3": [
+            "surface-laptop-3": [
                   "1233"
             ],
-            "Falkon-Aerbook": [
+            "falkon-aerbook": [
                   "1243"
             ],
-            "ZenBook-15": [
+            "zenbook-15": [
                   "1245"
             ],
-            "Inspiron-15-7000-Series": [
+            "inspiron-15-7000-series": [
                   "1246"
             ],
-            "GL-Series": [
+            "gl-series": [
                   "1247"
             ]
       },
-      "Sound-Properties": {
-            "Sonic-Master": [
+      "sound-properties": {
+            "sonic-master": [
                   "1011",
                   "1022",
                   "1029",
@@ -9576,13 +9544,15 @@
                   "1133",
                   "1135",
                   "1141",
+                  "1179",
                   "1194",
-                  "1226"
+                  "1226",
+                  "1249"
             ],
-            "Bang-and-Olufsen-Sound": [
+            "bang-and-olufsen-sound": [
                   "1012"
             ],
-            "Stereo-Speakers": [
+            "stereo-speakers": [
                   "1013",
                   "1071",
                   "1082",
@@ -9592,10 +9562,10 @@
                   "1157",
                   "1158"
             ],
-            "Audio-by-ICEpower,-Sonic-Focus": [
+            "audio-by-icepower,-sonic-focus": [
                   "1014"
             ],
-            "Sonic-Master,-Audio-by-ICEpower": [
+            "sonic-master,-audio-by-icepower": [
                   "1017",
                   "1018",
                   "1019",
@@ -9603,16 +9573,16 @@
                   "1134",
                   "1217"
             ],
-            "2-x-1.5-W-Stereo-Speakers": [
+            "2-x-1.5-w-stereo-speakers": [
                   "1023",
                   "1028",
                   "1048"
             ],
-            "2-x-2-W-Stereo-Speakers": [
+            "2-x-2-w-stereo-speakers": [
                   "1026",
                   "1069"
             ],
-            "Audio-by-ICEpower,-Sonic-Master": [
+            "audio-by-icepower,-sonic-master": [
                   "1027",
                   "1047",
                   "1057",
@@ -9621,31 +9591,31 @@
                   "1186",
                   "1219"
             ],
-            "Waves-Maxx-Audio-Pro": [
+            "waves-maxx-audio-pro": [
                   "1037",
                   "1044",
                   "1089",
                   "1114",
                   "1230"
             ],
-            "2-x-1.5-W-Speakers": [
+            "2-x-1.5-w-speakers": [
                   "1056",
                   "1066",
                   "1086",
                   "1199"
             ],
-            "Waves-Maxx-Audio": [
+            "waves-maxx-audio": [
                   "1063",
                   "1164"
             ],
-            "2-x-1.5-W-Speaker": [
+            "2-x-1.5-w-speaker": [
                   "1067",
                   "1098"
             ],
-            "2-x-2-W-Speakers,-Audio-Boost-2": [
+            "2-x-2-w-speakers,-audio-boost-2": [
                   "1080"
             ],
-            "2-x-1-W-Stereo-Speaker": [
+            "2-x-1-w-stereo-speaker": [
                   "1087",
                   "1195",
                   "1197",
@@ -9666,59 +9636,55 @@
                   "1242",
                   "1244"
             ],
-            "2-x-1-W-Stereo-Speakers": [
+            "2-x-1-w-stereo-speakers": [
                   "1091",
                   "1099",
                   "1210"
             ],
-            "2-x-3-W-Speakers": [
+            "2-x-3-w-speakers": [
                   "1113"
             ],
-            "Harmon-/-Kardon-Speaker": [
+            "harmon-/-kardon-speaker": [
                   "1115"
             ],
-            "JBL-Spekers,-Dolby-Atmos": [
+            "jbl-spekers,-dolby-atmos": [
                   "1137"
             ],
-            "Audio-Boost,-4-x-2-W-Speakers": [
+            "audio-boost,-4-x-2-w-speakers": [
                   "1138"
             ],
-            "Sonic-Master,-Cortana-Support": [
+            "sonic-master,-cortana-support": [
                   "1147"
             ],
-            "2-x-2-W-Speakers,-ESS-Sabre-HiFi": [
+            "2-x-2-w-speakers,-ess-sabre-hifi": [
                   "1148"
             ],
-            "2-x-2-W-Speakers": [
+            "2-x-2-w-speakers": [
                   "1150"
             ],
-            "Dolby-Audio-Premium-Sound": [
+            "dolby-audio-premium-sound": [
                   "1161",
                   "1163",
                   "1165"
             ],
-            "4-x-2-W-Speakers": [
+            "4-x-2-w-speakers": [
                   "1176"
             ],
-            "Sonic-MASTER": [
-                  "1179",
-                  "1249"
-            ],
-            "2-x-4-W-Speakers": [
+            "2-x-4-w-speakers": [
                   "1192"
             ],
-            "Audio-by-Bang-and-Olufsen-Play": [
+            "audio-by-bang-and-olufsen-play": [
                   "1196"
             ],
-            "2-x-2-W-with-Smart-AMP-Speakers": [
+            "2-x-2-w-with-smart-amp-speakers": [
                   "1203"
             ],
-            "Bang-and-Olufsen,-HP-Audio-Boost": [
+            "bang-and-olufsen,-hp-audio-boost": [
                   "1221"
             ]
       },
-      "Speakers": {
-            "Built-in-Speakers": [
+      "speakers": {
+            "built-in-speakers": [
                   "1011",
                   "1013",
                   "1014",
@@ -9778,7 +9744,7 @@
                   "1245",
                   "1246"
             ],
-            "Built-in-Dual-Speakers": [
+            "built-in-dual-speakers": [
                   "1012",
                   "1015",
                   "1020",
@@ -9912,7 +9878,7 @@
                   "1244",
                   "1247"
             ],
-            "Built-in-Speaker": [
+            "built-in-speaker": [
                   "1017",
                   "1018",
                   "1019",
@@ -9934,13 +9900,13 @@
                   "1219",
                   "1243"
             ],
-            "Built-in-Quad-Speaker": [
+            "built-in-quad-speaker": [
                   "1039"
             ],
-            "Inbuilt": [
+            "inbuilt": [
                   "1068"
             ],
-            "Built-in-Quad-Speakers": [
+            "built-in-quad-speakers": [
                   "1075",
                   "1138",
                   "1172",
@@ -9951,26 +9917,26 @@
                   "1221",
                   "1224"
             ],
-            "Dual-Speakers": [
+            "dual-speakers": [
                   "1090",
                   "1104",
                   "1174",
                   "1199"
             ],
-            "Yes": [
+            "yes": [
                   "1132",
                   "1212",
                   "1223"
             ],
-            "Quad-Speakers": [
+            "quad-speakers": [
                   "1171",
                   "1191"
             ],
-            "2-x-Built-in-Stereo-Speakers": [
+            "2-x-built-in-stereo-speakers": [
                   "1211"
             ]
       },
-      "Processing-&-Multitasking": [
+      "processing-&-multitasking": [
             "1011",
             "1014",
             "1015",
@@ -10131,7 +10097,7 @@
             "1245",
             "1246"
       ],
-      "System-Architecture": {
+      "system-architecture": {
             "64-bit": [
                   "1011",
                   "1012",
@@ -10186,7 +10152,10 @@
                   "1065",
                   "1066",
                   "1067",
+                  "1068",
                   "1069",
+                  "1070",
+                  "1072",
                   "1073",
                   "1074",
                   "1075",
@@ -10240,6 +10209,7 @@
                   "1130",
                   "1131",
                   "1132",
+                  "1133",
                   "1134",
                   "1135",
                   "1136",
@@ -10280,6 +10250,7 @@
                   "1176",
                   "1177",
                   "1178",
+                  "1179",
                   "1180",
                   "1181",
                   "1183",
@@ -10343,19 +10314,12 @@
                   "1244",
                   "1245",
                   "1246",
-                  "1247"
-            ],
-            "64-Bit": [
-                  "1068",
-                  "1070",
-                  "1072",
-                  "1133",
-                  "1179",
+                  "1247",
                   "1249"
             ]
       },
-      "Touchscreen": {
-            "No": [
+      "touchscreen": {
+            "no": [
                   "1011",
                   "1012",
                   "1013",
@@ -10563,7 +10527,7 @@
                   "1248",
                   "1249"
             ],
-            "Yes": [
+            "yes": [
                   "1015",
                   "1035",
                   "1060",
@@ -10599,8 +10563,8 @@
                   "1233"
             ]
       },
-      "Type": {
-            "Thin-and-Light-Laptop": [
+      "type": {
+            "thin-and-light-laptop": [
                   "1011",
                   "1013",
                   "1014",
@@ -10695,7 +10659,7 @@
                   "1244",
                   "1249"
             ],
-            "Gaming-Laptop": [
+            "gaming-laptop": [
                   "1012",
                   "1031",
                   "1042",
@@ -10755,7 +10719,7 @@
                   "1219",
                   "1247"
             ],
-            "2-in-1-Laptop": [
+            "2-in-1-laptop": [
                   "1015",
                   "1035",
                   "1060",
@@ -10782,7 +10746,7 @@
                   "1228",
                   "1231"
             ],
-            "Laptop": [
+            "laptop": [
                   "1017",
                   "1018",
                   "1019",
@@ -10846,12 +10810,12 @@
                   "1246",
                   "1248"
             ],
-            "Business-Laptop": [
+            "business-laptop": [
                   "1132"
             ]
       },
-      "Warranty-Service-Type": {
-            "Onsite": [
+      "warranty-service-type": {
+            "onsite": [
                   "1011",
                   "1012",
                   "1014",
@@ -10907,7 +10871,9 @@
                   "1065",
                   "1066",
                   "1067",
+                  "1068",
                   "1070",
+                  "1072",
                   "1073",
                   "1074",
                   "1075",
@@ -10960,6 +10926,7 @@
                   "1129",
                   "1130",
                   "1131",
+                  "1133",
                   "1134",
                   "1135",
                   "1136",
@@ -11044,7 +11011,7 @@
                   "1248",
                   "1249"
             ],
-            "Carry-In": [
+            "carry-in": [
                   "1013",
                   "1069",
                   "1071",
@@ -11058,6 +11025,8 @@
                   "1148",
                   "1150",
                   "1151",
+                  "1153",
+                  "1157",
                   "1171",
                   "1174",
                   "1176",
@@ -11085,24 +11054,15 @@
             "on-site": [
                   "1051"
             ],
-            "onsite": [
-                  "1068",
-                  "1072",
-                  "1133"
-            ],
-            "Carry-in": [
-                  "1153",
-                  "1157"
-            ],
-            "1-Year-Onsite-Warranty": [
+            "1-year-onsite-warranty": [
                   "1162"
             ],
-            "Repair-/-Component-Replacement": [
+            "repair-/-component-replacement": [
                   "1243"
             ]
       },
-      "Warranty-Summary": {
-            "1-Year-Onsite-Warranty": [
+      "warranty-summary": {
+            "1-year-onsite-warranty": [
                   "1011",
                   "1012",
                   "1015",
@@ -11144,6 +11104,7 @@
                   "1064",
                   "1065",
                   "1067",
+                  "1072",
                   "1073",
                   "1074",
                   "1075",
@@ -11224,84 +11185,81 @@
                   "1245",
                   "1249"
             ],
-            "1-Year-Carry-In-Warranty": [
+            "1-year-carry-in-warranty": [
                   "1013",
                   "1071",
                   "1082"
             ],
-            "1-year-Manufacturer-Warranty": [
+            "1-year-manufacturer-warranty": [
                   "1068"
             ],
-            "2-Year-Carry-In-Warranty": [
+            "2-year-carry-in-warranty": [
                   "1069"
             ],
-            "1-Year-Onsite": [
+            "1-year-onsite": [
                   "1070",
                   "1133"
             ],
-            "1-Year-onsite-warranty": [
-                  "1072"
-            ],
-            "2-Year-Limited-Hardware-Warranty": [
+            "2-year-limited-hardware-warranty": [
                   "1080"
             ],
-            "1-Year-Limited-Hardware-Warranty": [
+            "1-year-limited-hardware-warranty": [
                   "1088",
                   "1093",
                   "1125",
                   "1233"
             ],
-            "Manufacturing-Warranty": [
+            "manufacturing-warranty": [
                   "1101"
             ],
-            "2-Years-Carry-In-Warranty": [
+            "2-years-carry-in-warranty": [
                   "1113",
                   "1148",
                   "1151",
                   "1180",
                   "1247"
             ],
-            "2-Years-Onsite-Warranty": [
+            "2-years-onsite-warranty": [
                   "1135",
                   "1173",
                   "1184",
                   "1186"
             ],
-            "2-Years-Warranty": [
+            "2-years-warranty": [
                   "1138",
                   "1171",
                   "1174",
                   "1191"
             ],
-            "2-Years-Limited-Warranty": [
+            "2-years-limited-warranty": [
                   "1150"
             ],
-            "1-Year-Warranty": [
+            "1-year-warranty": [
                   "1153",
                   "1157"
             ],
-            "3-Years-Onsite-Warranty": [
+            "3-years-onsite-warranty": [
                   "1161",
                   "1163",
                   "1165",
                   "1199",
                   "1236"
             ],
-            "1-Year-by-Lenovo": [
+            "1-year-by-lenovo": [
                   "1162"
             ],
-            "One-year": [
+            "one-year": [
                   "1175",
                   "1248"
             ],
-            "2-Years-Manufacturer-Warranty": [
+            "2-years-manufacturer-warranty": [
                   "1176"
             ],
-            "1-Year-Limited-Warranty": [
+            "1-year-limited-warranty": [
                   "1183"
             ]
       },
-      "Weight": {
+      "weight": {
             "1.50-kg": [
                   "1011",
                   "1022",
@@ -11700,8 +11658,8 @@
                   "1243"
             ]
       },
-      "Wireless-LAN": {
-            "IEEE-802.11ac-(Wi-Fi-5)": [
+      "wireless-lan": {
+            "ieee-802.11ac-(wi-fi-5)": [
                   "1011",
                   "1017",
                   "1018",
@@ -11727,13 +11685,13 @@
                   "1192",
                   "1194"
             ],
-            "Realtek-Wi-Fi-5-(2x2)": [
+            "realtek-wi-fi-5-(2x2)": [
                   "1012",
                   "1035",
                   "1042",
                   "1094"
             ],
-            "IEEE-802.11ac": [
+            "ieee-802.11ac": [
                   "1013",
                   "1014",
                   "1015",
@@ -11801,7 +11759,7 @@
                   "1246",
                   "1247"
             ],
-            "WIFI-1x1-AC": [
+            "wifi-1x1-ac": [
                   "1020",
                   "1023",
                   "1024",
@@ -11817,7 +11775,7 @@
                   "1146",
                   "1198"
             ],
-            "IEEE-802.11a/b/g/n/ac": [
+            "ieee-802.11a/b/g/n/ac": [
                   "1030",
                   "1032",
                   "1038",
@@ -11865,7 +11823,7 @@
                   "1232",
                   "1243"
             ],
-            "WIFI-2x2-AC": [
+            "wifi-2x2-ac": [
                   "1031",
                   "1048",
                   "1050",
@@ -11881,20 +11839,20 @@
                   "1188",
                   "1200"
             ],
-            "Wi-Fi-5-(802.11ac)": [
+            "wi-fi-5-(802.11ac)": [
                   "1039"
             ],
-            "Integrated-Wi-Fi-5-(802.11-ac)": [
+            "integrated-wi-fi-5-(802.11-ac)": [
                   "1051",
                   "1068"
             ],
-            "IEEE-802.11ax-(2x2)": [
+            "ieee-802.11ax-(2x2)": [
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "IEEE-802.11ax-(Wi-Fi-6)": [
+            "ieee-802.11ax-(wi-fi-6)": [
                   "1058",
                   "1059",
                   "1084",
@@ -11903,19 +11861,19 @@
                   "1214",
                   "1233"
             ],
-            "Intel-Wireless-AC-9560": [
+            "intel-wireless-ac-9560": [
                   "1069"
             ],
-            "Integrated-802.11ac-(2x2)": [
+            "integrated-802.11ac-(2x2)": [
                   "1070",
                   "1072"
             ],
-            "Intel-Wi-Fi-6-AX201-(2x2)": [
+            "intel-wi-fi-6-ax201-(2x2)": [
                   "1074",
                   "1075",
                   "1083"
             ],
-            "IEEE-802.11b/g/n": [
+            "ieee-802.11b/g/n": [
                   "1087",
                   "1091",
                   "1195",
@@ -11938,10 +11896,10 @@
                   "1242",
                   "1244"
             ],
-            "Intel-Wireless-AC-9560-(2x2)": [
+            "intel-wireless-ac-9560-(2x2)": [
                   "1113"
             ],
-            "IEEE-802.11b/g/n/ac": [
+            "ieee-802.11b/g/n/ac": [
                   "1118",
                   "1124",
                   "1187",
@@ -11949,63 +11907,61 @@
                   "1220",
                   "1227"
             ],
-            "Intel-Wi-Fi-6-AX-201-(2x2)": [
+            "intel-wi-fi-6-ax-201-(2x2)": [
                   "1127",
                   "1131"
             ],
-            "IEEE-802.11b/g/n/a/c": [
+            "ieee-802.11b/g/n/a/c": [
                   "1132"
             ],
-            "Intel-9560": [
+            "intel-9560": [
                   "1150"
             ],
-            "Realtek-802.11b/g/n/a/ac-(2x2)": [
+            "realtek-802.11b/g/n/a/ac-(2x2)": [
                   "1172"
             ],
-            "Killer-N1535-Combo-(2-x-2-ac)": [
+            "killer-n1535-combo-(2-x-2-ac)": [
                   "1174"
             ],
-            "YES": [
-                  "1175"
+            "yes": [
+                  "1175",
+                  "1248"
             ],
-            "Integrated-802.11-AC": [
+            "integrated-802.11-ac": [
                   "1179",
                   "1249"
             ],
-            "Killer-Wireless-1550-(2x2)": [
+            "killer-wireless-1550-(2x2)": [
                   "1180"
             ],
-            "Intel-AX201-2x2-AX": [
+            "intel-ax201-2x2-ax": [
                   "1190"
             ],
-            "Intel-8260-2x2-AC": [
+            "intel-8260-2x2-ac": [
                   "1199"
             ],
-            "IEEE-802.11ac/a/b/g/n": [
+            "ieee-802.11ac/a/b/g/n": [
                   "1212"
             ],
-            "Intel-Wi-Fi-6-AX-200-(2x2)": [
+            "intel-wi-fi-6-ax-200-(2x2)": [
                   "1221"
             ],
-            "Wi-Fi-5(802.11ac)": [
+            "wi-fi-5(802.11ac)": [
                   "1222"
-            ],
-            "Yes": [
-                  "1248"
             ]
       },
-      "Additional-Features": {
-            "52.5-WHr-Li-ion-Battery": [
+      "additional-features": {
+            "52.5-whr-li-ion-battery": [
                   "1012",
                   "1020",
                   "1034"
             ],
-            "Lithium-Polymer-Battery": [
+            "lithium-polymer-battery": [
                   "1013",
                   "1123",
                   "1136"
             ],
-            "Li-ion-Battery": [
+            "li-ion-battery": [
                   "1014",
                   "1016",
                   "1024",
@@ -12090,18 +12046,18 @@
                   "1245",
                   "1246"
             ],
-            "35-WHr-Li-ion-Battery": [
+            "35-whr-li-ion-battery": [
                   "1023",
                   "1025",
                   "1028",
                   "1033"
             ],
-            "45-WHr-Li-ion-Battery": [
+            "45-whr-li-ion-battery": [
                   "1031",
                   "1050",
                   "1190"
             ],
-            "3220-mAh-Li-ion-Battery": [
+            "3220-mah-li-ion-battery": [
                   "1032",
                   "1095",
                   "1096",
@@ -12110,20 +12066,20 @@
                   "1140",
                   "1149"
             ],
-            "41-WHr-Li-ion-Battery": [
+            "41-whr-li-ion-battery": [
                   "1049",
                   "1127",
                   "1131",
                   "1193"
             ],
-            "3D-Flow": [
+            "3d-flow": [
                   "1056",
                   "1192"
             ],
-            "51-WHr-Li-Polymer-Battery": [
+            "51-whr-li-polymer-battery": [
                   "1069"
             ],
-            "Li-ion-Polymer-Battery": [
+            "li-ion-polymer-battery": [
                   "1071",
                   "1082",
                   "1116",
@@ -12134,44 +12090,44 @@
                   "1206",
                   "1220"
             ],
-            "35-WHrs-Battery": [
+            "35-whrs-battery": [
                   "1073"
             ],
-            "48-WHr-3220-mAh-Li-ion-Battery": [
+            "48-whr-3220-mah-li-ion-battery": [
                   "1079"
             ],
-            "51-WHr-Li-ion-Battery": [
+            "51-whr-li-ion-battery": [
                   "1089"
             ],
-            "48-WHr-Li-ion-Battery": [
+            "48-whr-li-ion-battery": [
                   "1105",
                   "1110",
                   "1130"
             ],
-            "4670-mAh-Li-ion-Battery": [
+            "4670-mah-li-ion-battery": [
                   "1121",
                   "1209"
             ],
-            "33-WHr-Li-ion-Battery": [
+            "33-whr-li-ion-battery": [
                   "1128"
             ],
-            "2770-mAh-Li-ion-Battery": [
+            "2770-mah-li-ion-battery": [
                   "1143"
             ],
-            "32-WHr-Li-ion-Battery": [
+            "32-whr-li-ion-battery": [
                   "1147"
             ],
-            "Thunderbolt,-Lithium-Ion-Battery": [
+            "thunderbolt,-lithium-ion-battery": [
                   "1150"
             ],
-            "Li-ion-Battery,-VR-Ready": [
+            "li-ion-battery,-vr-ready": [
                   "1151"
             ],
-            "36.7-WHr-Li-ion-Battery": [
+            "36.7-whr-li-ion-battery": [
                   "1158"
             ]
       },
-      "Black": [
+      "black": [
             "1012",
             "1024",
             "1043",
@@ -12217,8 +12173,8 @@
             "1232",
             "1247"
       ],
-      "Dedicated-Graphic-Memory-Type": {
-            "GDDR5": [
+      "dedicated-graphic-memory-type": {
+            "gddr5": [
                   "1012",
                   "1018",
                   "1019",
@@ -12301,7 +12257,7 @@
                   "1247",
                   "1248"
             ],
-            "GDDR6": [
+            "gddr6": [
                   "1042",
                   "1052",
                   "1053",
@@ -12320,24 +12276,24 @@
                   "1203",
                   "1214"
             ],
-            "DDR3": [
+            "ddr3": [
                   "1104",
                   "1132",
                   "1223"
             ],
-            "DDR5": [
+            "ddr5": [
                   "1162",
                   "1186"
             ],
-            "DDR4": [
+            "ddr4": [
                   "1222"
             ],
-            "GDDR3": [
+            "gddr3": [
                   "1231"
             ]
       },
-      "HDD-Capacity": {
-            "1-TB": [
+      "hdd-capacity": {
+            "1-tb": [
                   "1012",
                   "1014",
                   "1017",
@@ -12436,17 +12392,17 @@
                   "1247",
                   "1248"
             ],
-            "2-TB": [
+            "2-tb": [
                   "1152",
                   "1162",
                   "1216"
             ],
-            "500-GB": [
+            "500-gb": [
                   "1179",
                   "1249"
             ]
       },
-      "SATA": [
+      "sata": [
             "1012",
             "1016",
             "1017",
@@ -12490,6 +12446,7 @@
             "1171",
             "1173",
             "1177",
+            "1179",
             "1181",
             "1182",
             "1184",
@@ -12529,20 +12486,60 @@
             "1243",
             "1244",
             "1246",
-            "1247"
+            "1247",
+            "1249"
       ],
-      "Multi-gesture-Touchpad": [
+      "multi-gesture-touchpad": [
             "1012",
+            "1015",
+            "1024",
+            "1032",
+            "1035",
             "1038",
             "1049",
+            "1055",
+            "1060",
+            "1061",
             "1079",
+            "1095",
+            "1096",
+            "1097",
+            "1102",
             "1105",
             "1110",
+            "1117",
+            "1118",
+            "1121",
+            "1122",
+            "1124",
             "1127",
             "1131",
-            "1158"
+            "1140",
+            "1143",
+            "1144",
+            "1149",
+            "1152",
+            "1155",
+            "1158",
+            "1159",
+            "1173",
+            "1177",
+            "1182",
+            "1184",
+            "1185",
+            "1187",
+            "1189",
+            "1196",
+            "1198",
+            "1209",
+            "1216",
+            "1218",
+            "1220",
+            "1227",
+            "1231",
+            "1232"
       ],
-      "AMD": [
+      "amd": [
             "1012",
             "1020",
             "1030",
@@ -12559,8 +12556,8 @@
             "1172",
             "1217"
       ],
-      "RAM-Frequency": {
-            "2400-MHz": [
+      "ram-frequency": {
+            "2400-mhz": [
                   "1012",
                   "1015",
                   "1020",
@@ -12627,7 +12624,7 @@
                   "1247",
                   "1249"
             ],
-            "1600-MHz": [
+            "1600-mhz": [
                   "1013",
                   "1087",
                   "1099",
@@ -12639,7 +12636,7 @@
                   "1239",
                   "1243"
             ],
-            "2666-MHz": [
+            "2666-mhz": [
                   "1023",
                   "1025",
                   "1026",
@@ -12691,7 +12688,7 @@
                   "1230",
                   "1246"
             ],
-            "2133-MHz": [
+            "2133-mhz": [
                   "1033",
                   "1071",
                   "1082",
@@ -12704,13 +12701,13 @@
                   "1168",
                   "1198"
             ],
-            "2933-MHz": [
+            "2933-mhz": [
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "1866-MHz": [
+            "1866-mhz": [
                   "1090",
                   "1139",
                   "1157",
@@ -12718,8 +12715,8 @@
                   "1224"
             ]
       },
-      "RJ45": {
-            "Yes": [
+      "rj45": {
+            "yes": [
                   "1012",
                   "1024",
                   "1031",
@@ -12803,12 +12800,12 @@
                   "1246",
                   "1247"
             ],
-            "No": [
+            "no": [
                   "1030",
                   "1199"
             ]
       },
-      "RPM": {
+      "rpm": {
             "5400": [
                   "1012",
                   "1014",
@@ -12906,7 +12903,7 @@
                   "1219"
             ]
       },
-      "Full-HD-LED-Backlit-Display": [
+      "full-hd-led-backlit-display": [
             "1012",
             "1049",
             "1127",
@@ -12919,8 +12916,8 @@
             "1191",
             "1215"
       ],
-      "Web-Camera": {
-            "HD-Webcam": [
+      "web-camera": {
+            "hd-webcam": [
                   "1012",
                   "1014",
                   "1037",
@@ -12965,11 +12962,12 @@
                   "1232",
                   "1247"
             ],
-            "720p-FaceTime-HD-Camera": [
+            "720p-facetime-hd-camera": [
                   "1013",
-                  "1153"
+                  "1153",
+                  "1183"
             ],
-            "HP-Wide-Vision-HD-Webcam": [
+            "hp-wide-vision-hd-webcam": [
                   "1015",
                   "1043",
                   "1060",
@@ -12985,7 +12983,7 @@
                   "1227",
                   "1231"
             ],
-            "HD-720P-Webcam": [
+            "hd-720p-webcam": [
                   "1016",
                   "1024",
                   "1031",
@@ -13053,18 +13051,18 @@
                   "1244",
                   "1246"
             ],
-            "VGA-Webcam-(Fixed-Type)": [
+            "vga-webcam-(fixed-type)": [
                   "1017",
                   "1018",
                   "1019",
                   "1021"
             ],
-            "0.3-Megapixel-Webcam": [
+            "0.3-megapixel-webcam": [
                   "1025",
                   "1073",
                   "1136"
             ],
-            "HP-TrueVision-HD-Webcam": [
+            "hp-truevision-hd-webcam": [
                   "1030",
                   "1035",
                   "1042",
@@ -13075,13 +13073,13 @@
                   "1193",
                   "1196"
             ],
-            "HDWebcam": [
+            "hdwebcam": [
                   "1051",
                   "1068",
                   "1072",
                   "1133"
             ],
-            "720p-FaceTime-HD-Webcam": [
+            "720p-facetime-hd-webcam": [
                   "1062",
                   "1064",
                   "1077",
@@ -13090,29 +13088,29 @@
                   "1156",
                   "1166"
             ],
-            "HD-Webcam-(720p-at-30-fps)": [
+            "hd-webcam-(720p-at-30-fps)": [
                   "1069"
             ],
-            "HD": [
+            "hd": [
                   "1070"
             ],
-            "720P-FaceTime-HD\u00c2\u00a0Webcam": [
+            "720p-facetime-hd\u00e2\u00a0webcam": [
                   "1071",
                   "1082"
             ],
-            "IR-Webcam-(at-2.2-mm)": [
+            "ir-webcam-(at-2.2-mm)": [
                   "1075"
             ],
-            "HD-RGB-Webcam": [
+            "hd-rgb-webcam": [
                   "1089"
             ],
-            "Built-in-Webcam": [
+            "built-in-webcam": [
                   "1101"
             ],
-            "HD-IR-Webcam": [
+            "hd-ir-webcam": [
                   "1106"
             ],
-            "VGA-Webcam": [
+            "vga-webcam": [
                   "1115",
                   "1128",
                   "1134",
@@ -13122,90 +13120,85 @@
                   "1217",
                   "1234"
             ],
-            "3D-IR-HD-Webcam": [
+            "3d-ir-hd-webcam": [
                   "1116",
                   "1168",
                   "1245"
             ],
-            "1-Megapixel-Webcam": [
+            "1-megapixel-webcam": [
                   "1119",
                   "1142"
             ],
-            "1-Megapixel-HD-Webcam": [
+            "1-megapixel-hd-webcam": [
                   "1123"
             ],
-            "480p-FaceTime-Camera": [
+            "480p-facetime-camera": [
                   "1157"
             ],
-            "Acer-Webcam": [
+            "acer-webcam": [
                   "1158"
             ],
-            "Full-HD-Webcam": [
+            "full-hd-webcam": [
                   "1161",
                   "1163",
                   "1165"
             ],
-            "720p-FHD-Webcam": [
+            "720p-fhd-webcam": [
                   "1162"
             ],
-            "YES": [
-                  "1175"
+            "yes": [
+                  "1175",
+                  "1248"
             ],
-            "Alienware-Full-HD-Webcam": [
+            "alienware-full-hd-webcam": [
                   "1178",
                   "1206"
             ],
-            "VGA": [
+            "vga": [
                   "1179",
                   "1249"
             ],
-            "720p-FaceTime-HD-camera": [
-                  "1183"
-            ],
-            "Full-HD-IR-Webcam": [
+            "full-hd-ir-webcam": [
                   "1187",
                   "1220"
             ],
-            "HD-Webcam-(30-fps-at-720p)": [
+            "hd-webcam-(30-fps-at-720p)": [
                   "1191"
             ],
-            "IR-Webcam": [
+            "ir-webcam": [
                   "1214"
             ],
-            "Widescreen-HD-720P-Webcam": [
+            "widescreen-hd-720p-webcam": [
                   "1215"
             ],
-            "HP-Wide-Vision-FHD-IR-Webcam": [
+            "hp-wide-vision-fhd-ir-webcam": [
                   "1221",
                   "1224"
             ],
-            "HD-Web-Camera": [
+            "hd-web-camera": [
                   "1222"
             ],
-            "IR-HD-720P-Webcam-(ToF)": [
+            "ir-hd-720p-webcam-(tof)": [
                   "1225"
             ],
-            "HD-720P-f2.0-Webcam": [
+            "hd-720p-f2.0-webcam": [
                   "1233"
             ],
-            "2-Megapixel-Webcam": [
+            "2-megapixel-webcam": [
                   "1243"
-            ],
-            "Yes": [
-                  "1248"
             ]
       },
-      "Battery-Backup": {
-            "Upto-12-hours": [
+      "battery-backup": {
+            "upto-12-hours": [
                   "1013",
                   "1032",
                   "1039",
                   "1105"
             ],
-            "Upto-6-hrs": [
+            "upto-6-hrs": [
                   "1014"
             ],
-            "Upto-6-hours": [
+            "upto-6-hours": [
                   "1017",
                   "1018",
                   "1019",
@@ -13227,7 +13220,7 @@
                   "1188",
                   "1230"
             ],
-            "Upto-8-hours": [
+            "upto-8-hours": [
                   "1020",
                   "1044",
                   "1052",
@@ -13243,19 +13236,20 @@
                   "1211",
                   "1212"
             ],
-            "Upto-5-hours": [
+            "upto-5-hours": [
                   "1024",
                   "1104",
                   "1136",
                   "1146",
                   "1198",
+                  "1229",
                   "1243"
             ],
-            "Upto-11.5-hours": [
+            "upto-11.5-hours": [
                   "1026",
                   "1233"
             ],
-            "Upto-9-hours": [
+            "upto-9-hours": [
                   "1031",
                   "1048",
                   "1050",
@@ -13263,17 +13257,18 @@
                   "1106",
                   "1232"
             ],
-            "Upto-11.1-hours": [
+            "upto-11.1-hours": [
                   "1034"
             ],
-            "Upto-9.5-hours": [
+            "upto-9.5-hours": [
                   "1038",
                   "1079"
             ],
             "up-to-3-hours": [
-                  "1051"
+                  "1051",
+                  "1222"
             ],
-            "Upto-11-hours": [
+            "upto-11-hours": [
                   "1062",
                   "1064",
                   "1077",
@@ -13281,16 +13276,16 @@
                   "1137",
                   "1196"
             ],
-            "Upto-4-hours": [
+            "upto-4-hours": [
                   "1063",
                   "1199"
             ],
-            "Up-to-6-Hours": [
+            "up-to-6-hours": [
                   "1068",
                   "1070",
                   "1072"
             ],
-            "Upto-13-hours": [
+            "upto-13-hours": [
                   "1071",
                   "1082",
                   "1096",
@@ -13299,13 +13294,13 @@
                   "1125",
                   "1172"
             ],
-            "Upto-4.5-hours": [
+            "upto-4.5-hours": [
                   "1073"
             ],
-            "Upto-22-hours": [
+            "upto-22-hours": [
                   "1075"
             ],
-            "Upto-7-hours": [
+            "upto-7-hours": [
                   "1080",
                   "1090",
                   "1095",
@@ -13313,11 +13308,11 @@
                   "1152",
                   "1155"
             ],
-            "Upto-10.5-hours": [
+            "upto-10.5-hours": [
                   "1084",
                   "1103"
             ],
-            "Upto-10-hours": [
+            "upto-10-hours": [
                   "1087",
                   "1091",
                   "1099",
@@ -13353,55 +13348,49 @@
                   "1242",
                   "1244"
             ],
-            "Upto-13.5-hours": [
+            "upto-13.5-hours": [
                   "1088",
                   "1139"
             ],
-            "Upto-7.5-hours": [
+            "upto-7.5-hours": [
                   "1094"
             ],
-            "Upto-14-hours": [
+            "upto-14-hours": [
                   "1116",
                   "1168"
             ],
-            "Upto-6-Hrs.": [
+            "upto-6-hrs.": [
                   "1133"
             ],
-            "Upto-8.5-hours": [
+            "upto-8.5-hours": [
                   "1158"
             ],
-            "Upto-3-hrs": [
+            "upto-3-hrs": [
                   "1175"
             ],
-            "Upto-3-hours": [
+            "upto-3-hours": [
                   "1176",
                   "1216",
                   "1218"
             ],
-            "Up-to-10-Hours": [
+            "up-to-10-hours": [
                   "1179",
                   "1249"
             ],
-            "Upto-18-hours": [
+            "upto-18-hours": [
                   "1187"
             ],
-            "Upto-12.8-hours": [
+            "upto-12.8-hours": [
                   "1190"
             ],
-            "UP-TO-3-HOURS": [
-                  "1222"
-            ],
-            "Upto-5-Hours": [
-                  "1229"
-            ],
-            "Upto-17-hours": [
+            "upto-17-hours": [
                   "1245"
             ],
-            "Upto-4-hrs": [
+            "upto-4-hrs": [
                   "1248"
             ]
       },
-      "Silver": [
+      "silver": [
             "1013",
             "1037",
             "1077",
@@ -13417,8 +13406,8 @@
             "1243",
             "1248"
       ],
-      "International-Warranty": {
-            "1-Year": [
+      "international-warranty": {
+            "1-year": [
                   "1013",
                   "1014",
                   "1016",
@@ -13470,27 +13459,28 @@
                   "1234",
                   "1249"
             ],
-            "2-Year": [
+            "2-year": [
                   "1138"
             ],
-            "0-Months": [
+            "0-months": [
                   "1229"
             ]
       },
-      "Physical-Damages": [
+      "physical-damages": [
             "1013"
       ],
-      "Multi-touch-Trackpad": [
+      "multi-touch-trackpad": [
+            "1013",
+            "1153"
+      ],
+      "hd+-led-backlit-display": [
             "1013"
       ],
-      "HD+-LED-Backlit-Display": [
-            "1013"
-      ],
-      "USB-Port": {
-            "2-x-USB-3.0,-2-x-Thunderbolt-2.0": [
+      "usb-port": {
+            "2-x-usb-3.0,-2-x-thunderbolt-2.0": [
                   "1013"
             ],
-            "2-x-USB-3.1,-1-x-USB-3.1-Type-C": [
+            "2-x-usb-3.1,-1-x-usb-3.1-type-c": [
                   "1015",
                   "1035",
                   "1046",
@@ -13503,39 +13493,39 @@
                   "1229",
                   "1234"
             ],
-            "2-x-USB-3.0": [
+            "2-x-usb-3.0": [
                   "1024",
                   "1097",
                   "1123"
             ],
-            "2-x-USB-3.0,-1-x-USB-Type-C": [
+            "2-x-usb-3.0,-1-x-usb-type-c": [
                   "1032",
                   "1121",
                   "1209",
                   "1243"
             ],
-            "1-x-USB-2.0,-2-x-USB-3.1": [
+            "1-x-usb-2.0,-2-x-usb-3.1": [
                   "1055",
                   "1076"
             ],
-            "3-x-USB-3.2-(1st-Gen)-Type-A": [
+            "3-x-usb-3.2-(1st-gen)-type-a": [
                   "1056",
                   "1067",
                   "1098"
             ],
-            "3-x-USB-3.1": [
+            "3-x-usb-3.1": [
                   "1066",
                   "1086"
             ],
-            "2-x-Thunderbolt-3-(USB-Type-C)": [
+            "2-x-thunderbolt-3-(usb-type-c)": [
                   "1071",
                   "1082"
             ],
-            "1-x-USB-Type-A,-1-x-USB-Type-C": [
+            "1-x-usb-type-a,-1-x-usb-type-c": [
                   "1084",
                   "1103"
             ],
-            "2-x-USB-3.0,-1-x-USB-3.0-Type-C": [
+            "2-x-usb-3.0,-1-x-usb-3.0-type-c": [
                   "1087",
                   "1091",
                   "1099",
@@ -13563,81 +13553,81 @@
                   "1242",
                   "1244"
             ],
-            "1-x-USB-3.0": [
+            "1-x-usb-3.0": [
                   "1088",
                   "1139"
             ],
-            "1-x-USB-Type-C": [
+            "1-x-usb-type-c": [
                   "1093"
             ],
-            "2-x-USB-3.0,-1-x-USB-2.0": [
+            "2-x-usb-3.0,-1-x-usb-2.0": [
                   "1104",
                   "1132",
                   "1215",
                   "1223"
             ],
-            "3-x-USB-3.1,-1-x-USB-3.1-Type-C": [
+            "3-x-usb-3.1,-1-x-usb-3.1-type-c": [
                   "1114",
                   "1144"
             ],
-            "2-x-USB-Type-C": [
+            "2-x-usb-type-c": [
                   "1119",
                   "1142",
                   "1143",
                   "1211"
             ],
-            "3-x-USB-3.2-Type-A-(1st-Gen)": [
+            "3-x-usb-3.2-type-a-(1st-gen)": [
                   "1130"
             ],
-            "1-x-USB-3.0,-2-x-USB-2.0": [
+            "1-x-usb-3.0,-2-x-usb-2.0": [
                   "1140"
             ],
-            "2-x-USB-3.0,-1-x-USB-3.1-Type-C": [
+            "2-x-usb-3.0,-1-x-usb-3.1-type-c": [
                   "1145"
             ],
-            "1-x-USB-Type-C,-2-x-USB-3.0": [
+            "1-x-usb-type-c,-2-x-usb-3.0": [
                   "1146"
             ],
-            "4-x-Thunderbolt-3.0-(USB-Type-C)": [
+            "4-x-thunderbolt-3.0-(usb-type-c)": [
                   "1153",
                   "1183"
             ],
-            "1-x-USB-3.1-(1st-Gen)": [
+            "1-x-usb-3.1-(1st-gen)": [
                   "1157"
             ],
-            "2-x-USB-2.0,-1-x-USB-3.1": [
+            "2-x-usb-2.0,-1-x-usb-3.1": [
                   "1158"
             ],
-            "1-x-USB-2.0,-2-x-USB-3.0": [
+            "1-x-usb-2.0,-2-x-usb-3.0": [
                   "1164"
             ],
-            "3-x-USB-3.0-Type-A": [
+            "3-x-usb-3.0-type-a": [
                   "1173"
             ],
-            "1-x-USB-3.1,-2-x-USB-3.1-Type-C": [
+            "1-x-usb-3.1,-2-x-usb-3.1-type-c": [
                   "1196",
                   "1220",
                   "1225"
             ],
-            "3-x-USB-3.1,-1-x-USB-Type-C": [
+            "3-x-usb-3.1,-1-x-usb-type-c": [
                   "1200"
             ],
-            "4-x-USB-3.0,-1-x-USB-Type-C": [
+            "4-x-usb-3.0,-1-x-usb-type-c": [
                   "1216",
                   "1218"
             ],
-            "1-x-USB-3.1,-1-x-USB-3.1-Type-C": [
+            "1-x-usb-3.1,-1-x-usb-3.1-type-c": [
                   "1228"
             ],
-            "2-x-USB-Type-C-(With-DC-in)": [
+            "2-x-usb-type-c-(with-dc-in)": [
                   "1232"
             ]
       },
-      "Chipset": {
-            "Intel": [
+      "chipset": {
+            "intel": [
                   "1014"
             ],
-            "Intel-HM370": [
+            "intel-hm370": [
                   "1031",
                   "1050",
                   "1056",
@@ -13658,39 +13648,39 @@
                   "1221",
                   "1247"
             ],
-            "Intel-HM470": [
+            "intel-hm470": [
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "Intel-HM370-Express": [
+            "intel-hm370-express": [
                   "1066",
                   "1086",
                   "1203"
             ],
-            "QM87": [
+            "qm87": [
                   "1132"
             ],
-            "Intel-HM175": [
+            "intel-hm175": [
                   "1138",
                   "1171",
                   "1177",
                   "1216",
                   "1219"
             ],
-            "HM175": [
+            "hm175": [
                   "1173",
                   "1176",
                   "1184",
                   "1218"
             ]
       },
-      "Icicle-Gold": [
+      "icicle-gold": [
             "1014"
       ],
-      "Expandable-Memory": {
-            "Upto-12-GB": [
+      "expandable-memory": {
+            "upto-12-gb": [
                   "1014",
                   "1017",
                   "1018",
@@ -13714,7 +13704,7 @@
                   "1226",
                   "1231"
             ],
-            "Upto-16-GB": [
+            "upto-16-gb": [
                   "1030",
                   "1048",
                   "1052",
@@ -13740,14 +13730,14 @@
                   "1215",
                   "1245"
             ],
-            "Non-Upgradable": [
+            "non-upgradable": [
                   "1035",
                   "1060",
                   "1075",
                   "1117",
                   "1196"
             ],
-            "Upto-32-GB": [
+            "upto-32-gb": [
                   "1037",
                   "1042",
                   "1044",
@@ -13777,19 +13767,17 @@
                   "1230",
                   "1247"
             ],
-            "Upto-20-GB": [
+            "upto-20-gb": [
                   "1038",
+                  "1068",
                   "1079",
                   "1149",
                   "1155"
             ],
-            "upto-20-GB": [
-                  "1068"
-            ],
-            "up-to-12-GB-SDRAM": [
+            "up-to-12-gb-sdram": [
                   "1070"
             ],
-            "Upto-8-GB": [
+            "upto-8-gb": [
                   "1116",
                   "1119",
                   "1120",
@@ -13797,23 +13785,23 @@
                   "1142",
                   "1167"
             ],
-            "up-to-16-GB-SDRAM": [
+            "up-to-16-gb-sdram": [
                   "1133"
             ],
-            "Upto-64-GB": [
+            "upto-64-gb": [
                   "1212",
                   "1216",
                   "1218"
             ],
-            "Upto-24-GB": [
+            "upto-24-gb": [
                   "1219"
             ]
       },
-      "NA": [
+      "na": [
             "1014"
       ],
-      "Laptop-Bag": {
-            "No": [
+      "laptop-bag": {
+            "no": [
                   "1014",
                   "1051",
                   "1068",
@@ -13842,7 +13830,7 @@
                   "1244",
                   "1249"
             ],
-            "Yes": [
+            "yes": [
                   "1087",
                   "1091",
                   "1148",
@@ -13852,12 +13840,12 @@
                   "1197"
             ]
       },
-      "Memory-Slots": {
+      "memory-slots": {
             "1": [
                   "1014",
                   "1068"
             ],
-            "2-Slots": [
+            "2-slots": [
                   "1024",
                   "1034",
                   "1037",
@@ -13909,7 +13897,7 @@
                   "1231",
                   "1247"
             ],
-            "1-Slot": [
+            "1-slot": [
                   "1060",
                   "1117",
                   "1119",
@@ -13921,22 +13909,22 @@
                   "1199",
                   "1200"
             ],
-            "1-x-SO-DIMM": [
+            "1-x-so-dimm": [
                   "1070",
                   "1133"
             ],
-            "2-(Unused-Slot---0)": [
+            "2-(unused-slot---0)": [
                   "1132"
             ],
-            "4-Slots": [
+            "4-slots": [
                   "1212",
                   "1218"
             ],
-            "SD-Card-Reader": [
+            "sd-card-reader": [
                   "1217"
             ]
       },
-      "Natural-Silver": [
+      "natural-silver": [
             "1015",
             "1030",
             "1035",
@@ -13948,15 +13936,15 @@
             "1127",
             "1131"
       ],
-      "Lock-Port": {
-            "Kensington-Nano-Security-Slot": [
+      "lock-port": {
+            "kensington-nano-security-slot": [
                   "1015",
                   "1035",
                   "1060",
                   "1117",
                   "1227"
             ],
-            "Kensington-Lock-Slot": [
+            "kensington-lock-slot": [
                   "1032",
                   "1037",
                   "1038",
@@ -13990,91 +13978,50 @@
                   "1230",
                   "1246"
             ],
-            "Wedge-Lock-Slot": [
+            "wedge-lock-slot": [
                   "1044",
                   "1089"
             ],
-            "Security-Lock": [
+            "security-lock": [
                   "1047",
                   "1057",
                   "1109",
                   "1112",
                   "1147"
             ],
-            "Kensington-MicroSaver-Lock-Slot": [
+            "kensington-microsaver-lock-slot": [
                   "1061"
             ],
-            "Kensington-MiniSaver-Lock-Slot": [
+            "kensington-minisaver-lock-slot": [
                   "1118",
                   "1124"
             ],
-            "Noble-Lock-Slot": [
+            "noble-lock-slot": [
                   "1121",
                   "1140",
                   "1160",
                   "1209",
                   "1215"
             ],
-            "Noble-Lock-Port": [
+            "noble-lock-port": [
                   "1178",
                   "1206",
                   "1223"
             ],
-            "Security-Lock-Slot": [
+            "security-lock-slot": [
                   "1196"
             ]
       },
-      "Multi-Gesture-Touchpad": [
-            "1015",
-            "1024",
-            "1032",
-            "1035",
-            "1055",
-            "1060",
-            "1061",
-            "1095",
-            "1096",
-            "1097",
-            "1102",
-            "1117",
-            "1118",
-            "1121",
-            "1122",
-            "1124",
-            "1140",
-            "1143",
-            "1144",
-            "1149",
-            "1152",
-            "1155",
-            "1159",
-            "1173",
-            "1177",
-            "1182",
-            "1184",
-            "1185",
-            "1187",
-            "1189",
-            "1196",
-            "1198",
-            "1209",
-            "1216",
-            "1218",
-            "1220",
-            "1227",
-            "1231",
-            "1232"
-      ],
-      "Gold-Metal": [
+      "gold-metal": [
             "1016"
       ],
-      "Star-Grey": [
+      "star-grey": [
             "1017",
             "1019",
             "1109",
             "1128"
       ],
-      "Platinum-Grey": [
+      "platinum-grey": [
             "1020",
             "1023",
             "1025",
@@ -14088,7 +14035,7 @@
             "1169",
             "1229"
       ],
-      "Multi-touch-Touchpad": [
+      "multi-touch-touchpad": [
             "1020",
             "1023",
             "1025",
@@ -14101,38 +14048,38 @@
             "1100",
             "1108"
       ],
-      "Peacock-Blue": [
+      "peacock-blue": [
             "1022",
             "1036",
             "1051",
             "1072"
       ],
-      "Clock-Speed": {
-            "2.3-GHz": [
+      "clock-speed": {
+            "2.3-ghz": [
                   "1024",
                   "1081",
                   "1145"
             ],
-            "1.6-GHz": [
+            "1.6-ghz": [
                   "1093"
             ],
-            "3-GHz": [
+            "3-ghz": [
                   "1125"
             ],
-            "2.4-GHz": [
+            "2.4-ghz": [
                   "1140",
                   "1215"
             ],
-            "2-GHz": [
+            "2-ghz": [
                   "1181"
             ]
       },
-      "Ethernet": {
-            "10/100-Mbps": [
+      "ethernet": {
+            "10/100-mbps": [
                   "1024",
                   "1097"
             ],
-            "100/1000-Mbps": [
+            "100/1000-mbps": [
                   "1031",
                   "1048",
                   "1050",
@@ -14145,15 +14092,16 @@
                   "1200"
             ],
             "no": [
-                  "1051"
+                  "1051",
+                  "1222"
             ],
-            "100/1000-Mbps-(Gigabit-Ethernet)": [
+            "100/1000-mbps-(gigabit-ethernet)": [
                   "1052",
                   "1053",
                   "1100",
                   "1108"
             ],
-            "10/100/1000-Mbps": [
+            "10/100/1000-mbps": [
                   "1056",
                   "1058",
                   "1059",
@@ -14178,65 +14126,58 @@
                   "1179",
                   "1249"
             ],
-            "Gigabit-LAN": [
+            "gigabit-lan": [
                   "1069",
                   "1138",
                   "1171",
                   "1176",
                   "1247"
             ],
-            "Gigabit-Ethernet": [
+            "gigabit-ethernet": [
                   "1080",
                   "1170",
                   "1178",
                   "1206",
                   "1215"
             ],
-            "Killer-Ethernet-E2400": [
+            "killer-ethernet-e2400": [
                   "1113"
             ],
-            "Yes": [
+            "yes": [
                   "1132",
+                  "1175",
                   "1248"
             ],
-            "Killer-LAN": [
+            "killer-lan": [
                   "1148",
-                  "1151"
+                  "1151",
+                  "1174"
             ],
-            "Killer-E2500": [
+            "killer-e2500": [
                   "1150"
             ],
-            "10/100/1000-Gigabit": [
+            "10/100/1000-gigabit": [
                   "1159",
                   "1185"
             ],
-            "Killer-Lan": [
-                  "1174"
-            ],
-            "YES": [
-                  "1175"
-            ],
-            "Killer-Ethernet-E2500": [
+            "killer-ethernet-e2500": [
                   "1180"
-            ],
-            "NO": [
-                  "1222"
             ]
       },
-      "Granite-Black": [
+      "granite-black": [
             "1031",
             "1048",
             "1050",
             "1073"
       ],
-      "Sparkly-Silver": [
+      "sparkly-silver": [
             "1032",
             "1096",
             "1102",
             "1110",
             "1122"
       ],
-      "Full-HD-LED-Backlit-IPS-Display": [
+      "full-hd-led-backlit-ips-display": [
             "1032",
             "1035",
             "1091",
@@ -14266,14 +14207,14 @@
             "1242",
             "1244"
       ],
-      "Pure-Silver": [
+      "pure-silver": [
             "1038",
             "1079"
       ],
-      "Silver-Blue--Metal": [
+      "silver-blue--metal": [
             "1039"
       ],
-      "Slate-Grey": [
+      "slate-grey": [
             "1040",
             "1041",
             "1045",
@@ -14284,94 +14225,90 @@
             "1134",
             "1222"
       ],
-      "Shadow-Black": [
+      "shadow-black": [
             "1042",
             "1094",
             "1118",
             "1124",
             "1144",
+            "1159",
+            "1185",
             "1189"
       ],
-      "Eclipse-Black": [
+      "eclipse-black": [
             "1044",
             "1089"
       ],
-      "Solid-State": [
+      "solid-state": [
             "1049"
       ],
-      "manufacturing-defects": [
-            "1051"
-      ],
-      "Model-Name": {
-            "VivoBook-X512FA-EJ373T": [
+      "model-name": {
+            "vivobook-x512fa-ej373t": [
                   "1051"
             ],
-            "X512FA-EJ547T": [
+            "x512fa-ej547t": [
                   "1068"
             ],
-            "X512DA-EJ502T(X512D)": [
+            "x512da-ej502t(x512d)": [
                   "1070"
             ],
-            "X512DA-EJ503T(X512)": [
+            "x512da-ej503t(x512)": [
                   "1072"
             ],
-            "ELITE": [
+            "elite": [
                   "1090"
             ],
-            "VivoBook": [
+            "vivobook": [
                   "1101"
             ],
-            "B50-70": [
+            "b50-70": [
                   "1132"
             ],
-            "X512FL-EJ701T(X512FL)": [
+            "x512fl-ej701t(x512fl)": [
                   "1133"
             ],
-            "IP-320": [
+            "ip-320": [
                   "1146"
             ],
-            "Raider": [
+            "raider": [
                   "1151"
             ],
-            "LEGION": [
+            "legion": [
                   "1162"
             ],
-            "GL62-7RDX-1065IN": [
+            "gl62-7rdx-1065in": [
                   "1171"
             ],
-            "Y540--81SY": [
+            "y540--81sy": [
                   "1175"
             ],
-            "E203MAH-FD004T": [
+            "e203mah-fd004t": [
                   "1179",
                   "1249"
             ],
-            "TravelMate-X3": [
+            "travelmate-x3": [
                   "1181"
             ],
-            "Aspire": [
+            "aspire": [
                   "1211"
             ],
-            "Predator": [
+            "predator": [
                   "1212"
             ],
-            "VivoBook-X512FA-EJ372T": [
+            "vivobook-x512fa-ej372t": [
                   "1222"
             ],
-            "Inspiron": [
+            "inspiron": [
                   "1223"
             ],
-            "Ideapad-S340-15IIL": [
+            "ideapad-s340-15iil": [
                   "1229"
             ],
-            "Pavilion---15-cs3006tx": [
+            "pavilion---15-cs3006tx": [
                   "1248"
             ]
       },
-      "physical-damage": [
-            "1051"
-      ],
-      "Onyx-Black": [
+      "onyx-black": [
             "1052",
             "1053",
             "1100",
@@ -14380,13 +14317,13 @@
             "1146",
             "1198"
       ],
-      "Mineral-Grey": [
+      "mineral-grey": [
             "1054"
       ],
-      "Jet-Balck": [
+      "jet-balck": [
             "1055"
       ],
-      "Read/Write-Speed": {
+      "read/write-speed": {
             "8x": [
                   "1055",
                   "1136",
@@ -14399,11 +14336,11 @@
                   "1218"
             ]
       },
-      "Star-Black": [
+      "star-black": [
             "1058",
             "1059"
       ],
-      "McAfee-LiveSafe": [
+      "mcafee-livesafe": [
             "1061",
             "1119",
             "1142",
@@ -14413,23 +14350,24 @@
             "1198",
             "1231"
       ],
-      "Mineral-Silver": [
+      "mineral-silver": [
             "1061",
             "1065",
             "1227",
             "1231"
       ],
-      "Space-Grey": [
+      "space-grey": [
             "1062",
             "1064",
             "1071",
             "1126",
+            "1153",
             "1166",
             "1183",
             "1208",
             "1239"
       ],
-      "Force-Touch-Trackpad": [
+      "force-touch-trackpad": [
             "1062",
             "1064",
             "1077",
@@ -14439,19 +14377,20 @@
             "1157",
             "1166"
       ],
-      "HP-Recovery-Manager": [
+      "hp-recovery-manager": [
             "1065",
             "1172",
             "1221",
             "1224"
       ],
-      "Coral-Crush": [
+      "coral-crush": [
             "1068"
       ],
-      "Any-types-of-damage": [
-            "1068"
+      "any-types-of-damage": [
+            "1068",
+            "1072"
       ],
-      "Multigesture-Touchpad": [
+      "multigesture-touchpad": [
             "1068",
             "1070",
             "1072",
@@ -14459,8 +14398,8 @@
             "1179",
             "1249"
       ],
-      "Supported-Operating-System": {
-            "Windows-10": [
+      "supported-operating-system": {
+            "windows-10": [
                   "1068",
                   "1070",
                   "1072",
@@ -14471,20 +14410,20 @@
                   "1249"
             ]
       },
-      "Wireless-WAN": {
-            "Integrated-Wi-Fi-5-(802.11-ac)": [
+      "wireless-wan": {
+            "integrated-wi-fi-5-(802.11-ac)": [
                   "1068"
             ],
-            "Integrated-802.11ac-(2x2)": [
+            "integrated-802.11ac-(2x2)": [
                   "1070",
                   "1072"
             ],
-            "Integrated-802.11-AC": [
+            "integrated-802.11-ac": [
                   "1179",
                   "1249"
             ]
       },
-      "Part-Failure": [
+      "part-failure": [
             "1069",
             "1113",
             "1150",
@@ -14492,57 +14431,54 @@
             "1180",
             "1191"
       ],
-      "Sound-Chip": {
-            "Realtek-ALC-233": [
+      "sound-chip": {
+            "realtek-alc-233": [
                   "1069"
             ],
             "1366-x-768": [
                   "1104"
             ],
-            "Realtek-ALC1220": [
+            "realtek-alc1220": [
                   "1148",
                   "1151"
             ]
       },
-      "Any-Type-of-Damage": [
+      "any-type-of-damage": [
             "1070",
             "1133",
             "1222"
       ],
-      "Travel-&-Business,-Performance": [
+      "travel-&-business,-performance": [
             "1070",
             "1133"
       ],
-      "Quad-HD-LED-Backlit-IPS-Display": [
+      "quad-hd-led-backlit-ips-display": [
             "1071",
             "1082"
       ],
-      "Any-Types-of-damage": [
-            "1072"
-      ],
-      "Night-Fall-Black": [
+      "night-fall-black": [
             "1075"
       ],
-      "Rose-Gold": [
+      "rose-gold": [
             "1078"
       ],
-      "SATA-III": [
+      "sata-iii": [
             "1078",
             "1135"
       ],
-      "Gold": [
+      "gold": [
             "1082",
             "1199"
       ],
-      "Matte-Black": [
+      "matte-black": [
             "1084",
             "1125"
       ],
-      "Pearl-White": [
+      "pearl-white": [
             "1087",
             "1242"
       ],
-      "Grey": [
+      "grey": [
             "1088",
             "1123",
             "1161",
@@ -14552,21 +14488,21 @@
             "1215",
             "1249"
       ],
-      "Dock-Port": {
-            "Yes": [
+      "dock-port": {
+            "yes": [
                   "1090",
                   "1139"
             ]
       },
-      "Matt-Black": [
+      "matt-black": [
             "1091",
             "1205",
             "1210",
             "1213",
             "1244"
       ],
-      "Face-Recognition": {
-            "No": [
+      "face-recognition": {
+            "no": [
                   "1091",
                   "1201",
                   "1202",
@@ -14584,117 +14520,107 @@
                   "1244"
             ]
       },
-      "Platinum": [
+      "platinum": [
             "1093",
             "1103",
             "1119",
             "1142",
             "1233"
       ],
-      "EMMC-Storage-Capacity": {
-            "64-GB": [
+      "emmc-storage-capacity": {
+            "64-gb": [
                   "1093",
                   "1196"
             ]
       },
-      "Shale-Black": [
+      "shale-black": [
             "1095",
             "1152",
             "1158"
       ],
-      "Optane-Memory": {
-            "16-GB": [
+      "optane-memory": {
+            "16-gb": [
                   "1095",
                   "1152"
             ],
-            "32-GB": [
+            "32-gb": [
                   "1221"
             ]
       },
-      "Cloud-Silver": [
+      "cloud-silver": [
             "1099",
             "1202",
             "1241"
       ],
-      "Grey&Imr": [
+      "grey&imr": [
             "1101"
       ],
-      "Gun-Metal": [
+      "gun-metal": [
             "1104"
       ],
-      "HD-LED-Backlit-Display": [
+      "hd-led-backlit-display": [
             "1104"
       ],
-      "Light-Grey": [
+      "light-grey": [
             "1106"
       ],
-      "Platinum-Silver": [
+      "platinum-silver": [
             "1111",
             "1160",
             "1228",
             "1246"
       ],
-      "White": [
+      "white": [
             "1114"
       ],
-      "Deep-Dive-Blue": [
+      "deep-dive-blue": [
             "1115",
             "1170",
             "1234"
       ],
-      "Royal-Blue": [
+      "royal-blue": [
             "1116"
       ],
-      "Honey-Gold": [
+      "honey-gold": [
             "1121"
       ],
-      "Microsoft": [
+      "microsoft": [
             "1125"
       ],
-      "Laptop,-Battery,-AC-Adapter": [
+      "laptop,-battery,-ac-adapter": [
             "1132"
       ],
-      "Anti-Glare-Display": [
+      "anti-glare-display": [
             "1132"
       ],
-      "Performance": [
+      "performance": [
             "1132"
       ],
-      "Gold&Metal": [
+      "gold&metal": [
             "1135"
       ],
-      "Bronze": [
+      "bronze": [
             "1136",
             "1167"
       ],
-      "Grey-Metal": [
+      "grey-metal": [
             "1141"
       ],
-      "SPace-Grey": [
+      "wqhd-led-backlit-ips-display": [
             "1153"
       ],
-      "Multi-Touch-Trackpad": [
-            "1153"
-      ],
-      "WQHD-LED-Backlit-IPS-Display": [
-            "1153"
-      ],
-      "Black-Metal": [
+      "black-metal": [
             "1154",
             "1186",
             "1203"
       ],
-      "Obsidian-Black": [
+      "obsidian-black": [
             "1155"
       ],
-      "Full+-HD-LED-Backlit-IPS-Display": [
+      "full+-hd-led-backlit-ips-display": [
             "1157"
       ],
-      "SHadow-Black": [
-            "1159",
-            "1185"
-      ],
-      "Gaming": [
+      "gaming": [
             "1159",
             "1162",
             "1175",
@@ -14704,120 +14630,114 @@
             "1191",
             "1223"
       ],
-      "All-Parts-of-product": [
+      "all-parts-of-product": [
             "1162"
       ],
-      "Any-Physical-Damage": [
+      "any-physical-damage": [
             "1162"
       ],
-      "Burgundy-Red": [
+      "burgundy-red": [
             "1168"
       ],
-      "NightFall-Black": [
+      "nightfall-black": [
             "1172"
       ],
-      "Manufacturer-warranty": [
+      "manufacturer-warranty": [
             "1175",
             "1248"
       ],
-      "Other-then-Manufacturer-warranty": [
-            "1175"
-      ],
-      "Main-units": [
+      "other-then-manufacturer-warranty": [
             "1175",
             "1248"
       ],
-      "Gaming,-Performance": [
+      "main-units": [
+            "1175",
+            "1248"
+      ],
+      "gaming,-performance": [
             "1176"
       ],
-      "Epic-Silver": [
+      "epic-silver": [
             "1178"
       ],
-      "sata": [
+      "travel-&-business": [
             "1179",
             "1249"
       ],
-      "Travel-&-Business": [
-            "1179",
-            "1249"
-      ],
-      "Blue": [
+      "blue": [
             "1182"
       ],
-      "Cognac-Brown": [
+      "cognac-brown": [
             "1187",
             "1224"
       ],
-      "Jet-Black": [
+      "jet-black": [
             "1193"
       ],
-      "Champagne-Gold": [
+      "champagne-gold": [
             "1195",
             "1240"
       ],
-      "Ceramic-White": [
+      "ceramic-white": [
             "1196"
       ],
-      "Recovery-Mode-Available": [
+      "recovery-mode-available": [
             "1196"
       ],
-      "Purple": [
+      "purple": [
             "1197"
       ],
-      "QHD+-IPS-MULTI-TOUCH": [
+      "qhd+-ips-multi-touch": [
             "1199"
       ],
-      "Raven-Black": [
+      "raven-black": [
             "1200"
       ],
-      "Fragrant-Lilac": [
+      "fragrant-lilac": [
             "1201"
       ],
-      "Ornament-Gold": [
+      "ornament-gold": [
             "1204"
       ],
-      "Paisley-Lilac": [
+      "paisley-lilac": [
             "1207"
       ],
-      "Charcoal-Blue": [
+      "charcoal-blue": [
             "1209"
       ],
-      "Everyday-Use": [
+      "everyday-use": [
             "1212"
       ],
-      "Celestial-Blue": [
+      "celestial-blue": [
             "1214"
       ],
-      "Chiclet-Keyboard": [
+      "chiclet-keyboard": [
             "1217"
       ],
-      "Black-Aluminum": [
+      "black-aluminum": [
             "1219"
       ],
-      "Poseidon-Blue": [
+      "poseidon-blue": [
             "1220",
             "1221"
       ],
-      "Light-Silver": [
+      "light-silver": [
             "1225"
       ],
-      "Himalayan-Blue": [
+      "himalayan-blue": [
             "1235"
       ],
-      "Shamrock-Green": [
+      "shamrock-green": [
             "1236"
       ],
-      "Angel-Blue": [
+      "angel-blue": [
             "1237",
             "1238"
       ],
-      "Icicle-Silver": [
+      "icicle-silver": [
             "1245"
       ],
-      "Touchpad-(Glass-Covered)": [
+      "touchpad-(glass-covered)": [
             "1245"
-      ],
-      "Other-then-manufacturer-warranty": [
-            "1248"
       ]
 }

@@ -1,5 +1,5 @@
 {
-      "Samsung": [
+      "samsung": [
             "4683",
             "4693",
             "4701",
@@ -108,8 +108,8 @@
             "5311",
             "5321"
       ],
-      "Child-Lock": {
-            "Yes": [
+      "child-lock": {
+            "yes": [
                   "4683",
                   "4684",
                   "4685",
@@ -365,7 +365,7 @@
                   "5317",
                   "5321"
             ],
-            "No": [
+            "no": [
                   "4698",
                   "4700",
                   "4708",
@@ -432,7 +432,7 @@
                   "5319"
             ]
       },
-      "Grey": [
+      "grey": [
             "4683",
             "4686",
             "4689",
@@ -650,7 +650,7 @@
             "5311",
             "5320"
       ],
-      "Depth": {
+      "depth": {
             "560-mm": [
                   "4683",
                   "4722",
@@ -1562,8 +1562,8 @@
                   "5322"
             ]
       },
-      "Digital-Display": {
-            "Yes": [
+      "digital-display": {
+            "yes": [
                   "4683",
                   "4684",
                   "4686",
@@ -2011,7 +2011,7 @@
                   "5320",
                   "5321"
             ],
-            "No": [
+            "no": [
                   "4685",
                   "4688",
                   "4689",
@@ -2210,8 +2210,8 @@
                   "5324"
             ]
       },
-      "Display-Features": {
-            "Display-Segment:-88": [
+      "display-features": {
+            "display-segment:-88": [
                   "4683",
                   "4722",
                   "4746",
@@ -2239,16 +2239,16 @@
                   "5287",
                   "5311"
             ],
-            "User-Friendly-LCD-Display": [
+            "user-friendly-lcd-display": [
                   "4690",
                   "5130"
             ],
-            "Digital-LED": [
+            "digital-led": [
                   "4692",
                   "5085",
                   "5106"
             ],
-            "LED-Digital": [
+            "led-digital": [
                   "4696",
                   "4706",
                   "4716",
@@ -2277,14 +2277,14 @@
                   "5122",
                   "5148"
             ],
-            "Display-Type:-LED": [
+            "display-type:-led": [
                   "4714"
             ],
-            "7-Segment-LED-Display": [
+            "7-segment-led-display": [
                   "4715",
                   "5054"
             ],
-            "LED-Display": [
+            "led-display": [
                   "4717",
                   "4727",
                   "4739",
@@ -2299,13 +2299,13 @@
                   "5232",
                   "5289"
             ],
-            "Inlay-Display": [
+            "inlay-display": [
                   "4725"
             ],
-            "Delay-Start": [
+            "delay-start": [
                   "4729"
             ],
-            "Panel-Display:-LED": [
+            "panel-display:-led": [
                   "4757",
                   "4998",
                   "5068",
@@ -2315,22 +2315,22 @@
                   "5260",
                   "5304"
             ],
-            "Power-ON/OFF": [
+            "power-on/off": [
                   "4821",
                   "4929"
             ],
-            "Large-LED-Display": [
+            "large-led-display": [
                   "4842"
             ],
-            "Touch-LED-Display": [
+            "touch-led-display": [
                   "4854",
                   "5113"
             ],
-            "NA": [
+            "na": [
                   "4934",
                   "5030"
             ],
-            "Panel-Display:-Ice-Blue-LED": [
+            "panel-display:-ice-blue-led": [
                   "4949",
                   "4980",
                   "5004",
@@ -2349,36 +2349,36 @@
                   "5266",
                   "5305"
             ],
-            "Inlay-Display,-LED-Display": [
+            "inlay-display,-led-display": [
                   "5002"
             ],
-            "LED": [
+            "led": [
                   "5007"
             ],
-            "Time-Display": [
+            "time-display": [
                   "5009"
             ],
-            "LED-Display-Screen": [
+            "led-display-screen": [
                   "5024",
                   "5026",
                   "5032",
                   "5101",
                   "5143"
             ],
-            "LED-Indication": [
+            "led-indication": [
                   "5109"
             ],
-            "No": [
+            "no": [
                   "5224"
             ],
-            "LED-Panel-Display": [
+            "led-panel-display": [
                   "5284"
             ],
-            "Inclined-Display": [
+            "inclined-display": [
                   "5295"
             ]
       },
-      "Energy-Rating": {
+      "energy-rating": {
             "0": [
                   "4683",
                   "4684",
@@ -3023,7 +3023,7 @@
                   "5301"
             ]
       },
-      "Fully-Automatic-Top-Load": [
+      "fully-automatic-top-load": [
             "4683",
             "4684",
             "4686",
@@ -3322,7 +3322,7 @@
             "5320",
             "5321"
       ],
-      "Height": {
+      "height": {
             "850-mm": [
                   "4683",
                   "4703",
@@ -3812,6 +3812,7 @@
                   "5044",
                   "5141",
                   "5146",
+                  "5209",
                   "5286",
                   "5303"
             ],
@@ -4199,9 +4200,6 @@
             "100.4-cm": [
                   "5196"
             ],
-            "95.6-Cm": [
-                  "5209"
-            ],
             "1040-mm": [
                   "5226"
             ],
@@ -4250,8 +4248,8 @@
                   "5323"
             ]
       },
-      "In-The-Box": {
-            "User-Manual": [
+      "in-the-box": {
+            "user-manual": [
                   "4683",
                   "4722",
                   "4723",
@@ -4334,7 +4332,7 @@
                   "5321",
                   "5322"
             ],
-            "Drain-Hose": [
+            "drain-hose": [
                   "4685",
                   "4690",
                   "4695",
@@ -4410,10 +4408,10 @@
             "l": [
                   "4692"
             ],
-            "Drain-Pipe-Clip": [
+            "drain-pipe-clip": [
                   "4698"
             ],
-            "Hose-Drain": [
+            "hose-drain": [
                   "4701",
                   "4724",
                   "4768",
@@ -4430,15 +4428,15 @@
                   "5258",
                   "5274"
             ],
-            "1-Water-Inlet": [
+            "1-water-inlet": [
                   "4714"
             ],
-            "1-Inlet-Pipe": [
+            "1-inlet-pipe": [
                   "4717",
                   "4727",
                   "4819"
             ],
-            "Inlet-Pipe": [
+            "inlet-pipe": [
                   "4728",
                   "4729",
                   "4740",
@@ -4464,11 +4462,11 @@
                   "5303",
                   "5316"
             ],
-            "Accessories": [
+            "accessories": [
                   "4757",
                   "5028"
             ],
-            "1-Washing-Machine": [
+            "1-washing-machine": [
                   "4759",
                   "4793",
                   "4849",
@@ -4508,7 +4506,7 @@
                   "5304",
                   "5305"
             ],
-            "Rat-Mesh": [
+            "rat-mesh": [
                   "4777",
                   "4785",
                   "4798",
@@ -4517,21 +4515,21 @@
                   "5103",
                   "5220"
             ],
-            "1-Washing-Machine-Unit": [
+            "1-washing-machine-unit": [
                   "4834"
             ],
-            "Drain-Pipe": [
+            "drain-pipe": [
                   "4846",
                   "5080",
                   "5193"
             ],
-            "4-Transport-Hole-Plug": [
+            "4-transport-hole-plug": [
                   "4853",
                   "4879",
                   "5056",
                   "5079"
             ],
-            "Gland": [
+            "gland": [
                   "4864",
                   "4939",
                   "5064",
@@ -4540,7 +4538,7 @@
                   "5240",
                   "5250"
             ],
-            "Outlet-Hose-Support": [
+            "outlet-hose-support": [
                   "4905",
                   "4913",
                   "4979",
@@ -4553,7 +4551,7 @@
                   "5170",
                   "5323"
             ],
-            "Spin-Cap": [
+            "spin-cap": [
                   "4957",
                   "5015",
                   "5061",
@@ -4563,14 +4561,14 @@
                   "5199",
                   "5244"
             ],
-            "Service-Manual": [
+            "service-manual": [
                   "4960",
                   "5192"
             ],
-            "Tapping-Screw": [
+            "tapping-screw": [
                   "4997"
             ],
-            "Owner's-Manual": [
+            "owner's-manual": [
                   "5036",
                   "5076",
                   "5137",
@@ -4578,31 +4576,31 @@
                   "5298",
                   "5300"
             ],
-            "1-Washer-Dryer": [
+            "1-washer-dryer": [
                   "5048"
             ],
-            "Bottom-Cover": [
+            "bottom-cover": [
                   "5096"
             ],
-            "Anti-Rat-Cover": [
+            "anti-rat-cover": [
                   "5114",
                   "5119",
                   "5312"
             ],
-            "1-Washing-Machine,-User-Manual": [
+            "1-washing-machine,-user-manual": [
                   "5120",
                   "5173"
             ],
-            "Clip-for-Drain-Hose": [
+            "clip-for-drain-hose": [
                   "5171"
             ],
-            "Washing-Machine,-User-Manual": [
+            "washing-machine,-user-manual": [
                   "5194"
             ],
-            "Owner-Manual": [
+            "owner-manual": [
                   "5219"
             ],
-            "Manual": [
+            "manual": [
                   "5229",
                   "5232"
             ],
@@ -4610,8 +4608,8 @@
                   "5269"
             ]
       },
-      "In-built-Heater": {
-            "No": [
+      "in-built-heater": {
+            "no": [
                   "4683",
                   "4684",
                   "4687",
@@ -5060,7 +5058,7 @@
                   "5323",
                   "5324"
             ],
-            "Yes": [
+            "yes": [
                   "4685",
                   "4686",
                   "4690",
@@ -5258,7 +5256,7 @@
                   "5317"
             ]
       },
-      "Maximum-Spin-Speed": {
+      "maximum-spin-speed": {
             "700-rpm": [
                   "4683",
                   "4692",
@@ -5320,6 +5318,7 @@
                   "5177",
                   "5191",
                   "5205",
+                  "5208",
                   "5211",
                   "5218",
                   "5221",
@@ -5390,7 +5389,8 @@
                   "5157",
                   "5159",
                   "5236",
-                  "5265"
+                  "5265",
+                  "5320"
             ],
             "740-rpm": [
                   "4686",
@@ -5470,6 +5470,7 @@
                   "5162",
                   "5168",
                   "5169",
+                  "5186",
                   "5187",
                   "5190",
                   "5192",
@@ -5492,9 +5493,43 @@
                   "5307",
                   "5309"
             ],
-            "1350-RPM": [
+            "1350-rpm": [
                   "4688",
-                  "4697"
+                  "4697",
+                  "4700",
+                  "4708",
+                  "4710",
+                  "4718",
+                  "4721",
+                  "4730",
+                  "4734",
+                  "4773",
+                  "4778",
+                  "4779",
+                  "4783",
+                  "4787",
+                  "4791",
+                  "4805",
+                  "4809",
+                  "4844",
+                  "4894",
+                  "4909",
+                  "4947",
+                  "4967",
+                  "4983",
+                  "5050",
+                  "5124",
+                  "5134",
+                  "5140",
+                  "5160",
+                  "5179",
+                  "5185",
+                  "5195",
+                  "5199",
+                  "5278",
+                  "5302",
+                  "5313",
+                  "5322"
             ],
             "1450-rpm": [
                   "4689",
@@ -5527,8 +5562,10 @@
                   "4690",
                   "4694",
                   "4702",
+                  "4704",
                   "4711",
                   "4726",
+                  "4738",
                   "4740",
                   "4743",
                   "4755",
@@ -5545,9 +5582,12 @@
                   "4820",
                   "4822",
                   "4824",
+                  "4825",
+                  "4829",
                   "4831",
                   "4833",
                   "4835",
+                  "4838",
                   "4843",
                   "4856",
                   "4860",
@@ -5571,6 +5611,7 @@
                   "5003",
                   "5013",
                   "5014",
+                  "5034",
                   "5039",
                   "5063",
                   "5067",
@@ -5610,6 +5651,8 @@
                   "4737",
                   "4739",
                   "4747",
+                  "4788",
+                  "4794",
                   "4813",
                   "4840",
                   "4841",
@@ -5624,6 +5667,7 @@
                   "4928",
                   "4934",
                   "4958",
+                  "4976",
                   "4987",
                   "4989",
                   "4990",
@@ -5636,6 +5680,7 @@
                   "5026",
                   "5030",
                   "5035",
+                  "5051",
                   "5052",
                   "5054",
                   "5064",
@@ -5658,6 +5703,7 @@
                   "5229",
                   "5232",
                   "5259",
+                  "5268",
                   "5290",
                   "5306",
                   "5318"
@@ -5704,16 +5750,20 @@
                   "5099",
                   "5101",
                   "5106",
+                  "5120",
                   "5121",
                   "5130",
                   "5170",
+                  "5173",
                   "5176",
                   "5203",
                   "5212",
                   "5225",
                   "5246",
                   "5260",
+                  "5269",
                   "5279",
+                  "5292",
                   "5294",
                   "5304"
             ],
@@ -5747,50 +5797,6 @@
                   "5122",
                   "5148",
                   "5273"
-            ],
-            "1350-rpm": [
-                  "4700",
-                  "4708",
-                  "4710",
-                  "4718",
-                  "4721",
-                  "4730",
-                  "4734",
-                  "4773",
-                  "4778",
-                  "4779",
-                  "4783",
-                  "4787",
-                  "4791",
-                  "4805",
-                  "4809",
-                  "4844",
-                  "4894",
-                  "4909",
-                  "4947",
-                  "4967",
-                  "4983",
-                  "5050",
-                  "5124",
-                  "5134",
-                  "5140",
-                  "5160",
-                  "5179",
-                  "5185",
-                  "5195",
-                  "5199",
-                  "5278",
-                  "5302",
-                  "5313",
-                  "5322"
-            ],
-            "1400-RPM": [
-                  "4704",
-                  "4738",
-                  "4825",
-                  "4829",
-                  "4838",
-                  "5034"
             ],
             "720-rpm": [
                   "4709",
@@ -5860,13 +5866,6 @@
                   "4863",
                   "4936",
                   "5244"
-            ],
-            "1000-RPM": [
-                  "4788",
-                  "4794",
-                  "4976",
-                  "5051",
-                  "5268"
             ],
             "1100-rpm": [
                   "4790",
@@ -5947,12 +5946,6 @@
                   "5094",
                   "5129"
             ],
-            "1200-RPM": [
-                  "5120",
-                  "5173",
-                  "5269",
-                  "5292"
-            ],
             "600-rpm": [
                   "5139",
                   "5153",
@@ -5963,19 +5956,10 @@
                   "5249",
                   "5256",
                   "5299"
-            ],
-            "740-RPM": [
-                  "5186"
-            ],
-            "700-RPM": [
-                  "5208"
-            ],
-            "800-RPM": [
-                  "5320"
             ]
       },
-      "Model-Name": {
-            "WA62M4100HY/TL-01": [
+      "model-name": {
+            "wa62m4100hy/tl-01": [
                   "4683",
                   "4722",
                   "4746",
@@ -6003,37 +5987,37 @@
                   "5287",
                   "5311"
             ],
-            "T7569NDDLH": [
+            "t7569nddlh": [
                   "4684"
             ],
-            "Diva-Aqua-VX": [
+            "diva-aqua-vx": [
                   "4685"
             ],
-            "T65SKSF4Z": [
+            "t65sksf4z": [
                   "4687"
             ],
-            "MQSA60H5M": [
+            "mqsa60h5m": [
                   "4688"
             ],
-            "Senator-Aqua-SX": [
+            "senator-aqua-sx": [
                   "4690"
             ],
-            "HWM62-FE": [
+            "hwm62-fe": [
                   "4691"
             ],
-            "T62CGN-/-CRYSTAL-62": [
+            "t62cgn-/-crystal-62": [
                   "4692"
             ],
-            "WW60R20GLMA/TL": [
+            "ww60r20glma/tl": [
                   "4693"
             ],
-            "ACE-7.5-SUPREME-GREY-DAZZLE": [
+            "ace-7.5-supreme-grey-dazzle": [
                   "4694"
             ],
-            "WAT24463IN": [
+            "wat24463in": [
                   "4695"
             ],
-            "MWMTL0105C02": [
+            "mwmtl0105c02": [
                   "4696",
                   "4716",
                   "4742",
@@ -6054,22 +6038,22 @@
                   "5122",
                   "5148"
             ],
-            "MQSA65H5B": [
+            "mqsa65h5b": [
                   "4697"
             ],
-            "WS65WLPT1LR-Liliput": [
+            "ws65wlpt1lr-liliput": [
                   "4698"
             ],
-            "WM-ROYAL-6.5-GREY-5YMW": [
+            "wm-royal-6.5-grey-5ymw": [
                   "4699"
             ],
-            "P7010RRAA": [
+            "p7010rraa": [
                   "4700"
             ],
-            "WA62N4422BS/TL": [
+            "wa62n4422bs/tl": [
                   "4701"
             ],
-            "Senator-WXS": [
+            "senator-wxs": [
                   "4702",
                   "4726",
                   "4743",
@@ -6094,22 +6078,22 @@
                   "5291",
                   "5317"
             ],
-            "FH0FANDNL02": [
+            "fh0fandnl02": [
                   "4703"
             ],
-            "MQSA85H5B": [
+            "mqsa85h5b": [
                   "4704"
             ],
-            "WT-EON-620-A-Gp-Gr": [
+            "wt-eon-620-a-gp-gr": [
                   "4705"
             ],
-            "MWMTL075S09": [
+            "mwmtl075s09": [
                   "4706",
                   "4752",
                   "4826",
                   "4847"
             ],
-            "WHITEMAGIC-ELITE-7.0-GREY-10YMW": [
+            "whitemagic-elite-7.0-grey-10ymw": [
                   "4707",
                   "4732",
                   "4756",
@@ -6130,390 +6114,390 @@
                   "5138",
                   "5162"
             ],
-            "P8035SPMZ": [
+            "p8035spmz": [
                   "4708"
             ],
-            "TL--RDW-6.5KG-Aqua": [
+            "tl--rdw-6.5kg-aqua": [
                   "4709"
             ],
-            "P7020NGAY": [
+            "p7020ngay": [
                   "4710"
             ],
-            "WT667QPNDPGXTL": [
+            "wt667qpndpgxtl": [
                   "4711"
             ],
-            "WAT24464IN": [
+            "wat24464in": [
                   "4713"
             ],
-            "Crystal-65": [
+            "crystal-65": [
                   "4714"
             ],
-            "Serena-Aqua-Sx-LDT-7.0-KG": [
+            "serena-aqua-sx-ldt-7.0-kg": [
                   "4715"
             ],
-            "WOE654Y0IN": [
+            "woe654y0in": [
                   "4717"
             ],
-            "WT85R4000LL/TL": [
+            "wt85r4000ll/tl": [
                   "4718"
             ],
-            "TL-REW-Aqua-6.5-kg": [
+            "tl-rew-aqua-6.5-kg": [
                   "4719"
             ],
-            "WM-ROYAL-6.0-SATIN-GREY-5YMW": [
+            "wm-royal-6.0-satin-grey-5ymw": [
                   "4720"
             ],
-            "P6001RG": [
+            "p6001rg": [
                   "4721"
             ],
-            "WT725QPNDMPXTL-02": [
+            "wt725qpndmpxtl-02": [
                   "4723"
             ],
-            "WA70N4420BS/TL": [
+            "wa70n4420bs/tl": [
                   "4724"
             ],
-            "WAB16060IN": [
+            "wab16060in": [
                   "4725"
             ],
-            "WOE654W0IN": [
+            "woe654w0in": [
                   "4727"
             ],
-            "P1145SRAZ": [
+            "p1145sraz": [
                   "4730"
             ],
-            "T8069NEDLH": [
+            "t8069nedlh": [
                   "4731"
             ],
-            "FH2G6HDNL42": [
+            "fh2g6hdnl42": [
                   "4733"
             ],
-            "P8035SGMZ": [
+            "p8035sgmz": [
                   "4734"
             ],
-            "WHITEMAGIC-ELITE-7.5-WINE-10YMW": [
+            "whitemagic-elite-7.5-wine-10ymw": [
                   "4735"
             ],
-            "WW65R20GLSW/TL": [
+            "ww65r20glsw/tl": [
                   "4737"
             ],
-            "MQSA75H5M": [
+            "mqsa75h5m": [
                   "4738"
             ],
-            "WAK20164IN": [
+            "wak20164in": [
                   "4739"
             ],
-            "ACE-XL10.5-Graphite-Grey-(5YR)": [
+            "ace-xl10.5-graphite-grey-(5yr)": [
                   "4740"
             ],
-            "WAK24168IN": [
+            "wak24168in": [
                   "4744"
             ],
-            "Senorita-Aqua-SX-6.5": [
+            "senorita-aqua-sx-6.5": [
                   "4747"
             ],
-            "WHITEMAGIC-ELITE-7.5-GREY-10YMW": [
+            "whitemagic-elite-7.5-grey-10ymw": [
                   "4748"
             ],
-            "WM-ROYAL-6.2-SHINY-GREY": [
+            "wm-royal-6.2-shiny-grey": [
                   "4749"
             ],
-            "WA65M4101HY/TL": [
+            "wa65m4101hy/tl": [
                   "4750"
             ],
-            "WM-ROYAL-PLUS-7.5-GREY-5YMW": [
+            "wm-royal-plus-7.5-grey-5ymw": [
                   "4751"
             ],
-            "MQFA60IW": [
+            "mqfa60iw": [
                   "4753"
             ],
-            "WT-Eon-Allure-EC-7.5-RoGr-CNA": [
+            "wt-eon-allure-ec-7.5-rogr-cna": [
                   "4754"
             ],
-            "SA96500": [
+            "sa96500": [
                   "4755"
             ],
-            "WA10M5120SG/TL": [
+            "wa10m5120sg/tl": [
                   "4757"
             ],
-            "WOE704Y0IN": [
+            "woe704y0in": [
                   "4759"
             ],
-            "T55CGN": [
+            "t55cgn": [
                   "4760"
             ],
-            "TL-SDG-/-SGDG-7.0KG-AQUA": [
+            "tl-sdg-/-sgdg-7.0kg-aqua": [
                   "4761"
             ],
-            "T7269NDDL": [
+            "t7269nddl": [
                   "4763"
             ],
-            "WM-ROYAL-PLUS-7.0-GREY-5YMW": [
+            "wm-royal-plus-7.0-grey-5ymw": [
                   "4764"
             ],
-            "WS-Edge-CLS-7.2-PN2-M-WNRD": [
+            "ws-edge-cls-7.2-pn2-m-wnrd": [
                   "4765"
             ],
-            "FH2G6TDNL42": [
+            "fh2g6tdnl42": [
                   "4767"
             ],
-            "WA65N4420NS/TL": [
+            "wa65n4420ns/tl": [
                   "4768"
             ],
-            "TL-RDS/RDSS-6.5-kg-Aqua": [
+            "tl-rds/rdss-6.5-kg-aqua": [
                   "4770"
             ],
-            "Superb-Atom-60i-GREY-DAZZLE": [
+            "superb-atom-60i-grey-dazzle": [
                   "4771"
             ],
-            "P7535SBMZ": [
+            "p7535sbmz": [
                   "4773"
             ],
-            "360-BW-PRO-INV-H-7.5-GRAPHITE-#": [
+            "360-bw-pro-inv-h-7.5-graphite-#": [
                   "4774"
             ],
-            "SA97500": [
+            "sa97500": [
                   "4775"
             ],
-            "HWM-60-10": [
+            "hwm-60-10": [
                   "4777"
             ],
-            "(Burgundy)-P8035SRMZ": [
+            "(burgundy)-p8035srmz": [
                   "4778"
             ],
-            "P7015SRAY": [
+            "p7015sray": [
                   "4779"
             ],
-            "WMS62TL": [
+            "wms62tl": [
                   "4780",
                   "4863"
             ],
-            "P7535SMMZ": [
+            "p7535smmz": [
                   "4783"
             ],
-            "Superb-atom-70s-grey-(5yr)": [
+            "superb-atom-70s-grey-(5yr)": [
                   "4784"
             ],
-            "MQTLD65W": [
+            "mqtld65w": [
                   "4785"
             ],
-            "SISA65GMAW": [
+            "sisa65gmaw": [
                   "4787"
             ],
-            "MQFLDG60": [
+            "mqfldg60": [
                   "4788"
             ],
-            "WOE652D0IN": [
+            "woe652d0in": [
                   "4789"
             ],
-            "MWMFL070GBF": [
+            "mwmfl070gbf": [
                   "4790"
             ],
-            "MQSAHB65": [
+            "mqsahb65": [
                   "4791"
             ],
-            "JSX60FFL-2022C": [
+            "jsx60ffl-2022c": [
                   "4793"
             ],
-            "WW60R20GLMW/TL": [
+            "ww60r20glmw/tl": [
                   "4794"
             ],
-            "WT-Eon-Allure-CLS-700-CANMP-Gr": [
+            "wt-eon-allure-cls-700-canmp-gr": [
                   "4795"
             ],
-            "WT-EON-700-A-Gp-Gr": [
+            "wt-eon-700-a-gp-gr": [
                   "4797"
             ],
-            "MQTLDW72": [
+            "mqtldw72": [
                   "4798"
             ],
-            "MQTLDG85": [
+            "mqtldg85": [
                   "4799"
             ],
-            "NA-W65E5ARB": [
+            "na-w65e5arb": [
                   "4800"
             ],
-            "T70CGN": [
+            "t70cgn": [
                   "4801"
             ],
-            "360-BW-PRO-H-9.5-GRAPHITE-10YMW": [
+            "360-bw-pro-h-9.5-graphite-10ymw": [
                   "4803"
             ],
-            "WAT2846SIN": [
+            "wat2846sin": [
                   "4804"
             ],
-            "SISA62GBLW": [
+            "sisa62gblw": [
                   "4805"
             ],
-            "ACE-XL-9.5-Coral-Red-(5-YR)": [
+            "ace-xl-9.5-coral-red-(5-yr)": [
                   "4807"
             ],
-            "T80SJFS1Z": [
+            "t80sjfs1z": [
                   "4808",
                   "4850"
             ],
-            "P6510NBAY": [
+            "p6510nbay": [
                   "4809"
             ],
-            "T70SJFS1Z": [
+            "t70sjfs1z": [
                   "4810"
             ],
-            "WOE704W0IN": [
+            "woe704w0in": [
                   "4811"
             ],
-            "ELENA-ZXS": [
+            "elena-zxs": [
                   "4813"
             ],
-            "WAK24164IN": [
+            "wak24164in": [
                   "4814"
             ],
-            "HTW82-178BK": [
+            "htw82-178bk": [
                   "4818"
             ],
-            "MQFLBS85": [
+            "mqflbs85": [
                   "4819"
             ],
-            "MQFLDG10": [
+            "mqfldg10": [
                   "4820"
             ],
-            "SITL65DW": [
+            "sitl65dw": [
                   "4821"
             ],
-            "THD12STB": [
+            "thd12stb": [
                   "4823"
             ],
-            "Ace-XL-9-GRAPHITE-GREY(5YR)-E": [
+            "ace-xl-9-graphite-grey(5yr)-e": [
                   "4824"
             ],
-            "MQSAHB85": [
+            "mqsahb85": [
                   "4825"
             ],
-            "MQFA70D5G": [
+            "mqfa70d5g": [
                   "4827"
             ],
-            "T65SNSF1Z": [
+            "t65snsf1z": [
                   "4828"
             ],
-            "SISA75GBLW": [
+            "sisa75gblw": [
                   "4829"
             ],
-            "SA98500": [
+            "sa98500": [
                   "4831"
             ],
-            "FHT1409SWS": [
+            "fht1409sws": [
                   "4833"
             ],
-            "WW80J4243MW/TL": [
+            "ww80j4243mw/tl": [
                   "4834"
             ],
-            "WW80J44G0IW/TL": [
+            "ww80j44g0iw/tl": [
                   "4835"
             ],
-            "SISA85GMAW": [
+            "sisa85gmaw": [
                   "4838"
             ],
-            "DW75BR": [
+            "dw75br": [
                   "4839"
             ],
-            "FHT1065SNW": [
+            "fht1065snw": [
                   "4840"
             ],
-            "SERENA-ZXS": [
+            "serena-zxs": [
                   "4841"
             ],
-            "WAK24264IN": [
+            "wak24264in": [
                   "4842"
             ],
-            "WS-EDGE-CLS-7.5-PN2-M-ROPL": [
+            "ws-edge-cls-7.5-pn2-m-ropl": [
                   "4843"
             ],
-            "P9040RGAZ": [
+            "p9040rgaz": [
                   "4844"
             ],
-            "WT-700-EDFS-Gp-Gr": [
+            "wt-700-edfs-gp-gr": [
                   "4846"
             ],
-            "FHT1065SNL": [
+            "fht1065snl": [
                   "4848"
             ],
-            "JSX70FFL-2022C": [
+            "jsx70ffl-2022c": [
                   "4849"
             ],
-            "WA75M4501HP/TL": [
+            "wa75m4501hp/tl": [
                   "4852"
             ],
-            "MQFLXI65": [
+            "mqflxi65": [
                   "4853"
             ],
-            "WLK24269IN": [
+            "wlk24269in": [
                   "4854"
             ],
-            "Ace-XL-9-Graphite-Grey-(5YR)": [
+            "ace-xl-9-graphite-grey-(5yr)": [
                   "4856"
             ],
-            "MWMFA821TTSS2GY": [
+            "mwmfa821ttss2gy": [
                   "4857"
             ],
-            "MWMFA721TTSS2GY": [
+            "mwmfa721ttss2gy": [
                   "4858"
             ],
-            "ACE-XL-9.0-#-SILVER-GREY-(5YR)": [
+            "ace-xl-9.0-#-silver-grey-(5yr)": [
                   "4859"
             ],
-            "WAT2846WIN": [
+            "wat2846win": [
                   "4860"
             ],
-            "MQFL60D5S": [
+            "mqfl60d5s": [
                   "4862"
             ],
-            "HTW80-1128BT": [
+            "htw80-1128bt": [
                   "4864"
             ],
-            "JSX70FFL-2022S": [
+            "jsx70ffl-2022s": [
                   "4866"
             ],
-            "EVA-ZXS": [
+            "eva-zxs": [
                   "4867"
             ],
-            "MWMFL080GBFS": [
+            "mwmfl080gbfs": [
                   "4868"
             ],
-            "FHT1208SNL": [
+            "fht1208snl": [
                   "4869"
             ],
-            "FHT1408SWL": [
+            "fht1408swl": [
                   "4870"
             ],
-            "(Smart-Diagnosis)-T10SJSS1Z": [
+            "(smart-diagnosis)-t10sjss1z": [
                   "4872"
             ],
-            "WAK2426SIN": [
+            "wak2426sin": [
                   "4873"
             ],
-            "T80SJBK1Z": [
+            "t80sjbk1z": [
                   "4874"
             ],
-            "FHT1006SNW": [
+            "fht1006snw": [
                   "4876"
             ],
-            "360-BW-PRO-H-7.5-GRAPHITE-10YMW": [
+            "360-bw-pro-h-7.5-graphite-10ymw": [
                   "4877"
             ],
-            "WF-EON-6010-PAEC": [
+            "wf-eon-6010-paec": [
                   "4878"
             ],
-            "SIFL65BW": [
+            "sifl65bw": [
                   "4879"
             ],
-            "FHT1207SWL": [
+            "fht1207swl": [
                   "4880"
             ],
-            "WW70J42G0KW/TL": [
+            "ww70j42g0kw/tl": [
                   "4882"
             ],
-            "MQFLDGD10": [
+            "mqfldgd10": [
                   "4883"
             ],
-            "WA65M4100HY/TL-01": [
+            "wa65m4100hy/tl-01": [
                   "4884",
                   "5221",
                   "5247",
@@ -6521,999 +6505,999 @@
                   "5297",
                   "5321"
             ],
-            "Elite-WX": [
+            "elite-wx": [
                   "4886"
             ],
-            "MQTLBG80": [
+            "mqtlbg80": [
                   "4887"
             ],
-            "MWMFL085PRF": [
+            "mwmfl085prf": [
                   "4888"
             ],
-            "FHT1409SWL": [
+            "fht1409swl": [
                   "4889"
             ],
-            "HTW70-186S": [
+            "htw70-186s": [
                   "4890"
             ],
-            "WA65T4262GG/TL": [
+            "wa65t4262gg/tl": [
                   "4892"
             ],
-            "Executive-Plus-VX-ID": [
+            "executive-plus-vx-id": [
                   "4893"
             ],
-            "P7010RRAY": [
+            "p7010rray": [
                   "4894"
             ],
-            "T65SJBK1Z": [
+            "t65sjbk1z": [
                   "4896"
             ],
-            "Ace-7.2-Supreme": [
+            "ace-7.2-supreme": [
                   "4898"
             ],
-            "NEODIVA-VX": [
+            "neodiva-vx": [
                   "4899"
             ],
-            "S80ONR": [
+            "s80onr": [
                   "4900"
             ],
-            "Senorita-ZX": [
+            "senorita-zx": [
                   "4901"
             ],
-            "WS-700-CT-7.0-WN-RD": [
+            "ws-700-ct-7.0-wn-rd": [
                   "4902"
             ],
-            "WA75T4560BM/TL": [
+            "wa75t4560bm/tl": [
                   "4903"
             ],
-            "JSX82S-2020N": [
+            "jsx82s-2020n": [
                   "4904"
             ],
-            "NA-S085M2L01": [
+            "na-s085m2l01": [
                   "4905"
             ],
-            "JSX72S-2022N": [
+            "jsx72s-2022n": [
                   "4906"
             ],
-            "JSX11S-2022N": [
+            "jsx11s-2022n": [
                   "4907"
             ],
-            "FHT1265SNW": [
+            "fht1265snw": [
                   "4908"
             ],
-            "JSX65S-2022N": [
+            "jsx65s-2022n": [
                   "4909"
             ],
-            "MQTLBG10": [
+            "mqtlbg10": [
                   "4911"
             ],
-            "MWMFA601TTSS2GY": [
+            "mwmfa601ttss2gy": [
                   "4912"
             ],
-            "NA-127XB1W01": [
+            "na-127xb1w01": [
                   "4913"
             ],
-            "WAK2016WIN": [
+            "wak2016win": [
                   "4914"
             ],
-            "JSX80FTL-2022S": [
+            "jsx80ftl-2022s": [
                   "4915"
             ],
-            "WT-EON-Allure-700-PAHMP-MT-RD": [
+            "wt-eon-allure-700-pahmp-mt-rd": [
                   "4916"
             ],
-            "HTW90-1159FL": [
+            "htw90-1159fl": [
                   "4917"
             ],
-            "JSX70FTL-2020S": [
+            "jsx70ftl-2020s": [
                   "4918"
             ],
-            "AWMSD80AB": [
+            "awmsd80ab": [
                   "4919"
             ],
-            "WA70N4260FF/TL": [
+            "wa70n4260ff/tl": [
                   "4920"
             ],
-            "MWMFL070GBFS": [
+            "mwmfl070gbfs": [
                   "4922"
             ],
-            "FHT1207SWS": [
+            "fht1207sws": [
                   "4923"
             ],
-            "Ace-8.5-TRB-Dry-(5YR)": [
+            "ace-8.5-trb-dry-(5yr)": [
                   "4924"
             ],
-            "WT-EON-Allure-700-PANMP": [
+            "wt-eon-allure-700-panmp": [
                   "4926"
             ],
-            "T70SJDR1Z": [
+            "t70sjdr1z": [
                   "4927"
             ],
-            "Senorita-WXS": [
+            "senorita-wxs": [
                   "4928"
             ],
-            "SITL72DW": [
+            "sitl72dw": [
                   "4929"
             ],
-            "S80GSB": [
+            "s80gsb": [
                   "4930"
             ],
-            "WA70T4262GS/TL": [
+            "wa70t4262gs/tl": [
                   "4932"
             ],
-            "WS-Edge-8.0-TB3-M-LVDR": [
+            "ws-edge-8.0-tb3-m-lvdr": [
                   "4933"
             ],
-            "ELENA-ZX": [
+            "elena-zx": [
                   "4934"
             ],
-            "WMS65ST": [
+            "wms65st": [
                   "4936"
             ],
-            "T70SJBK1Z": [
+            "t70sjbk1z": [
                   "4937"
             ],
-            "LILIPUT/W90W": [
+            "liliput/w90w": [
                   "4938"
             ],
-            "HTW80-1159": [
+            "htw80-1159": [
                   "4939"
             ],
-            "P1040SRAZ": [
+            "p1040sraz": [
                   "4940"
             ],
-            "ELITE-PLUS-SXR": [
+            "elite-plus-sxr": [
                   "4943"
             ],
-            "T70SJSF1Z": [
+            "t70sjsf1z": [
                   "4944"
             ],
-            "WOA106X0IN": [
+            "woa106x0in": [
                   "4946",
                   "4993",
                   "4994"
             ],
-            "MQSA85DXI": [
+            "mqsa85dxi": [
                   "4947"
             ],
-            "LWMS80GDB": [
+            "lwms80gdb": [
                   "4948"
             ],
-            "WA70M4010HL/TL": [
+            "wa70m4010hl/tl": [
                   "4949"
             ],
-            "MWMFA651TTSS2GY": [
+            "mwmfa651ttss2gy": [
                   "4950"
             ],
-            "T70SJSS1Z": [
+            "t70sjss1z": [
                   "4952"
             ],
-            "WT-Eon-701-PFH": [
+            "wt-eon-701-pfh": [
                   "4953"
             ],
-            "MWMSA085A02": [
+            "mwmsa085a02": [
                   "4954",
                   "5201"
             ],
-            "WA65N4260SS/TL": [
+            "wa65n4260ss/tl": [
                   "4956"
             ],
-            "LWMT80TL": [
+            "lwmt80tl": [
                   "4957"
             ],
-            "HTW76-1159": [
+            "htw76-1159": [
                   "4958"
             ],
-            "NEODIVA-SX": [
+            "neodiva-sx": [
                   "4959"
             ],
-            "T7288NDDLG": [
+            "t7288nddlg": [
                   "4960"
             ],
-            "WAB16061IN": [
+            "wab16061in": [
                   "4963"
             ],
-            "WT72M3000HP/TL": [
+            "wt72m3000hp/tl": [
                   "4964"
             ],
-            "WT72M3200HL/TL": [
+            "wt72m3200hl/tl": [
                   "4966"
             ],
-            "P1045SGAZ": [
+            "p1045sgaz": [
                   "4967"
             ],
-            "ACE-7.5-TRB-DRY-WINE-DAZZLE": [
+            "ace-7.5-trb-dry-wine-dazzle": [
                   "4968"
             ],
-            "HTW85-186S": [
+            "htw85-186s": [
                   "4969"
             ],
-            "FHT1408SWS": [
+            "fht1408sws": [
                   "4970"
             ],
-            "WS-800-PDS": [
+            "ws-800-pds": [
                   "4972",
                   "5037"
             ],
-            "WS-EDGEPRO-850-ES-Wn-Rd": [
+            "ws-edgepro-850-es-wn-rd": [
                   "4973"
             ],
-            "T65SJSF3Z": [
+            "t65sjsf3z": [
                   "4974"
             ],
-            "WW60R20EKMW/TL": [
+            "ww60r20ekmw/tl": [
                   "4976"
             ],
-            "LWMS85RDB": [
+            "lwms85rdb": [
                   "4977"
             ],
-            "Liliput70-W70W": [
+            "liliput70-w70w": [
                   "4978"
             ],
-            "NA-128XB1L01": [
+            "na-128xb1l01": [
                   "4979"
             ],
-            "WA62M4200HA/TL": [
+            "wa62m4200ha/tl": [
                   "4980"
             ],
-            "EVA-AQUA-SX-LDT": [
+            "eva-aqua-sx-ldt": [
                   "4982"
             ],
-            "NA-W140B1ARB": [
+            "na-w140b1arb": [
                   "4983"
             ],
-            "WOE702W0IN": [
+            "woe702w0in": [
                   "4984"
             ],
-            "WS-Edge-Pro-900-ES-LISP": [
+            "ws-edge-pro-900-es-lisp": [
                   "4986"
             ],
-            "WAB20267IN": [
+            "wab20267in": [
                   "4987"
             ],
-            "SITL85EG": [
+            "sitl85eg": [
                   "4988"
             ],
-            "WF-Eon-700-PASE": [
+            "wf-eon-700-pase": [
                   "4989"
             ],
-            "WAK20267IN": [
+            "wak20267in": [
                   "4990"
             ],
-            "Serena-WX": [
+            "serena-wx": [
                   "4992"
             ],
-            "T10SJSF1Z": [
+            "t10sjsf1z": [
                   "4996"
             ],
-            "HWM75-707NZP": [
+            "hwm75-707nzp": [
                   "4997"
             ],
-            "WW80J4213KW/TL": [
+            "ww80j4213kw/tl": [
                   "4998"
             ],
-            "NA-W70E5RRB": [
+            "na-w70e5rrb": [
                   "4999"
             ],
-            "WM10K168IN": [
+            "wm10k168in": [
                   "5002"
             ],
-            "WA60M4300HD/TL-01": [
+            "wa60m4300hd/tl-01": [
                   "5004"
             ],
-            "LWMF60": [
+            "lwmf60": [
                   "5006"
             ],
-            "AWMTV70GR": [
+            "awmtv70gr": [
                   "5007"
             ],
-            "WF-Eon-600-PAEC": [
+            "wf-eon-600-paec": [
                   "5008"
             ],
-            "BFAFL65WX1": [
+            "bfafl65wx1": [
                   "5009"
             ],
-            "AWMSD75AR": [
+            "awmsd75ar": [
                   "5011"
             ],
-            "WW80K54E0WW/TL": [
+            "ww80k54e0ww/tl": [
                   "5013"
             ],
-            "MiSAWM98v25-AJD": [
+            "misawm98v25-ajd": [
                   "5015"
             ],
-            "WAK2006PIN": [
+            "wak2006pin": [
                   "5016"
             ],
-            "WHITEMAGIC-PREMIER-7.0-10YMW": [
+            "whitemagic-premier-7.0-10ymw": [
                   "5017"
             ],
-            "WS-EDGE-NX-1020-CPBR-Rs-Gd": [
+            "ws-edge-nx-1020-cpbr-rs-gd": [
                   "5018"
             ],
-            "BSATL72X1": [
+            "bsatl72x1": [
                   "5019"
             ],
-            "WA90J5710SG/TL": [
+            "wa90j5710sg/tl": [
                   "5021"
             ],
-            "ACE-8.0-TRB-DRY-WINE-DAZZLE(5YR)": [
+            "ace-8.0-trb-dry-wine-dazzle(5yr)": [
                   "5022"
             ],
-            "WM12K169IN": [
+            "wm12k169in": [
                   "5024"
             ],
-            "WHITEMAGIC-ELITE-7.0-WINE-10YMW": [
+            "whitemagic-elite-7.0-wine-10ymw": [
                   "5025"
             ],
-            "WM10K161IN": [
+            "wm10k161in": [
                   "5026"
             ],
-            "WA60M4100HY/TL-01": [
+            "wa60m4100hy/tl-01": [
                   "5027"
             ],
-            "WOA702R0IN": [
+            "woa702r0in": [
                   "5028"
             ],
-            "EVA-ZX": [
+            "eva-zx": [
                   "5030"
             ],
-            "NA-F62B3HRB": [
+            "na-f62b3hrb": [
                   "5031"
             ],
-            "TL-SDG-9.5-Kg-Aqua": [
+            "tl-sdg-9.5-kg-aqua": [
                   "5032"
             ],
-            "MQSAHM75": [
+            "mqsahm75": [
                   "5034"
             ],
-            "P7001R3F": [
+            "p7001r3f": [
                   "5035"
             ],
-            "FHT1265SNL": [
+            "fht1265snl": [
                   "5036"
             ],
-            "WA70M4000HP/TL-01": [
+            "wa70m4000hp/tl-01": [
                   "5038"
             ],
-            "T7577NEDLJ": [
+            "t7577nedlj": [
                   "5040"
             ],
-            "WW70J42E0KW/TL": [
+            "ww70j42e0kw/tl": [
                   "5041"
             ],
-            "ACE-8.5-TRB-DRY-WINE-DAZZLE": [
+            "ace-8.5-trb-dry-wine-dazzle": [
                   "5042"
             ],
-            "360-BW-PRO-(540)-H-7.0": [
+            "360-bw-pro-(540)-h-7.0": [
                   "5046"
             ],
-            "FHT1208SWW": [
+            "fht1208sww": [
                   "5047"
             ],
-            "WD15G460IN": [
+            "wd15g460in": [
                   "5048"
             ],
-            "AWMSV76ST": [
+            "awmsv76st": [
                   "5050"
             ],
-            "WW60R20EK0S/TL": [
+            "ww60r20ek0s/tl": [
                   "5051"
             ],
-            "Senorita-WX": [
+            "senorita-wx": [
                   "5052"
             ],
             "trendy75": [
                   "5054"
             ],
-            "MQFLBS75": [
+            "mqflbs75": [
                   "5056"
             ],
-            "T70SJSF3Z": [
+            "t70sjsf3z": [
                   "5057"
             ],
-            "WTA-EON-620-CI": [
+            "wta-eon-620-ci": [
                   "5058",
                   "5060"
             ],
-            "MiSAWM65V35-AJD": [
+            "misawm65v35-ajd": [
                   "5061"
             ],
-            "LWMT70TL": [
+            "lwmt70tl": [
                   "5062"
             ],
-            "HTW90-1128BT": [
+            "htw90-1128bt": [
                   "5064"
             ],
-            "WA65M4020HP/TL-01": [
+            "wa65m4020hp/tl-01": [
                   "5065"
             ],
-            "WS-800-PD": [
+            "ws-800-pd": [
                   "5066"
             ],
-            "NA-S085M2W01": [
+            "na-s085m2w01": [
                   "5067"
             ],
-            "WW80J5410GS/TL": [
+            "ww80j5410gs/tl": [
                   "5068"
             ],
-            "WS-AXIS-7.0-WNRD-PN2-T": [
+            "ws-axis-7.0-wnrd-pn2-t": [
                   "5070"
             ],
-            "WAK2416SIN": [
+            "wak2416sin": [
                   "5071"
             ],
-            "NA-W80E5HRB": [
+            "na-w80e5hrb": [
                   "5072"
             ],
-            "TL--SDR-/SSDR-Aqua": [
+            "tl--sdr-/ssdr-aqua": [
                   "5073"
             ],
-            "ACE-XL-9.5-Royal-Purple-(5YR)": [
+            "ace-xl-9.5-royal-purple-(5yr)": [
                   "5074"
             ],
-            "T8077NEDLJ": [
+            "t8077nedlj": [
                   "5076"
             ],
-            "GWF-650-FC-Carmine-Red": [
+            "gwf-650-fc-carmine-red": [
                   "5077"
             ],
-            "MQFLXI75": [
+            "mqflxi75": [
                   "5079"
             ],
-            "WAK-20167IN": [
+            "wak-20167in": [
                   "5080"
             ],
-            "WA65N4560SS/TL": [
+            "wa65n4560ss/tl": [
                   "5083"
             ],
-            "WT85M4200HL/TL": [
+            "wt85m4200hl/tl": [
                   "5084"
             ],
-            "TRENDY-65": [
+            "trendy-65": [
                   "5085"
             ],
-            "WA75M4400HV/TL": [
+            "wa75m4400hv/tl": [
                   "5086"
             ],
-            "RGLSW658O": [
+            "rglsw658o": [
                   "5089"
             ],
-            "T80SJSS1Z": [
+            "t80sjss1z": [
                   "5090"
             ],
-            "Diva-Aqua-SX": [
+            "diva-aqua-sx": [
                   "5091"
             ],
-            "GWF-580A-5.8-Gp-Gr": [
+            "gwf-580a-5.8-gp-gr": [
                   "5093"
             ],
-            "NA-F70B7HRB": [
+            "na-f70b7hrb": [
                   "5094"
             ],
-            "T7288NDDLGD": [
+            "t7288nddlgd": [
                   "5095"
             ],
-            "HW60-10636NZP/HW60-IM10636TNZP": [
+            "hw60-10636nzp/hw60-im10636tnzp": [
                   "5096"
             ],
-            "WA75M4000HP/TL-/TL-01": [
+            "wa75m4000hp/tl-/tl-01": [
                   "5097"
             ],
-            "NA-128XB1W01": [
+            "na-128xb1w01": [
                   "5099"
             ],
-            "WAK2006TIN": [
+            "wak2006tin": [
                   "5100"
             ],
-            "WM12K269IN": [
+            "wm12k269in": [
                   "5101"
             ],
-            "WhiteMagic-Premier-702-SD-10-YMW": [
+            "whitemagic-premier-702-sd-10-ymw": [
                   "5103"
             ],
-            "WA70M4400HV/TL-01": [
+            "wa70m4400hv/tl-01": [
                   "5104"
             ],
-            "WT-EON-Allure-650-PANMP-RO-GR": [
+            "wt-eon-allure-650-panmp-ro-gr": [
                   "5105"
             ],
-            "TRENDY-75": [
+            "trendy-75": [
                   "5106"
             ],
-            "WF-Eon-700-PAE": [
+            "wf-eon-700-pae": [
                   "5107"
             ],
-            "Senorita-Smart-SX": [
+            "senorita-smart-sx": [
                   "5109"
             ],
-            "MWMFL085COM": [
+            "mwmfl085com": [
                   "5110"
             ],
-            "WAB16161IN": [
+            "wab16161in": [
                   "5111"
             ],
-            "WVG30460IN": [
+            "wvg30460in": [
                   "5113"
             ],
-            "FH0G6WDNL22": [
+            "fh0g6wdnl22": [
                   "5114"
             ],
-            "WM10K160IN": [
+            "wm10k160in": [
                   "5115"
             ],
-            "GRANDEUR-85-GOLD": [
+            "grandeur-85-gold": [
                   "5116"
             ],
-            "THD11STB": [
+            "thd11stb": [
                   "5117"
             ],
-            "FH0G6WDNL42": [
+            "fh0g6wdnl42": [
                   "5119"
             ],
-            "Fresh-Care-7112-INV": [
+            "fresh-care-7112-inv": [
                   "5120"
             ],
-            "WM12K168IN": [
+            "wm12k168in": [
                   "5121"
             ],
-            "GRANDEUR-75": [
+            "grandeur-75": [
                   "5123"
             ],
-            "P1565R3SA": [
+            "p1565r3sa": [
                   "5124"
             ],
-            "WLK24268IN": [
+            "wlk24268in": [
                   "5125"
             ],
-            "WOE704Y1IN": [
+            "woe704y1in": [
                   "5126"
             ],
-            "NA-F65A7HRB": [
+            "na-f65a7hrb": [
                   "5129"
             ],
-            "Elite-Aqua-SX": [
+            "elite-aqua-sx": [
                   "5130"
             ],
-            "THD18STB": [
+            "thd18stb": [
                   "5131"
             ],
-            "HW65-10829TNZP": [
+            "hw65-10829tnzp": [
                   "5133"
             ],
-            "WT85R4200RR/TL": [
+            "wt85r4200rr/tl": [
                   "5134"
             ],
-            "WT75M3000HP/TL": [
+            "wt75m3000hp/tl": [
                   "5135",
                   "5169"
             ],
-            "WA65M4400HV/TL": [
+            "wa65m4400hv/tl": [
                   "5136"
             ],
-            "T7581NEDL1": [
+            "t7581nedl1": [
                   "5137"
             ],
-            "LWMS75HG": [
+            "lwms75hg": [
                   "5139"
             ],
-            "WT80R4200LG/TL": [
+            "wt80r4200lg/tl": [
                   "5140"
             ],
-            "ACE-8.0-TRB-DRY-PURPLE-DAZZLE": [
+            "ace-8.0-trb-dry-purple-dazzle": [
                   "5141"
             ],
-            "TL-RCG/RCSG-6.5-KG-AQUA": [
+            "tl-rcg/rcsg-6.5-kg-aqua": [
                   "5143"
             ],
-            "HTW95-186S": [
+            "htw95-186s": [
                   "5144"
             ],
-            "WOA852R0IN": [
+            "woa852r0in": [
                   "5145"
             ],
-            "Ace-7.5-Trb-Dry-(N)": [
+            "ace-7.5-trb-dry-(n)": [
                   "5146"
             ],
-            "GWS-6502-PPC": [
+            "gws-6502-ppc": [
                   "5147"
             ],
-            "WAK20165IN": [
+            "wak20165in": [
                   "5149"
             ],
-            "WOE802D0IN": [
+            "woe802d0in": [
                   "5150",
                   "5202"
             ],
-            "WA65N4570FM/TL": [
+            "wa65n4570fm/tl": [
                   "5151"
             ],
-            "LWMS90HT1": [
+            "lwms90ht1": [
                   "5153"
             ],
-            "T65SJDR1Z": [
+            "t65sjdr1z": [
                   "5154"
             ],
-            "WOE702D0IN": [
+            "woe702d0in": [
                   "5155"
             ],
-            "WA65M4000HA/TL": [
+            "wa65m4000ha/tl": [
                   "5156"
             ],
-            "WF-Eon-600-PAE": [
+            "wf-eon-600-pae": [
                   "5157"
             ],
-            "EVA-AQUA-VX-LDT": [
+            "eva-aqua-vx-ldt": [
                   "5159"
             ],
-            "P7550R3FA": [
+            "p7550r3fa": [
                   "5160"
             ],
-            "WOE754Y0IN": [
+            "woe754y0in": [
                   "5161"
             ],
-            "NA-F80A5HRB": [
+            "na-f80a5hrb": [
                   "5163"
             ],
-            "T8077NEDLK": [
+            "t8077nedlk": [
                   "5164"
             ],
-            "WA65M4205HV/TL-01": [
+            "wa65m4205hv/tl-01": [
                   "5165"
             ],
-            "WD90K6410OX/TL": [
+            "wd90k6410ox/tl": [
                   "5166"
             ],
-            "HTW62-187BO": [
+            "htw62-187bo": [
                   "5167"
             ],
-            "NA-127XB1L01": [
+            "na-127xb1l01": [
                   "5170"
             ],
-            "WMFF60BD": [
+            "wmff60bd": [
                   "5171"
             ],
-            "LWMS85HT1": [
+            "lwms85ht1": [
                   "5172"
             ],
-            "Fresh-Care-7212": [
+            "fresh-care-7212": [
                   "5173"
             ],
-            "HWM65-707NZP": [
+            "hwm65-707nzp": [
                   "5174"
             ],
-            "MQSA85": [
+            "mqsa85": [
                   "5175"
             ],
-            "JSX60FFL-2022S": [
+            "jsx60ffl-2022s": [
                   "5176"
             ],
-            "Senorita-Aqua-VX": [
+            "senorita-aqua-vx": [
                   "5178"
             ],
-            "AWMSV72DR": [
+            "awmsv72dr": [
                   "5179"
             ],
-            "WS-680-CT-Wine-Red": [
+            "ws-680-ct-wine-red": [
                   "5180"
             ],
-            "WW90K6410QX/TL": [
+            "ww90k6410qx/tl": [
                   "5182"
             ],
-            "WO68TSPHYDRA-LR": [
+            "wo68tsphydra-lr": [
                   "5183"
             ],
-            "TL85SDBR": [
+            "tl85sdbr": [
                   "5184"
             ],
-            "MQSAHM62": [
+            "mqsahm62": [
                   "5185"
             ],
-            "T7288NDDLA.ABWPEIL": [
+            "t7288nddla.abwpeil": [
                   "5186"
             ],
-            "LWMT80TS": [
+            "lwmt80ts": [
                   "5188"
             ],
-            "WA65M4200HD/TL": [
+            "wa65m4200hd/tl": [
                   "5189"
             ],
-            "T7288NDDL": [
+            "t7288nddl": [
                   "5192"
             ],
-            "WS-Edgepro-800ES-Sh-Wn-/-Sw-Red": [
+            "ws-edgepro-800es-sh-wn-/-sw-red": [
                   "5193"
             ],
-            "WAK20265IN": [
+            "wak20265in": [
                   "5194"
             ],
-            "WT80R4000RG/TL": [
+            "wt80r4000rg/tl": [
                   "5195"
             ],
-            "LWMS78L": [
+            "lwms78l": [
                   "5196"
             ],
-            "GWS-7002-PPC": [
+            "gws-7002-ppc": [
                   "5198"
             ],
-            "LWMS65RP": [
+            "lwms65rp": [
                   "5199"
             ],
-            "AWMSD85AR": [
+            "awmsd85ar": [
                   "5200"
             ],
-            "HW80-BD12756NZP": [
+            "hw80-bd12756nzp": [
                   "5203"
             ],
-            "LWMF80SX1": [
+            "lwmf80sx1": [
                   "5204"
             ],
-            "WA70N4260SS/TL": [
+            "wa70n4260ss/tl": [
                   "5205"
             ],
-            "LWMS80HT1": [
+            "lwms80ht1": [
                   "5206"
             ],
-            "WT65R2000HL/TL": [
+            "wt65r2000hl/tl": [
                   "5208"
             ],
-            "LWMS70HE1": [
+            "lwms70he1": [
                   "5210"
             ],
-            "WW80J3237KW/TL": [
+            "ww80j3237kw/tl": [
                   "5212"
             ],
-            "WAT2846CIN": [
+            "wat2846cin": [
                   "5213"
             ],
-            "FHT1006HNW": [
+            "fht1006hnw": [
                   "5214"
             ],
-            "WOA126X0IN": [
+            "woa126x0in": [
                   "5215",
                   "5216"
             ],
-            "WT-EON-Allure-650-PANMP": [
+            "wt-eon-allure-650-panmp": [
                   "5218"
             ],
-            "P7559R3FA": [
+            "p7559r3fa": [
                   "5219"
             ],
-            "F4J6TGP0W": [
+            "f4j6tgp0w": [
                   "5220"
             ],
-            "WA62H4000HD": [
+            "wa62h4000hd": [
                   "5222"
             ],
-            "GLWMS75RDB": [
+            "glwms75rdb": [
                   "5223"
             ],
-            "SMARTCARE-80SCTR": [
+            "smartcare-80sctr": [
                   "5224"
             ],
-            "WW70J4243MW/TL": [
+            "ww70j4243mw/tl": [
                   "5225"
             ],
-            "MWMSA855TVRS1BR": [
+            "mwmsa855tvrs1br": [
                   "5226"
             ],
-            "FHT1007SNW": [
+            "fht1007snw": [
                   "5228"
             ],
-            "Fresh-Care-7110": [
+            "fresh-care-7110": [
                   "5229"
             ],
-            "WT75M3200HB/TL": [
+            "wt75m3200hb/tl": [
                   "5230"
             ],
-            "Fresh-Care-7010": [
+            "fresh-care-7010": [
                   "5232"
             ],
-            "MiFAWM78v20": [
+            "mifawm78v20": [
                   "5233"
             ],
-            "HTW90-1159": [
+            "htw90-1159": [
                   "5234"
             ],
-            "WA90J5730SS/TL": [
+            "wa90j5730ss/tl": [
                   "5235"
             ],
-            "NA-W65B2RRB": [
+            "na-w65b2rrb": [
                   "5236"
             ],
-            "T90SJSF1Z": [
+            "t90sjsf1z": [
                   "5238"
             ],
-            "WS-EDGE-DX-650-CPBT": [
+            "ws-edge-dx-650-cpbt": [
                   "5239"
             ],
-            "HTW90-1128": [
+            "htw90-1128": [
                   "5240"
             ],
-            "LWMS75": [
+            "lwms75": [
                   "5242"
             ],
-            "WA65N4260FF/TL": [
+            "wa65n4260ff/tl": [
                   "5243"
             ],
-            "LWMS72G": [
+            "lwms72g": [
                   "5244"
             ],
-            "GWS-8502-PPL": [
+            "gws-8502-ppl": [
                   "5245",
                   "5246"
             ],
-            "Superb-Atom-70S-Coral-Red-(5YR)": [
+            "superb-atom-70s-coral-red-(5yr)": [
                   "5248"
             ],
-            "MiFAWM75v22": [
+            "mifawm75v22": [
                   "5249"
             ],
-            "HTW80-1128": [
+            "htw80-1128": [
                   "5250"
             ],
-            "MWMSA755TVRS1BR": [
+            "mwmsa755tvrs1br": [
                   "5252",
                   "5254"
             ],
-            "WA75N4570FM/TL": [
+            "wa75n4570fm/tl": [
                   "5253",
                   "5255"
             ],
-            "LWMS70BE1": [
+            "lwms70be1": [
                   "5256"
             ],
-            "WT72M3200HB/TL": [
+            "wt72m3200hb/tl": [
                   "5258"
             ],
-            "NA-106MC2L01": [
+            "na-106mc2l01": [
                   "5259"
             ],
-            "WW80K5210WW/TL": [
+            "ww80k5210ww/tl": [
                   "5260"
             ],
-            "WT727QPNDMWXTL": [
+            "wt727qpndmwxtl": [
                   "5262"
             ],
-            "MQSA90H5M": [
+            "mqsa90h5m": [
                   "5263"
             ],
-            "MQSA90H5GB": [
+            "mqsa90h5gb": [
                   "5264"
             ],
-            "T90SJSS1Z": [
+            "t90sjss1z": [
                   "5265"
             ],
-            "WA62K4000HD/TL": [
+            "wa62k4000hd/tl": [
                   "5266"
             ],
-            "WW65R20GLMW/TL": [
+            "ww65r20glmw/tl": [
                   "5268"
             ],
-            "WM12W440IN": [
+            "wm12w440in": [
                   "5269"
             ],
-            "A85SWM810": [
+            "a85swm810": [
                   "5270"
             ],
-            "WM-Classic-601S": [
+            "wm-classic-601s": [
                   "5272"
             ],
-            "T7577NEDLK": [
+            "t7577nedlk": [
                   "5273"
             ],
-            "WT75M3200HL/TL": [
+            "wt75m3200hl/tl": [
                   "5274"
             ],
-            "WTA-EON-650-CI": [
+            "wta-eon-650-ci": [
                   "5275",
                   "5283"
             ],
-            "WA65N4570VV/TL": [
+            "wa65n4570vv/tl": [
                   "5276"
             ],
-            "P9042R3SM": [
+            "p9042r3sm": [
                   "5278"
             ],
-            "WA11J5750SP/SP": [
+            "wa11j5750sp/sp": [
                   "5279"
             ],
-            "WT-Eon-Audra-650-PDNMP-Gp-Gr": [
+            "wt-eon-audra-650-pdnmp-gp-gr": [
                   "5280"
             ],
-            "WOA956X0IN": [
+            "woa956x0in": [
                   "5282",
                   "5289"
             ],
-            "WD80J6410AS/TL": [
+            "wd80j6410as/tl": [
                   "5284"
             ],
-            "NA-W80H2ARB": [
+            "na-w80h2arb": [
                   "5285"
             ],
-            "T2077NEDL1": [
+            "t2077nedl1": [
                   "5290"
             ],
-            "WW65R22EKSW/TL": [
+            "ww65r22eksw/tl": [
                   "5292"
             ],
-            "WMFT65WH": [
+            "wmft65wh": [
                   "5293"
             ],
-            "Elite-Plus-VX-ID": [
+            "elite-plus-vx-id": [
                   "5294"
             ],
-            "WT-EON-651-PFH": [
+            "wt-eon-651-pfh": [
                   "5295"
             ],
-            "HTW65-1187BT": [
+            "htw65-1187bt": [
                   "5296"
             ],
-            "T7581NEDLK": [
+            "t7581nedlk": [
                   "5298"
             ],
-            "MiFAWM58v20": [
+            "mifawm58v20": [
                   "5299"
             ],
-            "FH4G6TDYL42": [
+            "fh4g6tdyl42": [
                   "5300"
             ],
-            "P7025SBAY": [
+            "p7025sbay": [
                   "5302"
             ],
-            "WW70J4263MW/TL": [
+            "ww70j4263mw/tl": [
                   "5304"
             ],
-            "WA70M4020HP/TL": [
+            "wa70m4020hp/tl": [
                   "5305"
             ],
-            "FHT1007SNL": [
+            "fht1007snl": [
                   "5306"
             ],
-            "TL--SDG-/-SSDG-Aqua": [
+            "tl--sdg-/-ssdg-aqua": [
                   "5308"
             ],
-            "WA-65M-4205-HV": [
+            "wa-65m-4205-hv": [
                   "5309"
             ],
-            "TL--SDR-/SSDR-6.5-KG-Aqua": [
+            "tl--sdr-/ssdr-6.5-kg-aqua": [
                   "5310"
             ],
-            "FH4G6TDNL42": [
+            "fh4g6tdnl42": [
                   "5312"
             ],
-            "SMARTCARE-72": [
+            "smartcare-72": [
                   "5313"
             ],
-            "MWMSA754TDRS1BL": [
+            "mwmsa754tdrs1bl": [
                   "5314"
             ],
-            "WO70SBC1": [
+            "wo70sbc1": [
                   "5315"
             ],
-            "ACE-8.5-TURBO-DRY": [
+            "ace-8.5-turbo-dry": [
                   "5316"
             ],
-            "HWM70-789FNZP": [
+            "hwm70-789fnzp": [
                   "5318"
             ],
-            "MQSA75": [
+            "mqsa75": [
                   "5319"
             ],
-            "HWM60-1269DB": [
+            "hwm60-1269db": [
                   "5320"
             ],
-            "MQSADW62A": [
+            "mqsadw62a": [
                   "5322"
             ],
-            "NA-W85G4RRB": [
+            "na-w85g4rrb": [
                   "5323"
             ],
-            "WS-Edge-700-CTL": [
+            "ws-edge-700-ctl": [
                   "5324"
             ]
       },
-      "PP": [
+      "pp": [
             "4683",
             "4722",
             "4746",
@@ -7550,8 +7534,8 @@
             "5311",
             "5314"
       ],
-      "Pre-wash-Soak": {
-            "Yes": [
+      "pre-wash-soak": {
+            "yes": [
                   "4683",
                   "4684",
                   "4687",
@@ -7777,7 +7761,7 @@
                   "5317",
                   "5319"
             ],
-            "No": [
+            "no": [
                   "4688",
                   "4697",
                   "4698",
@@ -7805,8 +7789,8 @@
                   "5200"
             ]
       },
-      "Quick-Wash": {
-            "Yes": [
+      "quick-wash": {
+            "yes": [
                   "4683",
                   "4684",
                   "4685",
@@ -8038,7 +8022,7 @@
                   "5317",
                   "5321"
             ],
-            "No": [
+            "no": [
                   "4689",
                   "4698",
                   "4700",
@@ -8095,8 +8079,8 @@
                   "5319"
             ]
       },
-      "Shade": {
-            "Sparkling-Grey,-Imperial-Silver": [
+      "shade": {
+            "sparkling-grey,-imperial-silver": [
                   "4683",
                   "4722",
                   "4746",
@@ -8124,7 +8108,7 @@
                   "5287",
                   "5311"
             ],
-            "Middle-Free-Silver": [
+            "middle-free-silver": [
                   "4684",
                   "4687",
                   "4731",
@@ -8133,12 +8117,13 @@
                   "4960",
                   "4974",
                   "4996",
+                  "5040",
                   "5057",
                   "5076",
                   "5095",
                   "5238"
             ],
-            "White": [
+            "white": [
                   "4685",
                   "4693",
                   "4695",
@@ -8240,7 +8225,7 @@
                   "5296",
                   "5304"
             ],
-            "Shiny-Grey": [
+            "shiny-grey": [
                   "4686",
                   "4712",
                   "4736",
@@ -8268,7 +8253,7 @@
                   "5281",
                   "5307"
             ],
-            "White,-Maroon": [
+            "white,-maroon": [
                   "4688",
                   "4738",
                   "4787",
@@ -8276,11 +8261,13 @@
                   "5034",
                   "5185"
             ],
-            "Grey-Dazzle": [
+            "grey-dazzle": [
                   "4689",
-                  "4694"
+                  "4694",
+                  "4771",
+                  "4910"
             ],
-            "Silver": [
+            "silver": [
                   "4690",
                   "4702",
                   "4713",
@@ -8313,6 +8300,7 @@
                   "4880",
                   "4883",
                   "4884",
+                  "4889",
                   "4895",
                   "4905",
                   "4922",
@@ -8365,17 +8353,19 @@
                   "5291",
                   "5297",
                   "5300",
+                  "5306",
                   "5317",
                   "5321"
             ],
-            "Brown,-Grey": [
+            "brown,-grey": [
                   "4691"
             ],
-            "Grey": [
+            "grey": [
                   "4692",
                   "4696",
                   "4699",
                   "4706",
+                  "4714",
                   "4716",
                   "4717",
                   "4742",
@@ -8449,7 +8439,7 @@
                   "5318",
                   "5320"
             ],
-            "White,-Blue": [
+            "white,-blue": [
                   "4697",
                   "4704",
                   "4791",
@@ -8457,14 +8447,14 @@
                   "4825",
                   "4829"
             ],
-            "Lava-Red": [
+            "lava-red": [
                   "4698",
                   "4938",
                   "4978",
                   "5183",
                   "5224"
             ],
-            "Burgundy": [
+            "burgundy": [
                   "4700",
                   "4730",
                   "4778",
@@ -8479,11 +8469,12 @@
                   "5254",
                   "5278"
             ],
-            "Graphite-Grey": [
+            "graphite-grey": [
                   "4705",
                   "4740",
                   "4761",
                   "4797",
+                  "4824",
                   "4846",
                   "4856",
                   "4926",
@@ -8493,7 +8484,7 @@
                   "5275",
                   "5308"
             ],
-            "Full-Body-Grey-(L3)": [
+            "full-body-grey-(l3)": [
                   "4707",
                   "4732",
                   "4756",
@@ -8514,14 +8505,14 @@
                   "5138",
                   "5162"
             ],
-            "Purple": [
+            "purple": [
                   "4708",
                   "5124"
             ],
-            "Ivory-White": [
+            "ivory-white": [
                   "4709"
             ],
-            "Dark-Grey": [
+            "dark-grey": [
                   "4710",
                   "4721",
                   "4728",
@@ -8532,16 +8523,13 @@
                   "5170",
                   "5202"
             ],
-            "DA-White": [
+            "da-white": [
                   "4711"
             ],
-            "GREY": [
-                  "4714"
-            ],
-            "Silver,-Chrome": [
+            "silver,-chrome": [
                   "4715"
             ],
-            "Light-Grey": [
+            "light-grey": [
                   "4718",
                   "4785",
                   "4821",
@@ -8562,21 +8550,21 @@
                   "5258",
                   "5274"
             ],
-            "Satin-Grey": [
+            "satin-grey": [
                   "4720"
             ],
-            "Full-Body-Grey": [
+            "full-body-grey": [
                   "4729"
             ],
-            "Dark-gray": [
+            "dark-gray": [
                   "4734",
                   "4844",
                   "4967"
             ],
-            "wine-(L3)": [
+            "wine-(l3)": [
                   "4735"
             ],
-            "Coral-Red": [
+            "coral-red": [
                   "4741",
                   "4758",
                   "4781",
@@ -8586,18 +8574,18 @@
                   "5248",
                   "5316"
             ],
-            "Blue,White,Grey": [
+            "blue,white,grey": [
                   "4755",
                   "4775",
                   "4831"
             ],
-            "Blue-White": [
+            "blue-white": [
                   "4763",
                   "5186",
                   "5192",
                   "5220"
             ],
-            "Wine-Red": [
+            "wine-red": [
                   "4765",
                   "4902",
                   "4933",
@@ -8606,7 +8594,7 @@
                   "5180",
                   "5193"
             ],
-            "Graphite": [
+            "graphite": [
                   "4769",
                   "4774",
                   "4803",
@@ -8624,16 +8612,12 @@
                   "5277",
                   "5301"
             ],
-            "Grey-dazzle": [
-                  "4771",
-                  "4910"
-            ],
-            "Dark-Blue": [
+            "dark-blue": [
                   "4773",
                   "4809",
                   "5302"
             ],
-            "Red": [
+            "red": [
                   "4780",
                   "4800",
                   "4900",
@@ -8647,60 +8631,60 @@
                   "5236",
                   "5245"
             ],
-            "Mauve": [
+            "mauve": [
                   "4783"
             ],
-            "Silver-Grey": [
+            "silver-grey": [
                   "4793",
                   "4849",
                   "4997",
                   "5174"
             ],
-            "White,-Grey": [
+            "white,-grey": [
                   "4798"
             ],
-            "Free-Silver": [
+            "free-silver": [
                   "4808",
                   "4810",
                   "4850",
                   "5137"
             ],
-            "Wine": [
+            "wine": [
                   "4815",
                   "4962",
                   "5190"
             ],
-            "Black": [
+            "black": [
                   "4818",
                   "5270",
                   "5293"
             ],
-            "Silver,-Grey": [
+            "silver,-grey": [
                   "4819",
                   "4859",
                   "5056"
             ],
-            "Black-Steel": [
+            "black-steel": [
                   "4823",
                   "5117"
             ],
-            "Graphite-grey": [
-                  "4824"
-            ],
             "stainless-silver": [
                   "4833",
+                  "4872",
                   "4923",
+                  "4952",
                   "4970",
+                  "5090",
                   "5131"
             ],
-            "Burgundy-Red": [
+            "burgundy-red": [
                   "4839"
             ],
-            "Royal-Purple": [
+            "royal-purple": [
                   "4843",
                   "5074"
             ],
-            "Plum": [
+            "plum": [
                   "4852",
                   "4903",
                   "4920",
@@ -8709,26 +8693,18 @@
                   "5253",
                   "5255"
             ],
-            "Sliver": [
+            "sliver": [
                   "4867"
             ],
-            "Stainless-Silver": [
-                  "4872",
-                  "4952",
-                  "5090"
-            ],
-            "Black-Knight": [
+            "black-knight": [
                   "4874",
                   "4896",
                   "4937"
             ],
-            "silver": [
-                  "4889"
-            ],
-            "Gray": [
+            "gray": [
                   "4892"
             ],
-            "Blue": [
+            "blue": [
                   "4904",
                   "4906",
                   "4907",
@@ -8742,244 +8718,234 @@
                   "5285",
                   "5313"
             ],
-            "Metallic-Red": [
+            "metallic-red": [
                   "4916",
                   "5324"
             ],
-            "Pink-Floral": [
+            "pink-floral": [
                   "4917"
             ],
-            "Silver-Dazzle": [
+            "silver-dazzle": [
                   "4924"
             ],
             "dark-red": [
-                  "4927"
+                  "4927",
+                  "5179"
             ],
-            "Trumpet-Wine": [
+            "trumpet-wine": [
                   "4930"
             ],
-            "Pink": [
+            "pink": [
                   "4936",
                   "5196",
                   "5242"
             ],
-            "Tulip-Pink": [
+            "tulip-pink": [
                   "4942"
             ],
-            "Inox": [
+            "inox": [
                   "4946",
                   "5215",
                   "5289"
             ],
-            "Blue-and-White": [
+            "blue-and-white": [
                   "4947"
             ],
-            "Sparkling-Blue,-Starflower-Blue": [
+            "sparkling-blue,-starflower-blue": [
                   "4949"
             ],
-            "Royal-Grey": [
+            "royal-grey": [
                   "4953",
                   "5105",
                   "5295"
             ],
-            "Silver,-Black": [
+            "silver,-black": [
                   "4957"
             ],
-            "Wine-Dazzle": [
+            "wine-dazzle": [
                   "4968",
                   "5022",
                   "5042"
             ],
-            "Lilac-Sprinkle": [
+            "lilac-sprinkle": [
                   "4972",
                   "4986"
             ],
-            "Imperial-Silver,-Ebony-Black": [
+            "imperial-silver,-ebony-black": [
                   "4980",
                   "5156"
             ],
-            "Silver-Inox": [
+            "silver-inox": [
                   "4987",
                   "4993",
                   "4994",
                   "5216"
             ],
-            "Coral-Purple": [
+            "coral-purple": [
                   "5000",
                   "5045",
                   "5288",
                   "5303"
             ],
-            "Sparkling-Brown,-Imperial-Silver": [
+            "sparkling-brown,-imperial-silver": [
                   "5004"
             ],
-            "Titanium-Silver": [
+            "titanium-silver": [
                   "5016",
                   "5100"
             ],
-            "Rose-Gold": [
+            "rose-gold": [
                   "5018"
             ],
-            "Maroon": [
+            "maroon": [
                   "5019"
             ],
-            "Black,-Grey": [
+            "black,-grey": [
                   "5021"
             ],
-            "Full-Body-wine": [
+            "full-body-wine": [
                   "5025"
             ],
-            "Imperial-Silver,-PM-Grey": [
+            "imperial-silver,-pm-grey": [
                   "5027"
             ],
-            "Champagne": [
+            "champagne": [
                   "5028"
             ],
-            "Luxury-Silver": [
+            "luxury-silver": [
                   "5036",
                   "5312"
             ],
-            "Gold-Sprinkle": [
+            "gold-sprinkle": [
                   "5037"
             ],
-            "Plum,-Sparkling-Plum": [
+            "plum,-sparkling-plum": [
                   "5038",
                   "5097"
             ],
-            "Middle-Free-silver": [
-                  "5040"
-            ],
-            "Purple-Dazzle": [
-                  "5044"
-            ],
-            "Indigo-Blue": [
-                  "5058",
-                  "5218"
-            ],
-            "Cocoa-Brown": [
-                  "5060"
-            ],
-            "Magnolia-Plum,-Sparkling-Plum": [
-                  "5065",
-                  "5305"
-            ],
-            "Rose-Sprinkle": [
-                  "5066"
-            ],
-            "Silver,-Crystal-Gloss": [
-                  "5068"
-            ],
-            "Sparkling-Silver": [
-                  "5073"
-            ],
-            "Carmine-Red": [
-                  "5077"
-            ],
-            "White-and-Blue": [
-                  "5089"
-            ],
-            "Gold": [
-                  "5116"
-            ],
-            "PURPLE-DAZZLE": [
+            "purple-dazzle": [
+                  "5044",
                   "5141",
                   "5286"
             ],
-            "Red-Silver": [
+            "indigo-blue": [
+                  "5058",
+                  "5218"
+            ],
+            "cocoa-brown": [
+                  "5060"
+            ],
+            "magnolia-plum,-sparkling-plum": [
+                  "5065",
+                  "5305"
+            ],
+            "rose-sprinkle": [
+                  "5066"
+            ],
+            "silver,-crystal-gloss": [
+                  "5068"
+            ],
+            "sparkling-silver": [
+                  "5073"
+            ],
+            "carmine-red": [
+                  "5077"
+            ],
+            "white-and-blue": [
+                  "5089"
+            ],
+            "gold": [
+                  "5116"
+            ],
+            "red-silver": [
                   "5145"
             ],
-            "Flora-Purple": [
+            "flora-purple": [
                   "5146"
             ],
-            "Red-Floral-Pattern": [
+            "red-floral-pattern": [
                   "5154"
             ],
-            "Black-Knight-/-Black": [
+            "black-knight-/-black": [
                   "5164"
             ],
-            "Light-Grey,-Black-Caviar": [
+            "light-grey,-black-caviar": [
                   "5165"
             ],
-            "Inox-Grey": [
+            "inox-grey": [
                   "5166",
                   "5182",
                   "5279"
             ],
-            "Burgundy-and-White": [
+            "burgundy-and-white": [
                   "5175"
             ],
-            "Dark-Red": [
-                  "5179"
-            ],
-            "Brown": [
+            "brown": [
                   "5184"
             ],
-            "Golden": [
+            "golden": [
                   "5203"
             ],
-            "Black,-DA-Silver": [
+            "black,-da-silver": [
                   "5235"
             ],
-            "Cherry-Wine": [
+            "cherry-wine": [
                   "5239"
             ],
-            "Apple-Green": [
+            "apple-green": [
                   "5246"
             ],
-            "Grey-and-Red": [
+            "grey-and-red": [
                   "5262"
             ],
-            "White-&-Grey": [
+            "white-&-grey": [
                   "5263"
             ],
-            "White-&-Blue": [
+            "white-&-blue": [
                   "5264"
             ],
-            "Stainless-Steel-VCM": [
+            "stainless-steel-vcm": [
                   "5265"
             ],
-            "Imperial-Silver": [
+            "imperial-silver": [
                   "5266"
             ],
-            "Duet-Grey": [
+            "duet-grey": [
                   "5272"
             ],
-            "Black-Knight,-Black": [
+            "black-knight,-black": [
                   "5273"
             ],
-            "Black-Caviar": [
+            "black-caviar": [
                   "5276"
             ],
-            "Autumn-Red": [
+            "autumn-red": [
                   "5283"
             ],
-            "Free-Silver-/-Wine-Black": [
+            "free-silver-/-wine-black": [
                   "5290"
             ],
-            "Black-Knight-Color": [
+            "black-knight-color": [
                   "5298"
             ],
-            "SILVER": [
-                  "5306"
-            ],
-            "Luxury-Red": [
+            "luxury-red": [
                   "5310"
             ],
-            "Aqua-Blue": [
+            "aqua-blue": [
                   "5314"
             ],
-            "Lavender-and-White": [
+            "lavender-and-white": [
                   "5319"
             ],
-            "Maroon-White": [
+            "maroon-white": [
                   "5322"
             ],
-            "Shiny-Red": [
+            "shiny-red": [
                   "5323"
             ]
       },
-      "Spin-Only": {
-            "Yes": [
+      "spin-only": {
+            "yes": [
                   "4683",
                   "4684",
                   "4687",
@@ -9228,7 +9194,7 @@
                   "5319",
                   "5321"
             ],
-            "No": [
+            "no": [
                   "4689",
                   "4702",
                   "4726",
@@ -9272,8 +9238,9 @@
                   "5317"
             ]
       },
-      "Stainless-Steel": [
+      "stainless-steel": [
             "4683",
+            "4684",
             "4684",
             "4685",
             "4686",
@@ -9725,8 +9692,8 @@
             "5321",
             "5323"
       ],
-      "Warranty-Service-Type": {
-            "Technician-Visit": [
+      "warranty-service-type": {
+            "technician-visit": [
                   "4683",
                   "4684",
                   "4686",
@@ -10184,7 +10151,7 @@
                   "5320",
                   "5322"
             ],
-            "Techinician-Visit": [
+            "techinician-visit": [
                   "4685",
                   "4690",
                   "4709",
@@ -10241,13 +10208,13 @@
                   "5312",
                   "5321"
             ],
-            "Technicial-Visit": [
+            "technicial-visit": [
                   "4693",
                   "4737",
                   "5222",
                   "5262"
             ],
-            "On-site": [
+            "on-site": [
                   "4695",
                   "4713",
                   "4717",
@@ -10261,42 +10228,53 @@
                   "4814",
                   "4828",
                   "4842",
+                  "4854",
                   "4856",
                   "4860",
                   "4873",
                   "4894",
+                  "4905",
                   "4913",
                   "4914",
                   "4917",
                   "4944",
+                  "4946",
                   "4948",
                   "4973",
                   "4974",
                   "4979",
                   "4983",
                   "4987",
+                  "5006",
                   "5007",
                   "5016",
                   "5018",
                   "5061",
+                  "5067",
                   "5071",
+                  "5080",
                   "5094",
                   "5099",
                   "5100",
+                  "5113",
                   "5126",
                   "5127",
                   "5129",
                   "5163",
+                  "5164",
                   "5170",
                   "5186",
+                  "5215",
                   "5223",
                   "5239",
+                  "5242",
                   "5249",
                   "5259",
                   "5280",
+                  "5289",
                   "5323"
             ],
-            "NA": [
+            "na": [
                   "4698",
                   "4998",
                   "5091",
@@ -10307,7 +10285,7 @@
                   "5285",
                   "5303"
             ],
-            "Onsite": [
+            "onsite": [
                   "4725",
                   "4728",
                   "4936",
@@ -10317,20 +10295,10 @@
                   "5236",
                   "5269"
             ],
-            "Techinisian-Visit": [
+            "techinisian-visit": [
                   "4769"
             ],
-            "On-Site": [
-                  "4854",
-                  "4905",
-                  "4946",
-                  "5067",
-                  "5080",
-                  "5113",
-                  "5215",
-                  "5289"
-            ],
-            "On-site-Service": [
+            "on-site-service": [
                   "4902",
                   "4989",
                   "5008",
@@ -10342,36 +10310,31 @@
                   "5180",
                   "5295"
             ],
-            "on-site": [
-                  "5006",
-                  "5164",
-                  "5242"
-            ],
-            "Tech-Visit": [
+            "tech-visit": [
                   "5009",
                   "5245"
             ],
-            "Onsite-service": [
+            "onsite-service": [
                   "5015"
             ],
-            "No-Tech-Visit": [
+            "no-tech-visit": [
                   "5035",
                   "5196"
             ],
-            "Installation-&-Demo": [
+            "installation-&-demo": [
                   "5166"
             ],
             "in-house-installation": [
                   "5194"
             ],
-            "Washer\ufffdwith\ufffdDryer": [
+            "washer\ufffdwith\ufffddryer": [
                   "5220"
             ],
-            "Brand-supported": [
+            "brand-supported": [
                   "5288"
             ]
       },
-      "Washing-Capacity": {
+      "washing-capacity": {
             "6.2-kg": [
                   "4683",
                   "4691",
@@ -11063,8 +11026,8 @@
                   "5233"
             ]
       },
-      "Washing-Method": {
-            "Center-Jet-Pulsator-Wash": [
+      "washing-method": {
+            "center-jet-pulsator-wash": [
                   "4683",
                   "4722",
                   "4746",
@@ -11099,7 +11062,7 @@
                   "5311",
                   "5321"
             ],
-            "Pulsator-Wash": [
+            "pulsator-wash": [
                   "4684",
                   "4692",
                   "4705",
@@ -11175,7 +11138,7 @@
                   "5283",
                   "5322"
             ],
-            "Tumble-Wash": [
+            "tumble-wash": [
                   "4685",
                   "4690",
                   "4695",
@@ -11275,6 +11238,7 @@
                   "5173",
                   "5178",
                   "5181",
+                  "5194",
                   "5197",
                   "5203",
                   "5217",
@@ -11288,7 +11252,7 @@
                   "5317",
                   "5318"
             ],
-            "Impellar": [
+            "impellar": [
                   "4686",
                   "4712",
                   "4736",
@@ -11330,10 +11294,10 @@
                   "5301",
                   "5307"
             ],
-            "3-Smart-Motion": [
+            "3-smart-motion": [
                   "4687"
             ],
-            "Pulsator": [
+            "pulsator": [
                   "4688",
                   "4691",
                   "4697",
@@ -11443,11 +11407,11 @@
                   "5309",
                   "5320"
             ],
-            "Impellar-Wash": [
+            "impellar-wash": [
                   "4689",
                   "5248"
             ],
-            "Tumble": [
+            "tumble": [
                   "4693",
                   "4696",
                   "4716",
@@ -11497,7 +11461,7 @@
                   "5268",
                   "5292"
             ],
-            "Impeller": [
+            "impeller": [
                   "4694",
                   "4744",
                   "4771",
@@ -11506,11 +11470,11 @@
                   "4910",
                   "5316"
             ],
-            "Normal-Pulsator-Wash": [
+            "normal-pulsator-wash": [
                   "4698",
                   "4710"
             ],
-            "Agipellar": [
+            "agipellar": [
                   "4699",
                   "4720",
                   "4745",
@@ -11523,7 +11487,7 @@
                   "5190",
                   "5296"
             ],
-            "6-Motion-DD-Wash": [
+            "6-motion-dd-wash": [
                   "4703",
                   "4840",
                   "4848",
@@ -11538,7 +11502,7 @@
                   "5300",
                   "5306"
             ],
-            "Agipellar-Wash": [
+            "agipellar-wash": [
                   "4707",
                   "4732",
                   "4735",
@@ -11564,7 +11528,7 @@
                   "5138",
                   "5162"
             ],
-            "Triadic-Pulsator-Wash": [
+            "triadic-pulsator-wash": [
                   "4709",
                   "4761",
                   "4770",
@@ -11573,7 +11537,7 @@
                   "5308",
                   "5310"
             ],
-            "Impeller-Wash": [
+            "impeller-wash": [
                   "4717",
                   "4727",
                   "4728",
@@ -11594,25 +11558,25 @@
                   "5289",
                   "5303"
             ],
-            "Centre-Jet-Pulsator-Wash": [
+            "centre-jet-pulsator-wash": [
                   "4723"
             ],
-            "6-Motion-Direct-Drive-Wash": [
+            "6-motion-direct-drive-wash": [
                   "4733",
                   "4767",
                   "5114",
                   "5119"
             ],
-            "3D-Turbo-Impeller-Wash": [
+            "3d-turbo-impeller-wash": [
                   "4740",
                   "4807",
                   "4856",
                   "5074"
             ],
-            "Aquajet-Pulsator": [
+            "aquajet-pulsator": [
                   "4754"
             ],
-            "Wobble-Pulsator-Wash": [
+            "wobble-pulsator-wash": [
                   "4757",
                   "4949",
                   "4980",
@@ -11626,7 +11590,7 @@
                   "5235",
                   "5266"
             ],
-            "Punch-+-3-Pulsator-Wash": [
+            "punch-+-3-pulsator-wash": [
                   "4763",
                   "4811",
                   "4960",
@@ -11643,45 +11607,45 @@
                   "5290",
                   "5298"
             ],
-            "360\ufffd-Tumble-Motion-Wash": [
+            "360\ufffd-tumble-motion-wash": [
                   "4769",
                   "5055"
             ],
-            "Hexa-Bloom-Impeller-Wash": [
+            "hexa-bloom-impeller-wash": [
                   "4803",
                   "4877",
                   "5012"
             ],
-            "6TH-Sense-UltraClean-Wash": [
+            "6th-sense-ultraclean-wash": [
                   "4830"
             ],
-            "Eco-Bubble-Wash": [
+            "eco-bubble-wash": [
                   "4834",
                   "5068",
                   "5182",
                   "5212"
             ],
-            "Punch-+-3-Pulsator": [
+            "punch-+-3-pulsator": [
                   "4839"
             ],
-            "Agitator": [
+            "agitator": [
                   "4864",
                   "4878",
                   "4890",
                   "4969",
                   "5144"
             ],
-            "Dynamic-Pulsator-Wash": [
+            "dynamic-pulsator-wash": [
                   "4902"
             ],
-            "Aquajet-Pulsator-Wash": [
+            "aquajet-pulsator-wash": [
                   "4916",
                   "4926",
                   "5105",
                   "5193",
                   "5218"
             ],
-            "Automatic-Wash": [
+            "automatic-wash": [
                   "4920",
                   "4956",
                   "5083",
@@ -11694,13 +11658,13 @@
                   "5276",
                   "5293"
             ],
-            "Dual-Color-Vortex-Pulsator-Wash": [
+            "dual-color-vortex-pulsator-wash": [
                   "4939",
                   "5234",
                   "5240",
                   "5250"
             ],
-            "Soak-Wash": [
+            "soak-wash": [
                   "4957",
                   "5062",
                   "5139",
@@ -11708,148 +11672,145 @@
                   "5199",
                   "5244"
             ],
-            "Aqua-Spin-Shower-Wash": [
+            "aqua-spin-shower-wash": [
                   "4983",
                   "5323"
             ],
-            "Storm-Pulsator-Wash": [
+            "storm-pulsator-wash": [
                   "4997"
             ],
-            "Eco-Bubble": [
+            "eco-bubble": [
                   "4998"
             ],
-            "Power-and-Gentle": [
+            "power-and-gentle": [
                   "5015"
             ],
-            "Foam-Wash": [
+            "foam-wash": [
                   "5031"
             ],
-            "Roller-Jet-Pulsator-Wash": [
+            "roller-jet-pulsator-wash": [
                   "5035",
                   "5124",
                   "5160",
                   "5219",
                   "5278"
             ],
-            "STS-Pulsator-Wash": [
+            "sts-pulsator-wash": [
                   "5065",
                   "5086",
                   "5104",
                   "5136",
                   "5305"
             ],
-            "3D-Wash": [
+            "3d-wash": [
                   "5073"
             ],
             "with-double-storm-pulsator": [
                   "5084"
             ],
-            "Fuzzy-Wash": [
+            "fuzzy-wash": [
                   "5085"
             ],
-            "Agipeller-Wash": [
+            "agipeller-wash": [
                   "5087"
             ],
-            "Active-Foam-Wash": [
+            "active-foam-wash": [
                   "5094",
                   "5163"
             ],
-            "Jet-Wash": [
+            "jet-wash": [
                   "5116"
             ],
-            "Hand-Wash": [
+            "hand-wash": [
                   "5123"
             ],
-            "360-Degree-Tumble-Motion": [
+            "360-degree-tumble-motion": [
                   "5127"
             ],
-            "Advanced-Active-Foam-Wash": [
+            "advanced-active-foam-wash": [
                   "5129"
             ],
-            "Tri-roto-Scrub-Pulsator-Wash": [
+            "tri-roto-scrub-pulsator-wash": [
                   "5147",
                   "5180"
             ],
-            "CenterJet-Pulsator-Wash": [
+            "centerjet-pulsator-wash": [
                   "5165"
             ],
-            "Normal-Wash": [
+            "normal-wash": [
                   "5167"
             ],
-            "Deep-Plate-Pulsator-Wash": [
+            "deep-plate-pulsator-wash": [
                   "5174"
             ],
-            "Punch-+-Pulsator-Wash": [
+            "punch-+-pulsator-wash": [
                   "5175",
                   "5319"
             ],
-            "Tumble-wash": [
-                  "5194"
-            ],
-            "Rotor-Pulsator": [
+            "rotor-pulsator": [
                   "5196"
             ],
-            "6-motion-Wash": [
+            "6-motion-wash": [
                   "5220"
             ],
-            "Eco-Bubble-and-Bubble-Soak-Wash": [
+            "eco-bubble-and-bubble-soak-wash": [
                   "5225"
             ],
-            "Pulsating-Wash": [
+            "pulsating-wash": [
                   "5226",
                   "5252",
                   "5254",
                   "5314"
             ],
-            "Double-Action-Pulsator-Wash": [
+            "double-action-pulsator-wash": [
                   "5236",
                   "5285"
             ],
-            "3-+-1-Pulsator": [
+            "3-+-1-pulsator": [
                   "5242"
             ],
-            "HexaScrub-Pulsator": [
+            "hexascrub-pulsator": [
                   "5245"
             ],
-            "NA": [
+            "na": [
                   "5262"
             ],
-            "Tumble-Wash-Program": [
+            "tumble-wash-program": [
                   "5269"
             ],
-            "Agipeller": [
+            "agipeller": [
                   "5272"
             ],
-            "Punch-+-3-Wash": [
+            "punch-+-3-wash": [
                   "5273"
             ],
-            "Wobble-Pulsator": [
+            "wobble-pulsator": [
                   "5279"
             ],
-            "Bubble-Wash": [
+            "bubble-wash": [
                   "5284"
             ],
-            "Aqua-Jet-Pulsator-Wash": [
+            "aqua-jet-pulsator-wash": [
                   "5295"
             ],
-            "Eco-Wash": [
+            "eco-wash": [
                   "5304"
             ],
-            "6-Motion-Direct-Drive": [
+            "6-motion-direct-drive": [
                   "5312"
             ],
-            "Hexafin-Pulsator-Wash": [
+            "hexafin-pulsator-wash": [
                   "5313"
             ],
-            "Pulgitator-Pulsator-Wash": [
+            "pulgitator-pulsator-wash": [
                   "5315"
             ],
-            "Tri-roto-Scrub-Pulsator": [
+            "tri-roto-scrub-pulsator": [
                   "5324"
             ]
       },
-      "Water-Level-Selector": {
-            "Yes": [
+      "water-level-selector": {
+            "yes": [
                   "4683",
                   "4684",
                   "4685",
@@ -12138,7 +12099,7 @@
                   "5317",
                   "5321"
             ],
-            "No": [
+            "no": [
                   "4689",
                   "4698",
                   "4710",
@@ -12178,7 +12139,7 @@
                   "5319"
             ]
       },
-      "Water-Level-Settings": {
+      "water-level-settings": {
             "5": [
                   "4683",
                   "4714",
@@ -12323,7 +12284,7 @@
                   "5031"
             ]
       },
-      "Weight": {
+      "weight": {
             "31-kg": [
                   "4683",
                   "4701",
@@ -12571,7 +12532,8 @@
                   "5011",
                   "5147",
                   "5179",
-                  "5180"
+                  "5180",
+                  "5319"
             ],
             "54-kg": [
                   "4693",
@@ -12692,9 +12654,11 @@
                   "5263",
                   "5264"
             ],
-            "29.5-Kg": [
+            "29.5-kg": [
                   "4705",
-                  "4797"
+                  "4750",
+                  "4797",
+                  "5093"
             ],
             "34-kg": [
                   "4706",
@@ -12827,6 +12791,8 @@
             "65-kg": [
                   "4733",
                   "4889",
+                  "4989",
+                  "5107",
                   "5173"
             ],
             "23.7-kg": [
@@ -12864,16 +12830,13 @@
                   "5120",
                   "5178"
             ],
-            "29.5-kg": [
-                  "4750",
-                  "5093"
-            ],
             "23-kg": [
                   "4753",
                   "4800",
                   "4907",
                   "5050",
                   "5064",
+                  "5175",
                   "5196",
                   "5199",
                   "5224",
@@ -12976,6 +12939,7 @@
                   "4969",
                   "4999",
                   "5015",
+                  "5035",
                   "5198",
                   "5226",
                   "5299",
@@ -13014,6 +12978,7 @@
             "57-kg": [
                   "4878",
                   "5133",
+                  "5157",
                   "5304"
             ],
             "73-kg": [
@@ -13061,10 +13026,6 @@
             "39.8-kg": [
                   "4984"
             ],
-            "65-Kg": [
-                  "4989",
-                  "5107"
-            ],
             "36.5-kg": [
                   "4997"
             ],
@@ -13072,7 +13033,7 @@
                   "5004",
                   "5027"
             ],
-            "59.5-Kg": [
+            "59.5-kg": [
                   "5008"
             ],
             "41-kg": [
@@ -13085,9 +13046,6 @@
             ],
             "46-kg": [
                   "5032"
-            ],
-            "24-Kg": [
-                  "5035"
             ],
             "10.4-kg": [
                   "5089"
@@ -13107,17 +13065,11 @@
             "41.5-kg": [
                   "5150"
             ],
-            "57-Kg": [
-                  "5157"
-            ],
             "35.7-kg": [
                   "5163"
             ],
             "50-kg": [
                   "5171"
-            ],
-            "23-Kg": [
-                  "5175"
             ],
             "69-kg": [
                   "5203"
@@ -13142,14 +13094,11 @@
             "42.4-kg": [
                   "5282"
             ],
-            "22-Kg": [
-                  "5319"
-            ],
             "20-kg": [
                   "5322"
             ]
       },
-      "Width": {
+      "width": {
             "540-mm": [
                   "4683",
                   "4684",
@@ -14027,7 +13976,7 @@
                   "5322"
             ]
       },
-      "LG": [
+      "lg": [
             "4684",
             "4687",
             "4700",
@@ -14110,7 +14059,7 @@
             "5306",
             "5312"
       ],
-      "Silver": [
+      "silver": [
             "4684",
             "4687",
             "4690",
@@ -14221,8 +14170,8 @@
             "5317",
             "5321"
       ],
-      "Door-Lock": {
-            "Yes": [
+      "door-lock": {
+            "yes": [
                   "4684",
                   "4687",
                   "4691",
@@ -14295,7 +14244,7 @@
                   "5291",
                   "5317"
             ],
-            "No": [
+            "no": [
                   "4696",
                   "4706",
                   "4716",
@@ -14357,7 +14306,7 @@
                   "5314"
             ]
       },
-      "Spin-Dry": [
+      "spin-dry": [
             "4684",
             "4685",
             "4688",
@@ -14490,8 +14439,8 @@
             "5317",
             "5322"
       ],
-      "Fuzzy-Logic": {
-            "Yes": [
+      "fuzzy-logic": {
+            "yes": [
                   "4684",
                   "4687",
                   "4691",
@@ -14633,7 +14582,7 @@
                   "5305",
                   "5312"
             ],
-            "No": [
+            "no": [
                   "4692",
                   "4698",
                   "4700",
@@ -14685,8 +14634,8 @@
                   "5319"
             ]
       },
-      "Hot-Wash": {
-            "No": [
+      "hot-wash": {
+            "no": [
                   "4684",
                   "4687",
                   "4688",
@@ -14794,7 +14743,7 @@
                   "5314",
                   "5319"
             ],
-            "Yes": [
+            "yes": [
                   "4695",
                   "4702",
                   "4703",
@@ -14885,8 +14834,8 @@
                   "5317"
             ]
       },
-      "Lint-Filter": {
-            "Yes": [
+      "lint-filter": {
+            "yes": [
                   "4684",
                   "4687",
                   "4689",
@@ -15110,7 +15059,7 @@
                   "5322",
                   "5324"
             ],
-            "No": [
+            "no": [
                   "4698",
                   "4739",
                   "4809",
@@ -15120,8 +15069,8 @@
                   "5236"
             ]
       },
-      "Maximum-Temperature": {
-            "60-DegreeC": [
+      "maximum-temperature": {
+            "60-degreec": [
                   "4684",
                   "4919",
                   "5011",
@@ -15129,12 +15078,12 @@
                   "5179",
                   "5200"
             ],
-            "95-\u00b0C": [
+            "95-\u00b0c": [
                   "4690",
                   "4747",
                   "5178"
             ],
-            "95-DegreeC": [
+            "95-degreec": [
                   "4702",
                   "4726",
                   "4739",
@@ -15162,17 +15111,17 @@
                   "5291",
                   "5317"
             ],
-            "95-degree-C": [
+            "95-degree-c": [
                   "4733",
                   "4767"
             ],
-            "90-DegreeC": [
+            "90-degreec": [
                   "4868",
                   "4888",
                   "4922",
                   "5110"
             ],
-            "90-Degree": [
+            "90-degree": [
                   "5106"
             ],
             "55-degree": [
@@ -15182,8 +15131,8 @@
                   "5314"
             ]
       },
-      "Memory-Backup": {
-            "Yes": [
+      "memory-backup": {
+            "yes": [
                   "4684",
                   "4685",
                   "4687",
@@ -15352,7 +15301,7 @@
                   "5310",
                   "5317"
             ],
-            "No": [
+            "no": [
                   "4688",
                   "4697",
                   "4700",
@@ -15400,47 +15349,47 @@
                   "5319"
             ]
       },
-      "Plastic-Parts": [
+      "plastic-parts": [
             "4684"
       ],
-      "Other-Wash-Modes": {
-            "Eco-Wash": [
+      "other-wash-modes": {
+            "eco-wash": [
                   "4684"
             ],
-            "Delicates,-Jeans": [
+            "delicates,-jeans": [
                   "4709",
                   "4770"
             ],
-            "Rinse,-Spin,-Refresh": [
+            "rinse,-spin,-refresh": [
                   "4717",
                   "4727"
             ],
-            "Spin,-Rinse,-Easy-Care": [
+            "spin,-rinse,-easy-care": [
                   "4725"
             ],
-            "Dynamic-Soak": [
+            "dynamic-soak": [
                   "4784",
                   "5045",
                   "5316"
             ],
-            "Wool,-Delay-Wash": [
+            "wool,-delay-wash": [
                   "4853"
             ],
-            "Speed": [
+            "speed": [
                   "4868",
                   "4922"
             ],
-            "Speed-Wash": [
+            "speed-wash": [
                   "4888"
             ],
-            "NA": [
+            "na": [
                   "4934",
                   "5030"
             ],
-            "Delicate,-Gentle,-Normal,-Heavy": [
+            "delicate,-gentle,-normal,-heavy": [
                   "4947"
             ],
-            "Blanket,-Delicates,-Jeans": [
+            "blanket,-delicates,-jeans": [
                   "4949",
                   "4980",
                   "5021",
@@ -15457,69 +15406,66 @@
                   "5266",
                   "5305"
             ],
-            "Additional-Soaking": [
+            "additional-soaking": [
                   "4957",
                   "5199",
                   "5244"
             ],
-            "Normal,-Active-Soak,-Gentle": [
+            "normal,-active-soak,-gentle": [
                   "4972"
             ],
-            "Normal,-Blanket,-Delicates": [
+            "normal,-blanket,-delicates": [
                   "5004",
                   "5027"
             ],
-            "Soak-Function": [
+            "soak-function": [
                   "5015",
                   "5061",
                   "5233",
                   "5299"
             ],
-            "Bed-Sheets,-Delicate,-Baby-Care": [
+            "bed-sheets,-delicate,-baby-care": [
                   "5031"
             ],
-            "Rinse,-Wool,-Delicates-/-Silk": [
+            "rinse,-wool,-delicates-/-silk": [
                   "5111"
             ],
-            "Express-Wash,-Delicates,-Jeans": [
+            "express-wash,-delicates,-jeans": [
                   "5143"
             ],
-            "Child,-Soft,-Standard,-Wool": [
+            "child,-soft,-standard,-wool": [
                   "5183"
             ],
-            "Bedsheet": [
+            "bedsheet": [
                   "5209"
             ],
-            "Extra-Rinse,-Mute-Wash": [
+            "extra-rinse,-mute-wash": [
                   "5259"
             ],
-            "Delicate": [
+            "delicate": [
                   "5262"
             ],
-            "Soak,-Blanket,-Delicates": [
+            "soak,-blanket,-delicates": [
                   "5279"
             ],
-            "Blankets,-Delicates,-Jeans": [
+            "blankets,-delicates,-jeans": [
                   "5310"
             ],
-            "Normal,-Heavy": [
+            "normal,-heavy": [
                   "5313"
             ],
-            "Gentle,-Strong": [
+            "gentle,-strong": [
                   "5322"
             ],
-            "Delicate,-Active-Soak": [
+            "delicate,-active-soak": [
                   "5324"
             ]
       },
-      "Stainless-steel": [
-            "4684"
-      ],
-      "Power-Requirement": {
-            "AC-220-V": [
+      "power-requirement": {
+            "ac-220-v": [
                   "4684"
             ],
-            "AC-220-\u2013-240-V,-50-Hz": [
+            "ac-220-\u2013-240-v,-50-hz": [
                   "4685",
                   "5091"
             ],
@@ -15531,7 +15477,7 @@
                   "4805",
                   "5185"
             ],
-            "50-Hz,-220---240-V": [
+            "50-hz,-220---240-v": [
                   "4690",
                   "4709",
                   "4747",
@@ -15542,7 +15488,7 @@
                   "5178",
                   "5310"
             ],
-            "AC-220-V,-50-Hz": [
+            "ac-220-v,-50-hz": [
                   "4691",
                   "4853",
                   "4864",
@@ -15566,7 +15512,7 @@
                   "5235",
                   "5305"
             ],
-            "AC-230-V,-50-Hz": [
+            "ac-230-v,-50-hz": [
                   "4692",
                   "4698",
                   "4714",
@@ -15603,7 +15549,7 @@
                   "5313",
                   "5322"
             ],
-            "AC-230-V": [
+            "ac-230-v": [
                   "4695",
                   "4700",
                   "4708",
@@ -15645,7 +15591,7 @@
                   "5254",
                   "5314"
             ],
-            "AC-220---240-V,-50-Hz": [
+            "ac-220---240-v,-50-hz": [
                   "4696",
                   "4702",
                   "4706",
@@ -15723,7 +15669,7 @@
                   "4825",
                   "4838"
             ],
-            "220-240V,-Single-Phase,-50-HZ": [
+            "220-240v,-single-phase,-50-hz": [
                   "4715",
                   "5073"
             ],
@@ -15732,12 +15678,12 @@
                   "4829",
                   "5034"
             ],
-            "50-Hz,-220-V": [
+            "50-hz,-220-v": [
                   "4777",
                   "5222",
                   "5266"
             ],
-            "AC-240-V,-50-Hz": [
+            "ac-240-v,-50-hz": [
                   "4785",
                   "4798",
                   "4821",
@@ -15750,13 +15696,13 @@
                   "4799",
                   "4887"
             ],
-            "50-Hz,-AC-220---240-V": [
+            "50-hz,-ac-220---240-v": [
                   "4819"
             ],
             "1950": [
                   "4820"
             ],
-            "AC-240-V,-50/60-Hz": [
+            "ac-240-v,-50/60-hz": [
                   "4839"
             ],
             "2000": [
@@ -15765,30 +15711,30 @@
             "550": [
                   "4911"
             ],
-            "AC-220---240-V": [
+            "ac-220---240-v": [
                   "5007"
             ],
-            "AC-230-240V~50hz": [
+            "ac-230-240v~50hz": [
                   "5015",
                   "5233",
                   "5299"
             ],
-            "AC-220---240-V,-50Hz": [
+            "ac-220---240-v,-50hz": [
                   "5032",
                   "5143"
             ],
-            "230-V-AC-50-Hz": [
+            "230-v-ac-50-hz": [
                   "5224"
             ],
-            "220-V,-50-Hz": [
+            "220-v,-50-hz": [
                   "5284"
             ],
-            "50-Hz,-230-V": [
+            "50-hz,-230-v": [
                   "5315"
             ]
       },
-      "Preset-Timer": {
-            "Yes": [
+      "preset-timer": {
+            "yes": [
                   "4684",
                   "4687",
                   "4692",
@@ -15899,7 +15845,7 @@
                   "5289",
                   "5310"
             ],
-            "No": [
+            "no": [
                   "4691",
                   "4710",
                   "4718",
@@ -15936,8 +15882,8 @@
                   "5319"
             ]
       },
-      "Spin-&-Rinse": {
-            "Yes": [
+      "spin-&-rinse": {
+            "yes": [
                   "4684",
                   "4687",
                   "4690",
@@ -16137,7 +16083,7 @@
                   "5314",
                   "5317"
             ],
-            "No": [
+            "no": [
                   "4689",
                   "4711",
                   "4741",
@@ -16165,11 +16111,11 @@
                   "5319"
             ]
       },
-      "Technology-Used": {
-            "Inverter-Technology": [
+      "technology-used": {
+            "inverter-technology": [
                   "4684"
             ],
-            "3D-Wash-System,-Aqua-Energie": [
+            "3d-wash-system,-aqua-energie": [
                   "4690",
                   "4709",
                   "4747",
@@ -16178,13 +16124,13 @@
                   "5178",
                   "5310"
             ],
-            "Pulsator-Technology": [
+            "pulsator-technology": [
                   "4692"
             ],
-            "Digital-Inverter": [
+            "digital-inverter": [
                   "4693"
             ],
-            "Rat-Away-Technology": [
+            "rat-away-technology": [
                   "4700",
                   "4708",
                   "4730",
@@ -16195,7 +16141,7 @@
                   "4844",
                   "4967"
             ],
-            "Power-Scrub-Technology": [
+            "power-scrub-technology": [
                   "4707",
                   "4732",
                   "4756",
@@ -16217,20 +16163,20 @@
                   "5138",
                   "5162"
             ],
-            "Digital-Inverter,-Eco-Bubble": [
+            "digital-inverter,-eco-bubble": [
                   "4737"
             ],
-            "Rollercoaster-Wash-Technology": [
+            "rollercoaster-wash-technology": [
                   "4754",
                   "4795"
             ],
-            "Wobble": [
+            "wobble": [
                   "4757"
             ],
-            "6-Motion-Direct-Drive": [
+            "6-motion-direct-drive": [
                   "4767"
             ],
-            "Fuzzy-Logic": [
+            "fuzzy-logic": [
                   "4777",
                   "4785",
                   "4798",
@@ -16241,7 +16187,7 @@
                   "4929",
                   "4988"
             ],
-            "Pulsator-Wash": [
+            "pulsator-wash": [
                   "4787",
                   "4791",
                   "4805",
@@ -16253,7 +16199,7 @@
                   "5263",
                   "5264"
             ],
-            "Smart-Inverter-Technology": [
+            "smart-inverter-technology": [
                   "4808",
                   "4810",
                   "4850",
@@ -16262,106 +16208,104 @@
                   "4937",
                   "5186"
             ],
-            "Powerwave-Wash-System": [
+            "powerwave-wash-system": [
                   "4811",
                   "4984",
+                  "5028",
                   "5145",
                   "5150",
                   "5282"
             ],
-            "Universal-Motor": [
+            "universal-motor": [
                   "4819",
                   "4853",
                   "4879",
                   "5056",
                   "5079"
             ],
-            "Inverter-BLDC-Motor": [
+            "inverter-bldc-motor": [
                   "4820",
                   "4883"
             ],
-            "HEDD-Technology": [
+            "hedd-technology": [
                   "4823",
                   "5117",
                   "5131"
             ],
-            "Digital-Inverter-Technology": [
+            "digital-inverter-technology": [
                   "4835",
                   "4882"
             ],
-            "Double-Clean-Technology": [
+            "double-clean-technology": [
                   "4864",
                   "5064"
             ],
-            "Balancing-Fluid-Technology": [
+            "balancing-fluid-technology": [
                   "4947",
                   "5175",
                   "5319"
             ],
-            "Fabricare-Wash": [
+            "fabricare-wash": [
                   "4950"
             ],
-            "Air-Jet-Dryer-Technology": [
+            "air-jet-dryer-technology": [
                   "5015",
                   "5061"
             ],
-            "PowerWave-Wash-System": [
-                  "5028"
-            ],
-            "Foam-Wash": [
+            "foam-wash": [
                   "5031"
             ],
-            "Bubble-Technology": [
+            "bubble-technology": [
                   "5068"
             ],
-            "Storm-Pulsator": [
+            "storm-pulsator": [
                   "5085"
             ],
-            "Thermal-Protection-Technology": [
+            "thermal-protection-technology": [
                   "5196",
                   "5242"
             ],
-            "Tri-Roto-Scrub-Wash-Technology": [
+            "tri-roto-scrub-wash-technology": [
                   "5198",
                   "5324"
             ],
-            "Thermal-Protection": [
+            "thermal-protection": [
                   "5199",
                   "5244"
             ],
-            "Turbodry-Technology": [
+            "turbodry-technology": [
                   "5209",
                   "5288"
             ],
-            "Motion-DD-Technology": [
+            "motion-dd-technology": [
                   "5214"
             ],
-            "Wobble-Technology": [
+            "wobble-technology": [
                   "5222",
                   "5266"
             ],
-            "Tristorm-Pulsator": [
+            "tristorm-pulsator": [
                   "5224"
             ],
-            "Pulsator-Washing-Fully-Automatic": [
+            "pulsator-washing-fully-automatic": [
                   "5233",
                   "5299"
             ],
-            "Hexa-Scrub-&-Pulse-4": [
+            "hexa-scrub-&-pulse-4": [
                   "5245"
             ],
-            "Bubble-Soak-Technology": [
+            "bubble-soak-technology": [
                   "5260"
             ],
-            "DAC-Technology": [
+            "dac-technology": [
                   "5295"
             ],
-            "Balancing-Ring": [
+            "balancing-ring": [
                   "5322"
             ]
       },
-      "Transparent-Window-Display": {
-            "Yes": [
+      "transparent-window-display": {
+            "yes": [
                   "4684",
                   "4687",
                   "4688",
@@ -16532,7 +16476,7 @@
                   "5322",
                   "5324"
             ],
-            "No": [
+            "no": [
                   "4698",
                   "4721",
                   "4774",
@@ -16560,8 +16504,8 @@
                   "5314"
             ]
       },
-      "Tub-Self-clean": {
-            "Yes": [
+      "tub-self-clean": {
+            "yes": [
                   "4684",
                   "4687",
                   "4690",
@@ -16705,7 +16649,7 @@
                   "5310",
                   "5317"
             ],
-            "No": [
+            "no": [
                   "4689",
                   "4691",
                   "4692",
@@ -16772,7 +16716,7 @@
                   "5319"
             ]
       },
-      "Wash-Program-Types": {
+      "wash-program-types": {
             "3": [
                   "4684",
                   "4689",
@@ -16786,11 +16730,11 @@
                   "5285",
                   "5316"
             ],
-            "8---Tumble-Wash": [
+            "8---tumble-wash": [
                   "4685",
                   "4982"
             ],
-            "2---Normal,-Gentle": [
+            "2---normal,-gentle": [
                   "4688",
                   "4697",
                   "4787",
@@ -16802,7 +16746,7 @@
                   "4909",
                   "5185"
             ],
-            "15---Tumble-Wash": [
+            "15---tumble-wash": [
                   "4690",
                   "4715",
                   "4747",
@@ -16830,7 +16774,7 @@
                   "4854",
                   "5113"
             ],
-            "2---Normal-Pulsator-Wash": [
+            "2---normal-pulsator-wash": [
                   "4698"
             ],
             "12": [
@@ -16896,7 +16840,7 @@
                   "5291",
                   "5317"
             ],
-            "3---Strong,-Normal,-Gentle": [
+            "3---strong,-normal,-gentle": [
                   "4704",
                   "4738",
                   "4825",
@@ -16906,15 +16850,15 @@
                   "5263",
                   "5264"
             ],
-            "6---Triadic-Pulsator-Wash": [
+            "6---triadic-pulsator-wash": [
                   "4709",
                   "4770",
                   "5143"
             ],
-            "10---Pulsator-Wash": [
+            "10---pulsator-wash": [
                   "4714"
             ],
-            "3---Impeller-Wash": [
+            "3---impeller-wash": [
                   "4728",
                   "4758",
                   "4784",
@@ -16929,26 +16873,26 @@
                   "5288",
                   "5303"
             ],
-            "15---Super-Quick-15/30-Program": [
+            "15---super-quick-15/30-program": [
                   "4739"
             ],
-            "5---3D-Turbo-Impeller-Wash": [
+            "5---3d-turbo-impeller-wash": [
                   "4740",
                   "4807",
                   "5074"
             ],
-            "2---Gentle,-Heavy": [
+            "2---gentle,-heavy": [
                   "4755",
                   "4775"
             ],
-            "--Triadic-Pulsator-Wash": [
+            "--triadic-pulsator-wash": [
                   "4761"
             ],
-            "--3-step-Wash": [
+            "--3-step-wash": [
                   "4763",
                   "5040"
             ],
-            "--Regular,-Heavy": [
+            "--regular,-heavy": [
                   "4780"
             ],
             "8": [
@@ -16976,21 +16920,21 @@
                   "5153",
                   "5172"
             ],
-            "3---Gentle,-Normal,-Strong": [
+            "3---gentle,-normal,-strong": [
                   "4831"
             ],
-            "2---3-step-Wash": [
+            "2---3-step-wash": [
                   "4839"
             ],
-            "2---Regular,-Heavy": [
+            "2---regular,-heavy": [
                   "4863",
                   "4936"
             ],
-            "3---Standard,-Strong,-Drain": [
+            "3---standard,-strong,-drain": [
                   "4864",
                   "5064"
             ],
-            "14---Tumble-Wash": [
+            "14---tumble-wash": [
                   "4886",
                   "4893",
                   "4928",
@@ -17011,11 +16955,11 @@
                   "5315",
                   "5322"
             ],
-            "0---Pulsator-Wash": [
+            "0---pulsator-wash": [
                   "4938",
                   "4978"
             ],
-            "4---4-step-Wash": [
+            "4---4-step-wash": [
                   "4947"
             ],
             "7": [
@@ -17033,11 +16977,11 @@
                   "5266",
                   "5305"
             ],
-            "3---Gentle,-Normal-and-Heavy": [
+            "3---gentle,-normal-and-heavy": [
                   "4954",
                   "5201"
             ],
-            "--Intensive,-Pre-Wash": [
+            "--intensive,-pre-wash": [
                   "4998"
             ],
             "6": [
@@ -17045,87 +16989,87 @@
                   "5027",
                   "5131"
             ],
-            "8---Normal,-Speedy": [
+            "8---normal,-speedy": [
                   "5031"
             ],
-            "12---Triadic-Pulsator-Wash": [
+            "12---triadic-pulsator-wash": [
                   "5032"
             ],
-            "3---Normal,-Gentle-and-Heavy": [
+            "3---normal,-gentle-and-heavy": [
                   "5050",
                   "5179"
             ],
-            "12---Tumble-Wash": [
+            "12---tumble-wash": [
                   "5052",
                   "5229",
                   "5232"
             ],
-            "0---Tumble-Wash": [
+            "0---tumble-wash": [
                   "5054"
             ],
-            "2---Soft-and-Standard": [
+            "2---soft-and-standard": [
                   "5061"
             ],
-            "10---3D-Wash": [
+            "10---3d-wash": [
                   "5073"
             ],
-            "8---Agipeller-Wash": [
+            "8---agipeller-wash": [
                   "5087"
             ],
-            "13---Tumble-Wash": [
+            "13---tumble-wash": [
                   "5109"
             ],
-            "0---Jet-Wash": [
+            "0---jet-wash": [
                   "5116"
             ],
-            "0---Hand-Wash": [
+            "0---hand-wash": [
                   "5123"
             ],
-            "3---3-step-Wash": [
+            "3---3-step-wash": [
                   "5175",
                   "5319"
             ],
-            "13---Heavy": [
+            "13---heavy": [
                   "5183"
             ],
-            "--Eco-Tub-Clean": [
+            "--eco-tub-clean": [
                   "5222"
             ],
-            "3---Pulsator-Wash": [
+            "3---pulsator-wash": [
                   "5224"
             ],
-            "3---Normal,-Strong,-General": [
+            "3---normal,-strong,-general": [
                   "5226",
                   "5252",
                   "5254"
             ],
-            "--Eco-Wash": [
+            "--eco-wash": [
                   "5242"
             ],
-            "3---Normal,-Gentle,-Powerful": [
+            "3---normal,-gentle,-powerful": [
                   "5245"
             ],
-            "3---Normal,-Intensive": [
+            "3---normal,-intensive": [
                   "5262"
             ],
-            "4---123-Wash": [
+            "4---123-wash": [
                   "5272"
             ],
             "9": [
                   "5279"
             ],
-            "11---Daily-Wash": [
+            "11---daily-wash": [
                   "5295"
             ],
-            "8---Triadic-Pulsator-Wash": [
+            "8---triadic-pulsator-wash": [
                   "5310"
             ],
-            "3---Heavy,-Daily-Wash": [
+            "3---heavy,-daily-wash": [
                   "5324"
             ]
       },
-      "Water-Consumption": {
-            "75-L": [
+      "water-consumption": {
+            "75-l": [
                   "4684",
                   "4919",
                   "5011",
@@ -17133,7 +17077,7 @@
                   "5179",
                   "5200"
             ],
-            "45-L": [
+            "45-l": [
                   "4685",
                   "4813",
                   "4841",
@@ -17145,41 +17089,41 @@
                   "5203",
                   "5249"
             ],
-            "60-L": [
+            "60-l": [
                   "4690"
             ],
-            "104-L": [
+            "104-l": [
                   "4709",
                   "4770",
                   "5310"
             ],
-            "50-L": [
+            "50-l": [
                   "4715"
             ],
-            "43-L": [
+            "43-l": [
                   "4747",
                   "4918",
                   "5109",
                   "5178"
             ],
-            "45-Ltrs": [
+            "45-ltrs": [
                   "4777"
             ],
-            "38-L": [
+            "38-l": [
                   "4788"
             ],
-            "48-L": [
+            "48-l": [
                   "4793",
                   "5176"
             ],
-            "54-L": [
+            "54-l": [
                   "4819"
             ],
-            "56-L": [
+            "56-l": [
                   "4849",
                   "4866"
             ],
-            "40-L": [
+            "40-l": [
                   "4853",
                   "4864",
                   "4867",
@@ -17190,52 +17134,52 @@
                   "5030",
                   "5064"
             ],
-            "34-L": [
+            "34-l": [
                   "4854"
             ],
-            "65-L": [
+            "65-l": [
                   "4857",
                   "5061"
             ],
-            "53-L": [
+            "53-l": [
                   "4858",
                   "4950"
             ],
-            "68-L": [
+            "68-l": [
                   "4904"
             ],
-            "55-L": [
+            "55-l": [
                   "4906",
                   "4909",
                   "5007",
                   "5270"
             ],
-            "78-L": [
+            "78-l": [
                   "4907"
             ],
-            "64-L": [
+            "64-l": [
                   "4915"
             ],
-            "99-L": [
+            "99-l": [
                   "5031",
                   "5166"
             ],
-            "46-L": [
+            "46-l": [
                   "5056",
                   "5079"
             ],
-            "118-L": [
+            "118-l": [
                   "5113"
             ],
-            "52-L": [
+            "52-l": [
                   "5130"
             ],
-            "15-L": [
+            "15-l": [
                   "5245"
             ]
       },
-      "Wheel-Support": {
-            "No": [
+      "wheel-support": {
+            "no": [
                   "4684",
                   "4687",
                   "4691",
@@ -17342,7 +17286,7 @@
                   "5291",
                   "5317"
             ],
-            "Yes": [
+            "yes": [
                   "4704",
                   "4710",
                   "4711",
@@ -17440,8 +17384,8 @@
                   "5324"
             ]
       },
-      "Wrinkle-Prevention": {
-            "No": [
+      "wrinkle-prevention": {
+            "no": [
                   "4684",
                   "4687",
                   "4691",
@@ -17503,7 +17447,7 @@
                   "5314",
                   "5319"
             ],
-            "Yes": [
+            "yes": [
                   "4703",
                   "4709",
                   "4777",
@@ -17541,7 +17485,7 @@
                   "5310"
             ]
       },
-      "IFB": [
+      "ifb": [
             "4685",
             "4690",
             "4702",
@@ -17601,7 +17545,7 @@
             "5310",
             "5317"
       ],
-      "White": [
+      "white": [
             "4685",
             "4693",
             "4695",
@@ -17696,7 +17640,7 @@
             "5294",
             "5304"
       ],
-      "Door-Diameter": {
+      "door-diameter": {
             "320-mm": [
                   "4685",
                   "4715",
@@ -17726,17 +17670,20 @@
                   "5106"
             ]
       },
-      "Door-Opening": {
+      "door-opening": {
             "180-degree": [
                   "4685",
                   "4690",
                   "4715",
                   "4747",
+                  "4767",
                   "4982",
                   "5091",
+                  "5113",
                   "5130",
                   "5159",
-                  "5178"
+                  "5178",
+                  "5204"
             ],
             "145-mm": [
                   "4702",
@@ -17763,13 +17710,9 @@
                   "5291",
                   "5317"
             ],
-            "180-Degree": [
-                  "4767",
-                  "5113",
-                  "5204"
-            ],
-            "165-Degree": [
-                  "4854"
+            "165-degree": [
+                  "4854",
+                  "5149"
             ],
             "145-degree": [
                   "4886",
@@ -17780,19 +17723,14 @@
                   "5294"
             ],
             "150-degree": [
-                  "5006"
-            ],
-            "150-Degree": [
+                  "5006",
                   "5106"
             ],
             "140-degree": [
                   "5111"
-            ],
-            "165-degree": [
-                  "5149"
             ]
       },
-      "Door-Width": {
+      "door-width": {
             "32-cm": [
                   "4685",
                   "5091"
@@ -17814,7 +17752,7 @@
                   "5113"
             ]
       },
-      "Fully-Automatic-Front-Load": [
+      "fully-automatic-front-load": [
             "4685",
             "4690",
             "4693",
@@ -17977,7 +17915,7 @@
             "5312",
             "5317"
       ],
-      "Warranty-does-not-cover,-parts": [
+      "warranty-does-not-cover,-parts": [
             "4685",
             "4863",
             "5065",
@@ -17987,7 +17925,7 @@
             "5288",
             "5312"
       ],
-      "Whirlpool": [
+      "whirlpool": [
             "4686",
             "4689",
             "4694",
@@ -18104,8 +18042,8 @@
             "5307",
             "5316"
       ],
-      "Auto-Power-Off": {
-            "Yes": [
+      "auto-power-off": {
+            "yes": [
                   "4687",
                   "4691",
                   "4692",
@@ -18209,7 +18147,7 @@
                   "5313",
                   "5314"
             ],
-            "No": [
+            "no": [
                   "4698",
                   "4719",
                   "4721",
@@ -18228,8 +18166,8 @@
                   "5201"
             ]
       },
-      "Other-Features": {
-            "Auto-Restart": [
+      "other-features": {
+            "auto-restart": [
                   "4687",
                   "4808",
                   "4810",
@@ -18242,33 +18180,33 @@
                   "5238",
                   "5265"
             ],
-            "Auto-Restart,-Dry-Tap-Protection": [
+            "auto-restart,-dry-tap-protection": [
                   "4705",
                   "4797",
                   "5058",
                   "5060"
             ],
-            "Magic-Wheels-360-Degree-Rotation": [
+            "magic-wheels-360-degree-rotation": [
                   "4708",
                   "4734",
                   "4783"
             ],
-            "Rat-Away": [
+            "rat-away": [
                   "4710"
             ],
-            "Scrub-Board,-Double-Storm": [
+            "scrub-board,-double-storm": [
                   "4723"
             ],
-            "Auto-Restart,-Smart-Inverter": [
+            "auto-restart,-smart-inverter": [
                   "4731"
             ],
-            "Smart-Diagnosis-System": [
+            "smart-diagnosis-system": [
                   "4733"
             ],
-            "Air-Turbo,-Water-Fall": [
+            "air-turbo,-water-fall": [
                   "4757"
             ],
-            "Aqua-Energie,-Eco-Savings": [
+            "aqua-energie,-eco-savings": [
                   "4813",
                   "4841",
                   "4867",
@@ -18278,21 +18216,21 @@
                   "4959",
                   "5030"
             ],
-            "Silent-Wash": [
+            "silent-wash": [
                   "4821",
                   "4929",
                   "5007"
             ],
-            "Inverter-Direct-Drive-Motor": [
+            "inverter-direct-drive-motor": [
                   "4823",
                   "5117",
                   "5131"
             ],
-            "Buzzer": [
+            "buzzer": [
                   "4919",
                   "5200"
             ],
-            "Power-Spin,-Active-Wash-Plus": [
+            "power-spin,-active-wash-plus": [
                   "4949",
                   "5038",
                   "5086",
@@ -18301,59 +18239,59 @@
                   "5136",
                   "5305"
             ],
-            "Air-Turbo": [
+            "air-turbo": [
                   "4980",
                   "5004",
                   "5027",
                   "5165",
                   "5189"
             ],
-            "Active-Wash-Plus": [
+            "active-wash-plus": [
                   "5065",
                   "5156"
             ],
-            "6th-Sense-Deep-Clean": [
+            "6th-sense-deep-clean": [
                   "5075"
             ],
-            "Silver-Wash-Technology": [
+            "silver-wash-technology": [
                   "5084"
             ],
-            "VoltCheck,-German-Engineering": [
+            "voltcheck,-german-engineering": [
                   "5113"
             ],
-            "Tub-Clean": [
+            "tub-clean": [
                   "5183"
             ],
-            "Active-Soak,-Spin-Shower": [
+            "active-soak,-spin-shower": [
                   "5198"
             ],
-            "DIT-Motor": [
+            "dit-motor": [
                   "5212"
             ],
-            "Mini-Pulsators": [
+            "mini-pulsators": [
                   "5226",
                   "5252",
                   "5254"
             ],
-            "PCM-Cabinet,-Metal-Body": [
+            "pcm-cabinet,-metal-body": [
                   "5233",
                   "5299"
             ],
-            "Castors,-Spin-Shower": [
+            "castors,-spin-shower": [
                   "5245"
             ],
-            "Installation-Type:-Free-standing": [
+            "installation-type:-free-standing": [
                   "5262"
             ],
-            "Delay-Start:-1---24-hr": [
+            "delay-start:-1---24-hr": [
                   "5293"
             ],
-            "Mini-Pulsators,-Magic-Filter": [
+            "mini-pulsators,-magic-filter": [
                   "5314"
             ]
       },
-      "Shock-Proof": {
-            "Yes": [
+      "shock-proof": {
+            "yes": [
                   "4687",
                   "4688",
                   "4691",
@@ -18535,7 +18473,7 @@
                   "5314",
                   "5322"
             ],
-            "No": [
+            "no": [
                   "4721",
                   "4809",
                   "4864",
@@ -18545,7 +18483,7 @@
                   "5139"
             ]
       },
-      "MarQ-by-Flipkart": [
+      "marq-by-flipkart": [
             "4688",
             "4697",
             "4704",
@@ -18576,7 +18514,7 @@
             "5319",
             "5322"
       ],
-      "White,-Maroon": [
+      "white,-maroon": [
             "4688",
             "4738",
             "4787",
@@ -18602,7 +18540,7 @@
             "5278",
             "5322"
       ],
-      "Dryer-Capacity": {
+      "dryer-capacity": {
             "4-kg": [
                   "4688",
                   "5322"
@@ -18627,10 +18565,12 @@
                   "5050",
                   "5110",
                   "5166",
+                  "5175",
                   "5179",
                   "5263",
                   "5264",
-                  "5284"
+                  "5284",
+                  "5319"
             ],
             "3.5-kg": [
                   "4721"
@@ -18687,13 +18627,9 @@
                   "5226",
                   "5252",
                   "5254"
-            ],
-            "6-Kg": [
-                  "5175",
-                  "5319"
             ]
       },
-      "Semi-Automatic-Top-Load": [
+      "semi-automatic-top-load": [
             "4688",
             "4689",
             "4694",
@@ -18867,8 +18803,8 @@
             "5323",
             "5324"
       ],
-      "Noise-Level-Wash": {
-            "65-dB": [
+      "noise-level-wash": {
+            "65-db": [
                   "4688",
                   "4697",
                   "4704",
@@ -18908,29 +18844,30 @@
                   "5314",
                   "5322"
             ],
-            "49-dB": [
+            "49-db": [
                   "4695",
                   "4713",
+                  "4744",
+                  "4842",
                   "4990"
             ],
             "59-db": [
-                  "4725"
+                  "4725",
+                  "4888",
+                  "5110",
+                  "5111"
             ],
-            "54-dB": [
+            "54-db": [
                   "4739",
                   "4814",
                   "5002",
                   "5166"
             ],
-            "49-db": [
-                  "4744",
-                  "4842"
-            ],
-            "53-dB": [
+            "53-db": [
                   "4777",
                   "4854"
             ],
-            "62-dB": [
+            "62-db": [
                   "4788",
                   "4799",
                   "4819",
@@ -18959,36 +18896,31 @@
                   "5183",
                   "5249"
             ],
-            "58-dB": [
+            "58-db": [
                   "4790",
                   "4868",
                   "4922"
             ],
-            "76-dB": [
+            "76-db": [
                   "4793",
                   "4849",
                   "4866",
                   "5176"
             ],
-            "60-dB": [
+            "60-db": [
                   "4862",
                   "5061"
             ],
-            "59-dB": [
-                  "4888",
-                  "5110",
-                  "5111"
-            ],
-            "55-dB": [
+            "55-db": [
                   "5024",
                   "5026",
                   "5101"
             ],
-            "52-dB": [
+            "52-db": [
                   "5260"
             ]
       },
-      "Spin-Cycle-Duration": {
+      "spin-cycle-duration": {
             "5-mins": [
                   "4688",
                   "4696",
@@ -19042,7 +18974,7 @@
                   "5322",
                   "5324"
             ],
-            "15-Mins": [
+            "15-mins": [
                   "4777"
             ],
             "9-mins": [
@@ -19059,8 +18991,8 @@
                   "5203"
             ]
       },
-      "Spin-Motor-Rating": {
-            "45-W": [
+      "spin-motor-rating": {
+            "45-w": [
                   "4688",
                   "4697",
                   "4787",
@@ -19072,10 +19004,12 @@
                   "5314",
                   "5322"
             ],
-            "60-W": [
+            "60-w": [
                   "4704",
                   "4738",
                   "4825",
+                  "4829",
+                  "4838",
                   "5034",
                   "5050",
                   "5061",
@@ -19088,7 +19022,7 @@
                   "5264",
                   "5319"
             ],
-            "150-W": [
+            "150-w": [
                   "4758",
                   "4784",
                   "4863",
@@ -19100,59 +19034,55 @@
                   "5303",
                   "5316"
             ],
-            "255-W": [
+            "255-w": [
                   "4777"
             ],
-            "125-W": [
+            "125-w": [
                   "4780"
             ],
-            "285-W": [
+            "285-w": [
                   "4785",
                   "4798",
                   "4821",
                   "4929"
             ],
-            "280-W": [
+            "280-w": [
                   "4801"
             ],
-            "60-w": [
-                  "4829",
-                  "4838"
-            ],
-            "70-W": [
+            "70-w": [
                   "4919",
                   "4947",
                   "5200"
             ],
-            "135-W": [
+            "135-w": [
                   "4954",
                   "5201"
             ],
-            "200-W": [
+            "200-w": [
                   "4972",
                   "5037"
             ],
-            "350-W": [
+            "350-w": [
                   "5006"
             ],
-            "180-W": [
+            "180-w": [
                   "5153",
                   "5172"
             ],
-            "190-W": [
+            "190-w": [
                   "5198"
             ],
-            "170-W": [
+            "170-w": [
                   "5206"
             ],
-            "160-W": [
+            "160-w": [
                   "5210",
                   "5236",
                   "5256",
                   "5315"
             ]
       },
-      "Polypropylene": [
+      "polypropylene": [
             "4688",
             "4697",
             "4698",
@@ -19191,7 +19121,7 @@
             "5319",
             "5322"
       ],
-      "Wash-Cycle-Duration": {
+      "wash-cycle-duration": {
             "15-mins": [
                   "4688",
                   "4697",
@@ -19226,7 +19156,7 @@
                   "4747",
                   "5178"
             ],
-            "42-Mins": [
+            "42-mins": [
                   "4777"
             ],
             "35-min": [
@@ -19262,8 +19192,8 @@
                   "5245"
             ]
       },
-      "Wash-Motor-Rating": {
-            "135-W": [
+      "wash-motor-rating": {
+            "135-w": [
                   "4688",
                   "4697",
                   "4787",
@@ -19275,17 +19205,19 @@
                   "5185",
                   "5314"
             ],
-            "180-W": [
+            "180-w": [
                   "4704",
                   "4825",
+                  "4838",
                   "4857",
                   "4947",
                   "5226",
                   "5263",
                   "5264"
             ],
-            "150-W": [
+            "150-w": [
                   "4738",
+                  "4829",
                   "4858",
                   "4950",
                   "5006",
@@ -19295,10 +19227,10 @@
                   "5254",
                   "5319"
             ],
-            "325-W": [
+            "325-w": [
                   "4777"
             ],
-            "340-W": [
+            "340-w": [
                   "4784",
                   "4863",
                   "4898",
@@ -19309,61 +19241,55 @@
                   "5303",
                   "5316"
             ],
-            "385-W": [
+            "385-w": [
                   "4785",
                   "4798",
                   "4821",
                   "4929"
             ],
-            "2100-W": [
+            "2100-w": [
                   "4788"
             ],
-            "370-W": [
+            "370-w": [
                   "4801"
             ],
-            "150-w": [
-                  "4829"
-            ],
-            "180-w": [
-                  "4838"
-            ],
-            "400-W": [
+            "400-w": [
                   "4954",
                   "5201",
                   "5315"
             ],
-            "570-W": [
+            "570-w": [
                   "4972"
             ],
-            "520-W": [
+            "520-w": [
                   "5153",
                   "5198"
             ],
-            "480-W": [
+            "480-w": [
                   "5172"
             ],
-            "220-W": [
+            "220-w": [
                   "5175"
             ],
-            "500-W": [
+            "500-w": [
                   "5204"
             ],
-            "450-W": [
+            "450-w": [
                   "5206",
                   "5245"
             ],
-            "440-W": [
+            "440-w": [
                   "5210",
                   "5256"
             ],
-            "350-W": [
+            "350-w": [
                   "5236"
             ],
-            "110-W": [
+            "110-w": [
                   "5322"
             ]
       },
-      "Plastic": [
+      "plastic": [
             "4689",
             "4692",
             "4694",
@@ -19548,136 +19474,136 @@
             "5316",
             "5324"
       ],
-      "Other-Body-Features": {
-            "Door-Color:-Chrome": [
+      "other-body-features": {
+            "door-color:-chrome": [
                   "4690",
                   "4747",
                   "5130"
             ],
-            "Shock-and-Rust-Proof-Body": [
+            "shock-and-rust-proof-body": [
                   "4692"
             ],
-            "Full-Touch-Panel": [
+            "full-touch-panel": [
                   "4703"
             ],
-            "Top-Lid-Color:-Ivory-White": [
+            "top-lid-color:-ivory-white": [
                   "4709"
             ],
-            "Soft-Close-Lid,-Toughened-Glass": [
+            "soft-close-lid,-toughened-glass": [
                   "4717",
                   "4727"
             ],
-            "Anti-Vibration-Side-Walls": [
+            "anti-vibration-side-walls": [
                   "4725",
                   "4744",
                   "4842"
             ],
-            "Back-Control-Panel": [
+            "back-control-panel": [
                   "4735",
                   "4748",
                   "5075",
                   "5127"
             ],
-            "Anti-vibration-Body,-Vario-Drum": [
+            "anti-vibration-body,-vario-drum": [
                   "4739"
             ],
-            "Front-Control-Panel": [
+            "front-control-panel": [
                   "4749"
             ],
-            "100%-Water-Resistant-Panel": [
+            "100%-water-resistant-panel": [
                   "4754"
             ],
-            "Window-Material:-Glass": [
+            "window-material:-glass": [
                   "4763"
             ],
-            "Top-Lid-Color:-Sparkling-Silver": [
+            "top-lid-color:-sparkling-silver": [
                   "4770"
             ],
-            "Rust-Proof,-Multi-Utility-Tray": [
+            "rust-proof,-multi-utility-tray": [
                   "4784"
             ],
-            "Impact-Resistant": [
+            "impact-resistant": [
                   "4821",
                   "4929"
             ],
-            "Rust-Proof-Body": [
+            "rust-proof-body": [
                   "4839"
             ],
-            "Power-Packed-Digital-Panel": [
+            "power-packed-digital-panel": [
                   "4879"
             ],
-            "Rust-Free-Body": [
+            "rust-free-body": [
                   "4912",
                   "4950"
             ],
-            "NA": [
+            "na": [
                   "4934",
                   "5030"
             ],
-            "Soft-Close-Door,-Level-Indicator": [
+            "soft-close-door,-level-indicator": [
                   "4946",
                   "5215",
                   "5289"
             ],
-            "Door-Color:-Silver": [
+            "door-color:-silver": [
                   "4982"
             ],
-            "Wash-Station:-Sort,-Stack,-Carry": [
+            "wash-station:-sort,-stack,-carry": [
                   "5003",
                   "5303"
             ],
-            "Rust-Proof": [
+            "rust-proof": [
                   "5007"
             ],
-            "Rust-Free-and-Non-corrosive-Body": [
+            "rust-free-and-non-corrosive-body": [
                   "5061"
             ],
-            "Drum-Type:-Diamond": [
+            "drum-type:-diamond": [
                   "5068",
                   "5212",
                   "5304"
             ],
-            "Toughened-Glass-Window": [
+            "toughened-glass-window": [
                   "5077"
             ],
-            "Rust-Free,-Shock-Free": [
+            "rust-free,-shock-free": [
                   "5085",
                   "5224"
             ],
-            "Crescent-Moon-Drum": [
+            "crescent-moon-drum": [
                   "5109"
             ],
-            "Door-Color:-White": [
+            "door-color:-white": [
                   "5159",
                   "5178"
             ],
-            "Crystal-Gloss-Door": [
+            "crystal-gloss-door": [
                   "5166",
                   "5260"
             ],
-            "Smooth-Curve-Design-Inner-Tub": [
+            "smooth-curve-design-inner-tub": [
                   "5171"
             ],
-            "Crystal-Glass-Door": [
+            "crystal-glass-door": [
                   "5182"
             ],
-            "Rust-proof-Poly-Propylene-Body": [
+            "rust-proof-poly-propylene-body": [
                   "5193"
             ],
-            "Chrome-Knobs,-Rust-Proof-Body": [
+            "chrome-knobs,-rust-proof-body": [
                   "5236"
             ],
-            "Diamond-Drum": [
+            "diamond-drum": [
                   "5309"
             ],
-            "Top-Lid-Color:-Luxury-Red": [
+            "top-lid-color:-luxury-red": [
                   "5310"
             ],
-            "Rust-Free": [
+            "rust-free": [
                   "5313"
             ]
       },
-      "Haier": [
+      "haier": [
             "4691",
             "4777",
             "4818",
@@ -19702,10 +19628,10 @@
             "5318",
             "5320"
       ],
-      "Brown,-Grey": [
+      "brown,-grey": [
             "4691"
       ],
-      "Onida": [
+      "onida": [
             "4692",
             "4698",
             "4714",
@@ -19725,7 +19651,7 @@
             "5313",
             "5315"
       ],
-      "Bosch": [
+      "bosch": [
             "4695",
             "4713",
             "4717",
@@ -19772,8 +19698,8 @@
             "5282",
             "5289"
       ],
-      "Noise-Level-Spin": {
-            "74-dB": [
+      "noise-level-spin": {
+            "74-db": [
                   "4695",
                   "4713",
                   "4739",
@@ -19783,7 +19709,7 @@
                   "5002",
                   "5111"
             ],
-            "75-dB": [
+            "75-db": [
                   "4717",
                   "4727",
                   "4789",
@@ -19799,13 +19725,25 @@
                   "5289"
             ],
             "73-db": [
-                  "4725"
+                  "4725",
+                  "4854",
+                  "5024",
+                  "5026",
+                  "5101",
+                  "5166",
+                  "5260"
             ],
             "65-db": [
                   "4744",
-                  "4842"
+                  "4842",
+                  "4990",
+                  "5226",
+                  "5252",
+                  "5254",
+                  "5314",
+                  "5322"
             ],
-            "70-dB": [
+            "70-db": [
                   "4777",
                   "4785",
                   "4798",
@@ -19813,7 +19751,7 @@
                   "4929",
                   "4947"
             ],
-            "72-dB": [
+            "72-db": [
                   "4787",
                   "4788",
                   "4791",
@@ -19852,7 +19790,7 @@
                   "5263",
                   "5264"
             ],
-            "78-dB": [
+            "78-db": [
                   "4793",
                   "4849",
                   "4866",
@@ -19860,136 +19798,118 @@
                   "5110",
                   "5176"
             ],
-            "73-dB": [
-                  "4854",
-                  "5024",
-                  "5026",
-                  "5101",
-                  "5166",
-                  "5260"
-            ],
-            "77-dB": [
+            "77-db": [
                   "4862"
             ],
-            "76-dB": [
+            "76-db": [
                   "4868",
                   "5006"
             ],
-            "65-dB": [
-                  "4990",
-                  "5226",
-                  "5252",
-                  "5254",
-                  "5314",
-                  "5322"
-            ],
-            "60-dB": [
+            "60-db": [
                   "5061"
             ]
       },
-      "Other-Convenience-Features": {
-            "Water-Level-Selector:-Automatic": [
+      "other-convenience-features": {
+            "water-level-selector:-automatic": [
                   "4695",
                   "4713",
                   "4814"
             ],
-            "Built-in-Scrubber,-Buzzer": [
+            "built-in-scrubber,-buzzer": [
                   "4784"
             ],
-            "Display-has-LED-indicators": [
-                  "4788"
+            "display-has-led-indicators": [
+                  "4788",
+                  "4862"
             ],
-            "Emergency-Door-Opening-Feature": [
+            "emergency-door-opening-feature": [
                   "4819"
             ],
-            "Fuzzy-Logic:-One-Touch": [
+            "fuzzy-logic:-one-touch": [
                   "4853",
                   "4879",
                   "5056",
                   "5079"
             ],
-            "Display-Has-LED-Indicators": [
-                  "4862"
-            ],
-            "Beep-Buzzer": [
+            "beep-buzzer": [
                   "4954",
                   "5201"
             ],
-            "Buzzer,-Active-Soak:-25-min": [
+            "buzzer,-active-soak:-25-min": [
                   "4972"
             ],
-            "Magic-Filter,-Eco-Tub-Clean": [
+            "magic-filter,-eco-tub-clean": [
                   "4980",
                   "5004",
                   "5027",
                   "5189"
             ],
-            "Delay-End,-Over-Heating-Control": [
+            "delay-end,-over-heating-control": [
                   "4998"
             ],
-            "Buzzer": [
+            "buzzer": [
                   "5011",
                   "5324"
             ],
-            "Air-Jet-Dryer-Program": [
+            "air-jet-dryer-program": [
                   "5015"
             ],
-            "Zero-Pressure-Fill-Technology": [
+            "zero-pressure-fill-technology": [
                   "5085"
             ],
-            "Magic-Filter": [
+            "magic-filter": [
                   "5153"
             ],
-            "Delay-End": [
+            "delay-end": [
                   "5166",
                   "5182",
                   "5260"
             ],
-            "Wash-end-Buzzer": [
+            "wash-end-buzzer": [
                   "5172",
                   "5206"
             ],
-            "Water-Inlet-Cold-Only": [
+            "water-inlet-cold-only": [
                   "5186"
             ],
-            "End-of-Cycle-Buzzer": [
+            "end-of-cycle-buzzer": [
                   "5198"
             ],
-            "Double-Magic-Filter": [
+            "double-magic-filter": [
                   "5199"
             ],
-            "Auto-Restart": [
+            "auto-restart": [
                   "5222"
             ],
-            "Magic-Filter,-Castor": [
+            "magic-filter,-castor": [
                   "5224"
             ],
-            "2-Water-Inlets,-Collar-Scrubber": [
+            "2-water-inlets,-collar-scrubber": [
                   "5244"
             ],
-            "Active-Soak:-Upto-20-min": [
+            "active-soak:-upto-20-min": [
                   "5245"
             ],
-            "Air-Turbo,-Rinse,-Auto-Restart": [
+            "air-turbo,-rinse,-auto-restart": [
                   "5266"
             ],
-            "Magic-Filter,-Auto-Restart": [
+            "magic-filter,-auto-restart": [
                   "5272"
             ],
-            "Delay-End,-Magic-Dispenser": [
+            "delay-end,-magic-dispenser": [
                   "5279"
             ],
-            "Delay-End,-15-min-Quick-Wash": [
+            "delay-end,-15-min-quick-wash": [
                   "5284"
             ],
-            "In-built-Scrubber": [
+            "in-built-scrubber": [
                   "5313"
             ],
-            "Top-Water-Fountain": [
+            "top-water-fountain": [
                   "5314"
             ]
       },
-      "Midea": [
+      "midea": [
             "4696",
             "4706",
             "4716",
@@ -20021,7 +19941,7 @@
             "5148",
             "5201"
       ],
-      "Cord-Length": {
+      "cord-length": {
             "80-cm": [
                   "4696",
                   "4706",
@@ -20060,7 +19980,7 @@
                   "5282",
                   "5289"
             ],
-            "5-Feet": [
+            "5-feet": [
                   "4725",
                   "4744",
                   "4842"
@@ -20111,7 +20031,7 @@
                   "5314"
             ]
       },
-      "Durable-Steel": [
+      "durable-steel": [
             "4696",
             "4706",
             "4716",
@@ -20141,7 +20061,7 @@
             "5122",
             "5148"
       ],
-      "White,-Blue": [
+      "white,-blue": [
             "4697",
             "4704",
             "4791",
@@ -20164,7 +20084,7 @@
             "5313",
             "5314"
       ],
-      "Red": [
+      "red": [
             "4698",
             "4758",
             "4778",
@@ -20184,14 +20104,14 @@
             "5310",
             "5324"
       ],
-      "Washer-only": [
+      "washer-only": [
             "4698",
             "4839",
             "4938",
             "4978"
       ],
-      "Installation-&-Demo": {
-            "NA": [
+      "installation-&-demo": {
+            "na": [
                   "4698",
                   "5167",
                   "5175",
@@ -20200,17 +20120,17 @@
             "0": [
                   "4710"
             ],
-            "Installation-and-Demo": [
+            "installation-and-demo": [
                   "5035"
             ]
       },
-      "Maroon,-White": [
+      "maroon,-white": [
             "4700",
             "4730",
             "4779",
             "5296"
       ],
-      "Air-Dry": [
+      "air-dry": [
             "4700",
             "4708",
             "4714",
@@ -20255,8 +20175,8 @@
             "5315",
             "5319"
       ],
-      "Operating-Current": {
-            "16-A": [
+      "operating-current": {
+            "16-a": [
                   "4702",
                   "4726",
                   "4743",
@@ -20281,23 +20201,23 @@
                   "5291",
                   "5317"
             ],
-            "10-A": [
+            "10-a": [
                   "4739",
                   "4790",
                   "5054",
                   "5111",
                   "5149"
             ],
-            "1.8-A": [
+            "1.8-a": [
                   "4857"
             ],
-            "1.6-A": [
+            "1.6-a": [
                   "4858"
             ],
-            "1.4-A": [
+            "1.4-a": [
                   "4912"
             ],
-            "1.5-A": [
+            "1.5-a": [
                   "4919",
                   "4950",
                   "5011",
@@ -20305,16 +20225,16 @@
                   "5179",
                   "5200"
             ],
-            "1.9-A": [
+            "1.9-a": [
                   "5226"
             ],
-            "1.7-A": [
+            "1.7-a": [
                   "5252",
                   "5254",
                   "5314"
             ]
       },
-      "Godrej": [
+      "godrej": [
             "4705",
             "4754",
             "4765",
@@ -20358,24 +20278,24 @@
             "5295",
             "5324"
       ],
-      "Purple,-White": [
+      "purple,-white": [
             "4708",
             "5074",
             "5319"
       ],
-      "Rubber-and-Plastic-Parts": [
+      "rubber-and-plastic-parts": [
             "4709",
             "5164",
             "5220",
             "5290"
       ],
-      "Grey,-White": [
+      "grey,-white": [
             "4710",
             "4734",
             "4844",
             "4967"
       ],
-      "White,-Grey": [
+      "white,-grey": [
             "4711",
             "4718",
             "4755",
@@ -20393,36 +20313,36 @@
             "5210",
             "5263"
       ],
-      "Other-Power-Features": {
-            "Power-Conumption-(Spin):-250-W": [
+      "other-power-features": {
+            "power-conumption-(spin):-250-w": [
                   "4714"
             ],
-            "0.23-KWH": [
+            "0.23-kwh": [
                   "4763"
             ],
-            "Smart-Power-Saving": [
+            "smart-power-saving": [
                   "4780",
                   "4863",
                   "4936"
             ],
-            "750Wh-(Cotton-40-degree-celsius)": [
+            "750wh-(cotton-40-degree-celsius)": [
                   "4834"
             ],
-            "High-low-Voltage": [
+            "high-low-voltage": [
                   "4886",
                   "4893",
                   "4992",
                   "5052",
                   "5294"
             ],
-            "Power-Consumption-(Spin):-150-W": [
+            "power-consumption-(spin):-150-w": [
                   "4939",
                   "5234",
                   "5240",
                   "5244",
                   "5250"
             ],
-            "Power-Consumption-(Spin):-240-W": [
+            "power-consumption-(spin):-240-w": [
                   "4949",
                   "4980",
                   "5004",
@@ -20440,49 +20360,49 @@
                   "5235",
                   "5305"
             ],
-            "Power-Consumption-(Spin):-420-W": [
+            "power-consumption-(spin):-420-w": [
                   "4957"
             ],
-            "Connection:-Frequency---50-Hz": [
+            "connection:-frequency---50-hz": [
                   "5024",
                   "5026"
             ],
-            "Standby-Power-Save": [
+            "standby-power-save": [
                   "5040"
             ],
-            "Power-Rating:-2150-W": [
+            "power-rating:-2150-w": [
                   "5054"
             ],
-            "0.07-KWH": [
+            "0.07-kwh": [
                   "5095"
             ],
-            "Power-Consumption-(Spin):-135-W": [
+            "power-consumption-(spin):-135-w": [
                   "5167"
             ],
-            "Power-Consumption-(Spin):-325-W": [
+            "power-consumption-(spin):-325-w": [
                   "5188"
             ],
-            "Wattage:-490-W-/-200-W": [
+            "wattage:-490-w-/-200-w": [
                   "5196"
             ],
-            "Power-Consumption-(Spin):-190-W": [
+            "power-consumption-(spin):-190-w": [
                   "5199"
             ],
-            "Wattage:-520-W-/-190-W": [
+            "wattage:-520-w-/-190-w": [
                   "5242"
             ],
-            "Power-Off-Protection": [
+            "power-off-protection": [
                   "5249"
             ]
       },
-      "Stainless-Steal": [
+      "stainless-steal": [
             "4717",
             "4725",
             "4727",
             "4744",
             "4842"
       ],
-      "Fibre": [
+      "fibre": [
             "4718",
             "4718",
             "4917",
@@ -20500,17 +20420,17 @@
             "5279",
             "5285"
       ],
-      "Black,-White": [
+      "black,-white": [
             "4721",
             "4818",
             "4890",
             "5270"
       ],
-      "Air-Turbo-Drying-System": [
+      "air-turbo-drying-system": [
             "4723"
       ],
-      "Covered-in-Warranty": {
-            "Drive-Assembly-and-Capacitor": [
+      "covered-in-warranty": {
+            "drive-assembly-and-capacitor": [
                   "4728",
                   "4758",
                   "4784",
@@ -20521,7 +20441,7 @@
                   "5045",
                   "5303"
             ],
-            "Motor,-Buzzer,-Mechanical-parts": [
+            "motor,-buzzer,-mechanical-parts": [
                   "4793",
                   "4849",
                   "4866",
@@ -20529,73 +20449,73 @@
                   "4918",
                   "5176"
             ],
-            "Motors,-Buzzer,-Mechanical-parts": [
+            "motors,-buzzer,-mechanical-parts": [
                   "4904",
                   "4906",
                   "4907",
                   "4909"
             ],
-            "Covers-All-Manufacturing-Defects": [
+            "covers-all-manufacturing-defects": [
                   "5076",
                   "5137",
                   "5298",
                   "5300"
             ],
-            "2-years-on-Product": [
+            "2-years-on-product": [
                   "5174"
             ],
-            "Any-Process-and-Technical-Fault": [
+            "any-process-and-technical-fault": [
                   "5293"
             ]
       },
-      "Other-Dimensions": {
-            "Door-Diameter:-300-mm": [
+      "other-dimensions": {
+            "door-diameter:-300-mm": [
                   "4733"
             ],
-            "Gross-Weight-:-36-kg": [
+            "gross-weight-:-36-kg": [
                   "4799"
             ],
-            "Drum-Volume:-56-L": [
+            "drum-volume:-56-l": [
                   "4811",
                   "4984",
                   "5028"
             ],
-            "Gross-Weight-:-68-kg": [
+            "gross-weight-:-68-kg": [
                   "4819"
             ],
-            "Gross-Weight-:-76-kg": [
+            "gross-weight-:-76-kg": [
                   "4820"
             ],
-            "Gross-Weight-:-77-kg": [
+            "gross-weight-:-77-kg": [
                   "4883"
             ],
-            "Gross-Weight:-78-kg": [
+            "gross-weight:-78-kg": [
                   "4886",
                   "4893"
             ],
-            "Gross-Weight:-71-kg": [
+            "gross-weight:-71-kg": [
                   "4928",
                   "5052"
             ],
-            "Gross-Weight:-77-kg": [
+            "gross-weight:-77-kg": [
                   "4992",
                   "5294"
             ],
-            "Drum-Volume:-64-L": [
+            "drum-volume:-64-l": [
                   "5145",
                   "5150"
             ],
-            "Water-Pressure:-0.2-kg": [
+            "water-pressure:-0.2-kg": [
                   "5272"
             ],
-            "Drum-Volume:-74-L": [
+            "drum-volume:-74-l": [
                   "5282"
             ]
       },
-      "Door:-Chrome": [
+      "door:-chrome": [
             "4733"
       ],
-      "Maroon": [
+      "maroon": [
             "4735",
             "4815",
             "4852",
@@ -20616,7 +20536,7 @@
             "5219",
             "5305"
       ],
-      "Steel": [
+      "steel": [
             "4739",
             "4759",
             "4774",
@@ -20649,7 +20569,7 @@
             "5280",
             "5283"
       ],
-      "Red,-White": [
+      "red,-white": [
             "4741",
             "4765",
             "4781",
@@ -20663,38 +20583,42 @@
             "5200",
             "5323"
       ],
-      "Polypropylene-Cabinet": [
+      "polypropylene-cabinet": [
             "4753"
       ],
-      "Thomson": [
+      "thomson": [
             "4755",
             "4775",
             "4831"
       ],
-      "ABS-Plastic": [
+      "abs-plastic": [
             "4755",
             "4775",
             "4831"
       ],
-      "ABS": [
+      "abs": [
             "4755",
             "4775",
             "4831"
       ],
-      "Max-Dry": [
+      "max-dry": [
             "4758"
       ],
-      "Hi-fiber": [
+      "hi-fiber": [
             "4758",
             "4784",
             "4839",
             "5000",
-            "5146"
+            "5045",
+            "5146",
+            "5209",
+            "5288",
+            "5316"
       ],
-      "Silver,-White": [
+      "silver,-white": [
             "4763"
       ],
-      "Defects": [
+      "defects": [
             "4767",
             "4840",
             "4848",
@@ -20707,40 +20631,40 @@
             "5298",
             "5300"
       ],
-      "Blue,-White": [
+      "blue,-white": [
             "4773"
       ],
-      "White,-Blue,-Grey": [
+      "white,-blue,-grey": [
             "4775",
             "4831",
             "5208",
             "5230",
             "5258"
       ],
-      "Fiber-Body": [
+      "fiber-body": [
             "4777",
             "5313"
       ],
-      "Wind-Jet-Dry": [
+      "wind-jet-dry": [
             "4778",
             "5302"
       ],
-      "Intex": [
+      "intex": [
             "4780",
             "4863",
             "4936",
             "5171",
             "5293"
       ],
-      "Spin-Air-Dry": [
+      "spin-air-dry": [
             "4780",
             "4863",
             "4936"
       ],
-      "Pink,-White": [
+      "pink,-white": [
             "4783"
       ],
-      "Sansui": [
+      "sansui": [
             "4787",
             "4793",
             "4805",
@@ -20760,7 +20684,7 @@
             "4988",
             "5176"
       ],
-      "Pre-Coated-Metallic-Sheet": [
+      "pre-coated-metallic-sheet": [
             "4788",
             "4799",
             "4820",
@@ -20771,13 +20695,13 @@
             "4911",
             "4988"
       ],
-      "Silver,-Grey": [
+      "silver,-grey": [
             "4793",
             "4819",
             "4859",
             "5056"
       ],
-      "Metal": [
+      "metal": [
             "4793",
             "4849",
             "4866",
@@ -20789,7 +20713,7 @@
             "5249",
             "5299"
       ],
-      "Panasonic": [
+      "panasonic": [
             "4800",
             "4905",
             "4913",
@@ -20809,17 +20733,17 @@
             "5285",
             "5323"
       ],
-      "Removed-or-Defaced": [
+      "removed-or-defaced": [
             "4819"
       ],
-      "Pre-Coated-Metallic-Sheets": [
+      "pre-coated-metallic-sheets": [
             "4819",
             "4853",
             "4879",
             "5056",
             "5079"
       ],
-      "Black": [
+      "black": [
             "4823",
             "4874",
             "4937",
@@ -20834,7 +20758,7 @@
             "5293",
             "5298"
       ],
-      "Blue": [
+      "blue": [
             "4825",
             "4904",
             "4906",
@@ -20846,25 +20770,25 @@
             "5285",
             "5302"
       ],
-      "ABS-Sheet": [
+      "abs-sheet": [
             "4825",
             "5034"
       ],
-      "Physical-Damages": [
+      "physical-damages": [
             "4828",
             "4894",
             "4944",
             "4974"
       ],
-      "Daenyx": [
+      "daenyx": [
             "4839"
       ],
-      "White,-Purple": [
+      "white,-purple": [
             "4843",
             "4933",
             "4986"
       ],
-      "Micromax": [
+      "micromax": [
             "4857",
             "4858",
             "4912",
@@ -20874,39 +20798,39 @@
             "5254",
             "5314"
       ],
-      "Metal-with-Powder-Spraying": [
+      "metal-with-powder-spraying": [
             "4857",
             "4858"
       ],
-      "Warranty-Summary": {
-            "1-Year-Warranty-from-Micromax": [
+      "warranty-summary": {
+            "1-year-warranty-from-micromax": [
                   "4857",
                   "4858"
             ],
-            "2-Years-On-Site-Warranty": [
+            "2-years-on-site-warranty": [
                   "4863"
             ],
-            "1-Year-Warranty": [
+            "1-year-warranty": [
                   "4912",
                   "4950"
             ],
-            "4-Years-Comprehensive-Warranty": [
+            "4-years-comprehensive-warranty": [
                   "5006"
             ],
-            "1-Year-Warranty-From-RGL": [
+            "1-year-warranty-from-rgl": [
                   "5089"
             ],
-            "2-Years-Comprehensive-Warranty": [
+            "2-years-comprehensive-warranty": [
                   "5248"
             ],
             "1": [
                   "5269"
             ]
       },
-      "Hot-Wind": [
+      "hot-wind": [
             "4883"
       ],
-      "Washer-with-Dryer": [
+      "washer-with-dryer": [
             "4883",
             "4905",
             "5048",
@@ -20916,10 +20840,10 @@
             "5166",
             "5220"
       ],
-      "Black,-Brown": [
+      "black,-brown": [
             "4896"
       ],
-      "Purple": [
+      "purple": [
             "4903",
             "4920",
             "5000",
@@ -20936,12 +20860,12 @@
             "5288",
             "5303"
       ],
-      "White,-Pink": [
+      "white,-pink": [
             "4917",
             "4939",
             "5066"
       ],
-      "Avoir": [
+      "avoir": [
             "4919",
             "5007",
             "5011",
@@ -20949,22 +20873,22 @@
             "5179",
             "5200"
       ],
-      "Physical-and-Liquid-Damage": [
+      "physical-and-liquid-damage": [
             "4919",
             "5011",
             "5050",
             "5179",
             "5200"
       ],
-      "Grey,-Purple": [
+      "grey,-purple": [
             "4924"
       ],
-      "Pink": [
+      "pink": [
             "4936",
             "4942",
             "5196"
       ],
-      "Lloyd": [
+      "lloyd": [
             "4948",
             "4957",
             "4977",
@@ -20984,46 +20908,46 @@
             "5244",
             "5256"
       ],
-      "White,-Black": [
+      "white,-black": [
             "4948",
             "4958",
             "5165"
       ],
-      "Air-Jet-Dry": [
+      "air-jet-dry": [
             "4954",
             "5201"
       ],
-      "Silver,-Black": [
+      "silver,-black": [
             "4957",
             "5156",
             "5235"
       ],
-      "Red,-White,-Grey": [
+      "red,-white,-grey": [
             "4964",
             "5135",
             "5169"
       ],
-      "Purple,-White,-Grey": [
+      "purple,-white,-grey": [
             "4966",
             "5274"
       ],
-      "Black,-White,-Grey": [
+      "black,-white,-grey": [
             "4969",
             "5144"
       ],
-      "Brown,-White": [
+      "brown,-white": [
             "4972",
             "5037"
       ],
-      "Rust-Proof-Poly-Propylene-Body": [
+      "rust-proof-poly-propylene-body": [
             "4972",
             "5324"
       ],
-      "Warranty-does-not-cover-": [
+      "warranty-does-not-cover-": [
             "4987",
             "5111"
       ],
-      "Siemens": [
+      "siemens": [
             "5002",
             "5024",
             "5026",
@@ -21033,95 +20957,89 @@
             "5121",
             "5269"
       ],
-      "Silver,-Brown": [
+      "silver,-brown": [
             "5004",
             "5189"
       ],
-      "BPL": [
+      "bpl": [
             "5009",
             "5019"
       ],
-      "Mitashi": [
+      "mitashi": [
             "5015",
             "5061",
             "5233",
             "5249",
             "5299"
       ],
-      "Gold,-White": [
+      "gold,-white": [
             "5018"
       ],
-      "Black,-Grey": [
+      "black,-grey": [
             "5021"
       ],
-      "Brown": [
+      "brown": [
             "5028",
             "5060",
             "5184"
       ],
-      "Hi-Fiber": [
-            "5045",
-            "5209",
-            "5288",
-            "5316"
-      ],
-      "Spin": [
+      "spin": [
             "5061",
             "5226",
             "5252",
             "5254",
             "5314"
       ],
-      "Fiber": [
+      "fiber": [
             "5085"
       ],
-      "RGL": [
+      "rgl": [
             "5089"
       ],
-      "Warranty-doesn-not-cover": [
+      "warranty-doesn-not-cover": [
             "5093"
       ],
-      "Silver,-Blue": [
+      "silver,-blue": [
             "5095"
       ],
-      "Gold": [
+      "gold": [
             "5116",
             "5145",
             "5203"
       ],
-      "Red,-Grey": [
+      "red,-grey": [
             "5134"
       ],
-      "Rust-Free-Hi-Fibre-Body": [
+      "rust-free-hi-fibre-body": [
             "5196"
       ],
-      "PCM": [
+      "pcm": [
             "5203"
       ],
-      "Heater-Element-Rating": {
-            "2000-W": [
+      "heater-element-rating": {
+            "2000-w": [
                   "5204"
             ]
       },
-      "Multicolor": [
+      "multicolor": [
             "5245"
       ],
-      "Rust-Proof-Polypropylene-Body": [
+      "rust-proof-polypropylene-body": [
             "5245"
       ],
-      "Green,-White": [
+      "green,-white": [
             "5246"
       ],
-      "White,-Red": [
+      "white,-red": [
             "5248"
       ],
-      "Aisen": [
+      "aisen": [
             "5270"
       ],
-      "Turbo-Dry": [
+      "turbo-dry": [
             "5313"
       ],
-      "Grey,-Black": [
+      "grey,-black": [
             "5318"
       ]
 }

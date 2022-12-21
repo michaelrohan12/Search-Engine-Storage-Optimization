@@ -19,28 +19,28 @@ def create_bloom_filter(json_file):
     
     keywords_list = data.keys()
     
-    count = 0
+    # count = 0
     key_items = []
     
     for keyword in keywords_list:
         if (type(data[keyword]) is dict):
-            count += 1
+            # count += 1
             key_items.append(keyword)
             keyword2_list = data[keyword].keys()
             for keyword_2 in keyword2_list:
                 key_items.append(keyword_2)
-                count += 1
+                # count += 1
         else:
             key_items.append(keyword)
             
     key_items = [*set(key_items)]
+    
+    # print(len(key_items))
             
     data_filter = BloomFilter(capacity=len(key_items), error_rate=0.001)
     
     for i in range(len(key_items)):
         data_filter.add(key_items[i])
-    
-    # print(len(key_items))
     
     result = Path(json_file.name)
     

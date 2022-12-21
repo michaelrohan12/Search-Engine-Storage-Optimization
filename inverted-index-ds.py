@@ -25,11 +25,11 @@ def create_data_structures(json_file):
         item = data[id]
         keys_list = item.keys()
         for key in keys_list:
-            target_key = item[key]
+            target_key = item[key].lower()
             target_key2 = "NoneType"
             if (key in dictionary_check):
-                target_key = key
-                target_key2 = item[key]
+                target_key = key.lower()
+                target_key2 = item[key].lower()
             if len(target_key) <= word_len and len(target_key2) <= word_len:
                 if target_key2 != "NoneType":
                     if target_key in inverted_index.keys():

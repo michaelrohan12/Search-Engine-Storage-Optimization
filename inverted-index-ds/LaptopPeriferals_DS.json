@@ -1,5 +1,5 @@
 {
-      "Depth": {
+      "depth": {
             "11.6-cm": [
                   "1250",
                   "1251",
@@ -385,7 +385,7 @@
                   "1851"
             ]
       },
-      "Height": {
+      "height": {
             "14.6-cm": [
                   "1250",
                   "1290"
@@ -770,23 +770,23 @@
                   "1857"
             ]
       },
-      "Model-Name": {
-            "X4E78AA": [
+      "model-name": {
+            "x4e78aa": [
                   "1250"
             ],
-            "F6V27AA": [
+            "f6v27aa": [
                   "1251"
             ],
-            "FK388A": [
+            "fk388a": [
                   "1252"
             ],
-            "CZ107AA": [
+            "cz107aa": [
                   "1253"
             ],
-            "FK2612A": [
+            "fk2612a": [
                   "1255"
             ],
-            "Pixma-G-2000": [
+            "pixma-g-2000": [
                   "1257",
                   "1582",
                   "1614",
@@ -800,23 +800,23 @@
                   "1866",
                   "1899"
             ],
-            "CANGPLUS": [
+            "cangplus": [
                   "1258"
             ],
-            "CH561ZZ": [
+            "ch561zz": [
                   "1259"
             ],
             "925": [
                   "1260",
                   "1871"
             ],
-            "CZ108AA": [
+            "cz108aa": [
                   "1261"
             ],
-            "CN692AA": [
+            "cn692aa": [
                   "1262"
             ],
-            "G3012": [
+            "g3012": [
                   "1263",
                   "1590",
                   "1620",
@@ -830,16 +830,16 @@
                   "1874",
                   "1906"
             ],
-            "PG-745S": [
+            "pg-745s": [
                   "1264"
             ],
-            "PS_2160": [
+            "ps_2160": [
                   "1265"
             ],
             "790-tri-color": [
                   "1267"
             ],
-            "CL-746S": [
+            "cl-746s": [
                   "1268",
                   "1594",
                   "1624",
@@ -853,45 +853,45 @@
                   "1878",
                   "1910"
             ],
-            "INK-SUCTION-TOOL-KIT": [
+            "ink-suction-tool-kit": [
                   "1271"
             ],
-            "L3110": [
+            "l3110": [
                   "1272",
                   "1643"
             ],
-            "Ink-Combo": [
+            "ink-combo": [
                   "1273"
             ],
-            "PS_12APM": [
+            "ps_12apm": [
                   "1275"
             ],
-            "12A-(-Q1212A-)-TONER-CARTRIDGE": [
+            "12a-(-q1212a-)-toner-cartridge": [
                   "1279",
                   "1341"
             ],
-            "Cartridge-925": [
+            "cartridge-925": [
                   "1280"
             ],
-            "G10G200G300G4000": [
+            "g10g200g300g4000": [
                   "1281"
             ],
-            "CANGPLUS1": [
+            "cangplus1": [
                   "1282"
             ],
-            "Ink-Tank-L130": [
+            "ink-tank-l130": [
                   "1285"
             ],
-            "PS_111SAM": [
+            "ps_111sam": [
                   "1288"
             ],
-            "CR312AA": [
+            "cr312aa": [
                   "1290"
             ],
             "black-refilling-inks": [
                   "1291"
             ],
-            "CANGB": [
+            "cangb": [
                   "1292",
                   "1898"
             ],
@@ -901,173 +901,173 @@
             "12-a-toner": [
                   "1294"
             ],
-            "IE-L200": [
+            "ie-l200": [
                   "1296"
             ],
             "refilling-ink-cartridge": [
                   "1297"
             ],
-            "CN_745S_SET": [
+            "cn_745s_set": [
                   "1298"
             ],
-            "DeskJet-1112": [
+            "deskjet-1112": [
                   "1299"
             ],
             "colour": [
                   "1300"
             ],
-            "PG-745-XL-Black": [
+            "pg-745-xl-black": [
                   "1301"
             ],
-            "hp-12A": [
+            "hp-12a": [
                   "1304"
             ],
-            "IR-3300-Copier-Super-Dark": [
+            "ir-3300-copier-super-dark": [
                   "1305"
             ],
-            "HP-GT51-ink-bottle": [
+            "hp-gt51-ink-bottle": [
                   "1306"
             ],
-            "12A-Premium-100GM-Bottel-2": [
+            "12a-premium-100gm-bottel-2": [
                   "1307"
             ],
-            "SP-111ONE": [
+            "sp-111one": [
                   "1308"
             ],
-            "CANGBb": [
+            "cangbb": [
                   "1309"
             ],
-            "MG2570S-ink-bottle": [
+            "mg2570s-ink-bottle": [
                   "1310"
             ],
-            "CANG4+1NEW": [
+            "cang4+1new": [
                   "1311"
             ],
-            "L805-Set-of-6": [
+            "l805-set-of-6": [
                   "1312"
             ],
-            "Sam111_1": [
+            "sam111_1": [
                   "1313"
             ],
             "colour+black": [
                   "1314"
             ],
-            "ICHB100": [
+            "ichb100": [
                   "1315"
             ],
-            "Universal-Ink-For-Printers": [
+            "universal-ink-for-printers": [
                   "1316"
             ],
-            "2-INK": [
+            "2-ink": [
                   "1318"
             ],
-            "12ASDQWERYIOZVCAA123": [
+            "12asdqweryiozvcaa123": [
                   "1319"
             ],
-            "PS_1666_Pack-Of-One": [
+            "ps_1666_pack-of-one": [
                   "1320"
             ],
-            "P-RIJ-CMYK": [
+            "p-rij-cmyk": [
                   "1321"
             ],
-            "Prolite": [
+            "prolite": [
                   "1322"
             ],
-            "IEM200-140-1": [
+            "iem200-140-1": [
                   "1323"
             ],
-            "MG2570S": [
+            "mg2570s": [
                   "1324",
                   "1431"
             ],
             "gt51": [
                   "1325"
             ],
-            "EPD-L3110-Dye/Bk/70": [
+            "epd-l3110-dye/bk/70": [
                   "1326"
             ],
-            "88A-(-CC388A-)-TONER-2PIC": [
+            "88a-(-cc388a-)-toner-2pic": [
                   "1327"
             ],
-            "005-REFILL-INK": [
+            "005-refill-ink": [
                   "1328"
             ],
-            "HL-L2321D-IND": [
+            "hl-l2321d-ind": [
                   "1329"
             ],
-            "PSS1866": [
+            "pss1866": [
                   "1330"
             ],
-            "TK4109-PCR": [
+            "tk4109-pcr": [
                   "1331"
             ],
-            "MG2470": [
+            "mg2470": [
                   "1332"
             ],
             "803-color-ink-cartridge-refill": [
                   "1333"
             ],
-            "HU20": [
+            "hu20": [
                   "1334"
             ],
-            "SPT-CN-04-01": [
+            "spt-cn-04-01": [
                   "1336"
             ],
-            "PG-740-black-cartridge": [
+            "pg-740-black-cartridge": [
                   "1337"
             ],
-            "DCP-T710W-IND": [
+            "dcp-t710w-ind": [
                   "1338"
             ],
-            "RE52-4C-70gm-Box-set": [
+            "re52-4c-70gm-box-set": [
                   "1339"
             ],
             "12a": [
                   "1340"
             ],
-            "CSD200": [
+            "csd200": [
                   "1342"
             ],
-            "L3100": [
+            "l3100": [
                   "1343"
             ],
-            "PZ-SP-200-RICOH": [
+            "pz-sp-200-ricoh": [
                   "1344"
             ],
-            "SP-200SN": [
+            "sp-200sn": [
                   "1346"
             ],
-            "New-PLH-2612A-Cartridge": [
+            "new-plh-2612a-cartridge": [
                   "1347"
             ],
-            "Q2612A-/-12a": [
+            "q2612a-/-12a": [
                   "1348"
             ],
-            "ps_166D": [
+            "ps_166d": [
                   "1349"
             ],
-            "TRI-COLOR-INK-BOTTLES": [
+            "tri-color-ink-bottles": [
                   "1350"
             ],
-            "ICEP1000": [
+            "icep1000": [
                   "1351"
             ],
-            "Ricoh-Premium-5-Bottles": [
+            "ricoh-premium-5-bottles": [
                   "1353"
             ],
-            "Karp12A": [
+            "karp12a": [
                   "1354"
             ],
-            "CPI-10": [
+            "cpi-10": [
                   "1355"
             ],
-            "LOS24AA": [
+            "los24aa": [
                   "1357"
             ],
-            "PrintStar_36A/CB436AF_Pack_1": [
+            "printstar_36a/cb436af_pack_1": [
                   "1358"
             ],
-            "ink-tank-wireless-415-All-in-one": [
+            "ink-tank-wireless-415-all-in-one": [
                   "1359",
                   "1585",
                   "1616",
@@ -1081,58 +1081,58 @@
                   "1869",
                   "1902"
             ],
-            "Plain-PVC-Id-Card": [
+            "plain-pvc-id-card": [
                   "1361"
             ],
-            "Refill-Ink-for-l220": [
+            "refill-ink-for-l220": [
                   "1362"
             ],
             "47-black-cartridge": [
                   "1363"
             ],
-            "PS_TN2365": [
+            "ps_tn2365": [
                   "1365"
             ],
-            "88A-TONER-CATRIDGE-2UNIT": [
+            "88a-toner-catridge-2unit": [
                   "1367"
             ],
-            "SAMSUNG-Premium-70GM-Bottel-05": [
+            "samsung-premium-70gm-bottel-05": [
                   "1368"
             ],
-            "PZ-285A-TONER-CARTRIDGE": [
+            "pz-285a-toner-cartridge": [
                   "1369"
             ],
-            "PG-47-black-ink-cartridge-refill": [
+            "pg-47-black-ink-cartridge-refill": [
                   "1370"
             ],
-            "116_DU_PS": [
+            "116_du_ps": [
                   "1371"
             ],
-            "IC003": [
+            "ic003": [
                   "1372"
             ],
-            "12A-/-Q2612A-Pack_3": [
+            "12a-/-q2612a-pack_3": [
                   "1375"
             ],
-            "LBP-2900B": [
+            "lbp-2900b": [
                   "1376"
             ],
             "ink-refilling-bottles": [
                   "1379"
             ],
-            "Genuine-Black-PVC-ID-Card-Tray": [
+            "genuine-black-pvc-id-card-tray": [
                   "1380"
             ],
-            "SPT-EP-06-02": [
+            "spt-ep-06-02": [
                   "1381"
             ],
-            "1Kg36Poly": [
+            "1kg36poly": [
                   "1382"
             ],
-            "PS_105/1053": [
+            "ps_105/1053": [
                   "1383"
             ],
-            "PZ-TN-2365-TONER-CARTRIDGE": [
+            "pz-tn-2365-toner-cartridge": [
                   "1384"
             ],
             "black": [
@@ -1141,306 +1141,308 @@
             "sp-100": [
                   "1386"
             ],
-            "36/88A-GREEN-Drum-05": [
+            "36/88a-green-drum-05": [
                   "1387"
             ],
-            "CH563ZZ": [
+            "ch563zz": [
                   "1388"
             ],
             "925_3": [
                   "1389"
             ],
-            "Startek-FM-220u": [
+            "startek-fm-220u": [
                   "1390"
             ],
-            "12A/49A": [
+            "12a/49a": [
                   "1392"
             ],
-            "CL98": [
+            "cl98": [
                   "1393"
             ],
-            "36/88A-Drum-05": [
+            "36/88a-drum-05": [
                   "1394"
             ],
-            "218AJK": [
+            "218ajk": [
                   "1395"
             ],
-            "Compatible-Ink-Set-of-4": [
+            "compatible-ink-set-of-4": [
                   "1396"
             ],
             "680-black-cartridge": [
                   "1398"
             ],
-            "CL-746-Color": [
+            "cl-746-color": [
                   "1399"
             ],
-            "5085-Aio": [
+            "5085-aio": [
                   "1400"
             ],
-            "PS_12A_FF": [
+            "ps_12a_ff": [
                   "1401"
             ],
-            "CH562ZZ": [
+            "ch562zz": [
                   "1402"
             ],
-            "CC653AA": [
+            "cc653aa": [
                   "1404"
             ],
-            "Refill-Ink-OL-SERIES-6": [
+            "refill-ink-ol-series-6": [
                   "1406"
             ],
             "ink-for-t664": [
                   "1407"
             ],
-            "New-88/98": [
+            "new-88/98": [
                   "1408"
             ],
-            "Toner-Cartridge-Q2612A-BK": [
+            "toner-cartridge-q2612a-bk": [
                   "1410"
             ],
             "3black": [
                   "1411"
             ],
-            "Color-HP": [
+            "color-hp": [
                   "1412"
             ],
             "jkepsnl100": [
                   "1413"
             ],
-            "Epson-Inkjet-ID-Cards": [
+            "epson-inkjet-id-cards": [
                   "1414"
             ],
-            "PG-745-XL": [
+            "pg-745-xl": [
                   "1415"
             ],
-            "REFLL-060": [
+            "refll-060": [
                   "1416"
             ],
-            "12A-Drum(Green)": [
+            "12a-drum(green)": [
                   "1418"
             ],
-            "SPT-BR-04-01": [
+            "spt-br-04-01": [
                   "1419"
             ],
-            "F88A": [
+            "f88a": [
                   "1420"
             ],
-            "BTD60BK": [
+            "btd60bk": [
                   "1421"
             ],
-            "DCP-T310-IND": [
+            "dcp-t310-ind": [
                   "1422"
             ],
-            "4-COLOR": [
+            "4-color": [
                   "1423"
             ],
-            "12A-Drum-05": [
+            "12a-drum-05": [
                   "1424"
             ],
-            "New-47-Twin": [
+            "new-47-twin": [
                   "1425"
             ],
             "tzz-16381": [
                   "1426"
             ],
-            "ICDye75": [
+            "icdye75": [
                   "1427"
             ],
-            "PS_35A": [
+            "ps_35a": [
                   "1428"
             ],
-            "REFILLINK-100ml": [
+            "refillink-100ml": [
                   "1429"
             ],
-            "P-664-CMYK": [
+            "p-664-cmyk": [
                   "1430"
             ],
-            "MIS-100-V2-USB-Biometric-Device": [
+            "mis-100-v2-usb-biometric-device": [
                   "1432"
             ],
-            "Waste-Ink-Pad-For-Epson": [
+            "waste-ink-pad-for-epson": [
                   "1433"
             ],
-            "DeskJet-Ink-Advantage-Ultra-4729": [
+            "deskjet-ink-advantage-ultra-4729": [
                   "1435"
             ],
-            "IR-Premium-Copier-Toner-Powder": [
+            "ir-premium-copier-toner-powder": [
                   "1436"
             ],
-            "Konica-Minolta": [
+            "konica-minolta": [
                   "1438"
             ],
-            "MLT-D1043S": [
+            "mlt-d1043s": [
                   "1439"
             ],
-            "Toner-Powder-for-Ricoh-SP-100": [
+            "toner-powder-for-ricoh-sp-100": [
                   "1440"
             ],
             "235": [
                   "1442"
             ],
-            "CL-57-colour-cartridge": [
+            "cl-57-colour-cartridge": [
                   "1444"
             ],
             "trebz-toner-42": [
                   "1445"
             ],
-            "CF280A/80A": [
+            "cf280a/80a": [
                   "1446"
             ],
-            "Premium-Bottel-Single": [
+            "premium-bottel-single": [
                   "1447"
             ],
-            "Photo-Quality-Ink-Refill": [
+            "photo-quality-ink-refill": [
                   "1448"
             ],
-            "SUCTUION-TOOL-FOR": [
+            "suctuion-tool-for": [
                   "1449"
             ],
-            "12A-GREEN-Drum-05": [
+            "12a-green-drum-05": [
                   "1451"
             ],
             "trezz-28": [
                   "1452"
             ],
-            "HP-GT51-XL-&-GT52": [
+            "hp-gt51-xl-&-gt52": [
                   "1453"
             ],
-            "Refill-Ink": [
-                  "1455"
+            "refill-ink": [
+                  "1455",
+                  "1625"
             ],
-            "New-47-Black": [
+            "new-47-black": [
                   "1456"
             ],
-            "SP-12A-TONER-CARTRIDGE-PACK-OF-4": [
+            "sp-12a-toner-cartridge-pack-of-4": [
                   "1457"
             ],
-            "KIC-150Card": [
+            "kic-150card": [
                   "1458"
             ],
-            "88A-(-CC388A-)-TONER": [
+            "88a-(-cc388a-)-toner": [
                   "1459"
             ],
-            "85AGGHSIIYGBDJJHBJHA87878DHHN": [
+            "85agghsiiygbdjjhbjha87878dhhn": [
                   "1460"
             ],
             "12@5drm": [
                   "1461"
             ],
-            "M100,M200": [
+            "m100,m200": [
                   "1462"
             ],
-            "CL-811-Color": [
+            "cl-811-color": [
                   "1463"
             ],
-            "12A-CARTRIDGE": [
+            "12a-cartridge": [
                   "1464"
             ],
-            "New-47/57-small": [
+            "new-47/57-small": [
                   "1465"
             ],
-            "802-Black-and-802-color": [
+            "802-black-and-802-color": [
                   "1466"
             ],
-            "PS-326": [
+            "ps-326": [
                   "1467"
             ],
             "trebz-toner-51": [
                   "1468"
             ],
-            "PS_18A": [
+            "ps_18a": [
                   "1469"
             ],
-            "P2500": [
+            "p2500": [
                   "1470"
             ],
-            "R-SP210-CHIP-PACK-3": [
+            "r-sp210-chip-pack-3": [
                   "1471"
             ],
-            "ICNewtool": [
+            "icnewtool": [
                   "1473"
             ],
-            "36/88A-GREEN-Drum-02": [
+            "36/88a-green-drum-02": [
                   "1474"
             ],
             "sam116_1": [
                   "1476"
             ],
-            "003-BLACK": [
+            "003-black": [
                   "1478"
             ],
-            "GT51,-GT52": [
+            "gt51,-gt52": [
                   "1480"
             ],
-            "803-Black-and-803-color": [
+            "803-black-and-803-color": [
                   "1482"
             ],
-            "PS_80A_": [
+            "ps_80a_": [
                   "1483"
             ],
-            "Yorkke-Epson-Id-Card-230pc": [
+            "yorkke-epson-id-card-230pc": [
                   "1484"
             ],
-            "Ink-Tank-WL-410": [
+            "ink-tank-wl-410": [
                   "1485"
             ],
-            "70Ml-L565": [
+            "70ml-l565": [
                   "1486"
             ],
-            "5525-INK": [
+            "5525-ink": [
                   "1487"
             ],
             "black-ink-cartridge": [
                   "1489"
             ],
-            "Trebz-toner-23": [
+            "trebz-toner-23": [
                   "1490"
             ],
-            "PZ-12A-PACK-OF-2": [
+            "pz-12a-pack-of-2": [
                   "1491"
             ],
-            "JT-2612A-TONER-CARTRIDGE": [
+            "jt-2612a-toner-cartridge": [
                   "1492"
             ],
-            "Refill-Ink-L-SERIES": [
+            "refill-ink-l-series": [
                   "1494"
             ],
-            "CZ637AA": [
+            "cz637aa": [
                   "1495"
             ],
-            "JK79A1": [
+            "jk79a1": [
                   "1496"
             ],
-            "Trebz-24": [
+            "trebz-24": [
                   "1497"
             ],
-            "T500W": [
+            "t500w": [
                   "1498"
             ],
-            "CL-98-colour-cartridge": [
+            "cl-98-colour-cartridge": [
                   "1499"
             ],
-            "12A-Premium-100GM-Bottel-15": [
+            "12a-premium-100gm-bottel-15": [
                   "1500"
             ],
-            "PZ-337A-CARTRIDGE-FOR-244": [
+            "pz-337a-cartridge-for-244": [
                   "1502"
             ],
-            "Q2612A-CARTRIDGE-12A-OEM-SINGLE": [
+            "q2612a-cartridge-12a-oem-single": [
                   "1503"
             ],
-            "12A-Toner-Powder": [
+            "12a-toner-powder": [
                   "1504"
             ],
             "trebo-toner-9": [
                   "1507"
             ],
-            "PS-1640_pack-of-one": [
+            "ps-1640_pack-of-one": [
                   "1508"
             ],
-            "328-Toner-Cartridge": [
+            "328-toner-cartridge": [
                   "1510",
-                  "1572"
+                  "1572",
+                  "1873"
             ],
             "trebbooo-toner-12": [
                   "1511"
@@ -1448,25 +1450,25 @@
             "tz31": [
                   "1513"
             ],
-            "12A-PS": [
+            "12a-ps": [
                   "1514"
             ],
-            "INKJET-ID-CARD-TRAY": [
+            "inkjet-id-card-tray": [
                   "1515"
             ],
             "818-black": [
                   "1516"
             ],
-            "2A_Pack5": [
+            "2a_pack5": [
                   "1517"
             ],
-            "116-TONER-CARTRIDGE": [
+            "116-toner-cartridge": [
                   "1518"
             ],
             "100ml-refill-ink-bottles": [
                   "1519"
             ],
-            "88A-Premium-70GM-Bottel-05": [
+            "88a-premium-70gm-bottel-05": [
                   "1520"
             ],
             "27-black-cartridge": [
@@ -1475,34 +1477,34 @@
             "hp-56-black-cartridge": [
                   "1523"
             ],
-            "Trebboz-26": [
+            "trebboz-26": [
                   "1524"
             ],
-            "PZ-303-TONER-CARTRIDGE": [
+            "pz-303-toner-cartridge": [
                   "1525"
             ],
-            "LC-400-LONG-R": [
+            "lc-400-long-r": [
                   "1526"
             ],
-            "PS_12_pC4": [
+            "ps_12_pc4": [
                   "1528"
             ],
-            "IHC900": [
+            "ihc900": [
                   "1532"
             ],
-            "Morel-MP2014-Pouch": [
+            "morel-mp2014-pouch": [
                   "1533"
             ],
-            "PG40": [
+            "pg40": [
                   "1534"
             ],
-            "CF-256X-Cartridge-Compatible": [
+            "cf-256x-cartridge-compatible": [
                   "1535"
             ],
-            "88A-Premium-70GM-Bottel-02": [
+            "88a-premium-70gm-bottel-02": [
                   "1536"
             ],
-            "UV-L3110-head-cable": [
+            "uv-l3110-head-cable": [
                   "1537"
             ],
             "toner-52": [
@@ -1511,59 +1513,59 @@
             "treebboo-toner-25": [
                   "1540"
             ],
-            "FX/9_12AA": [
+            "fx/9_12aa": [
                   "1542"
             ],
-            "TN2365JK1": [
+            "tn2365jk1": [
                   "1543"
             ],
             "fz35": [
                   "1546"
             ],
-            "L210-TIMING-BELT": [
+            "l210-timing-belt": [
                   "1547"
             ],
-            "CZ634AA": [
+            "cz634aa": [
                   "1548"
             ],
-            "Canon-E-Series-Refill": [
+            "canon-e-series-refill": [
                   "1549"
             ],
-            "PLQ-20-RIBBON-CARTRIDGE": [
+            "plq-20-ribbon-cartridge": [
                   "1550"
             ],
-            "APES101": [
+            "apes101": [
                   "1553"
             ],
-            "KIC230": [
+            "kic230": [
                   "1554"
             ],
-            "PLC-12A": [
+            "plc-12a": [
                   "1555"
             ],
-            "L380-REFILL-INK": [
+            "l380-refill-ink": [
                   "1556"
             ],
-            "PZ-101-TONER-CARTRIDGE": [
+            "pz-101-toner-cartridge": [
                   "1557"
             ],
-            "Morel-5755-Toner-Powder": [
+            "morel-5755-toner-powder": [
                   "1560"
             ],
             "818-colour-cartridge": [
                   "1562"
             ],
-            "Samsung-MLT-D707L": [
+            "samsung-mlt-d707l": [
                   "1564"
             ],
-            "LBP6030B": [
+            "lbp6030b": [
                   "1566",
                   "1569"
             ],
-            "12A-TONER": [
+            "12a-toner": [
                   "1567"
             ],
-            "L-210-Ink-Bottle": [
+            "l-210-ink-bottle": [
                   "1568",
                   "1571"
             ],
@@ -1596,10 +1598,10 @@
                   "1861",
                   "1894"
             ],
-            "TN116-JET-BLACK-CARTRIDGE": [
+            "tn116-jet-black-cartridge": [
                   "1575"
             ],
-            "ICCB100": [
+            "iccb100": [
                   "1576"
             ],
             "1200w": [
@@ -1615,40 +1617,40 @@
                   "1858",
                   "1891"
             ],
-            "ENCODER-STRIP-1": [
+            "encoder-strip-1": [
                   "1579"
             ],
-            "eamokCANGCYAN": [
+            "eamokcangcyan": [
                   "1580"
             ],
             "treebboo-toner-36": [
                   "1583"
             ],
-            "Subli_Tape_10mmX33m_2pc": [
+            "subli_tape_10mmx33m_2pc": [
                   "1586"
             ],
-            "TONER-FOR-LBP-6030": [
+            "toner-for-lbp-6030": [
                   "1587"
             ],
-            "HP-818": [
+            "hp-818": [
                   "1589"
             ],
-            "MG4170-Refill-Ink": [
+            "mg4170-refill-ink": [
                   "1592"
             ],
-            "SPC-TONER-CARTRIDGE-88A1": [
+            "spc-toner-cartridge-88a1": [
                   "1593"
             ],
             "tz32": [
                   "1595"
             ],
-            "PS_pack1O": [
+            "ps_pack1o": [
                   "1596"
             ],
-            "X3119-COMPATIBLE-CARTRIDGE": [
+            "x3119-compatible-cartridge": [
                   "1597"
             ],
-            "Ink-Tank-310": [
+            "ink-tank-310": [
                   "1599",
                   "1629",
                   "1660",
@@ -1661,13 +1663,13 @@
                   "1883",
                   "1915"
             ],
-            "12A-OEM-Cartridge-02": [
+            "12a-oem-cartridge-02": [
                   "1600"
             ],
-            "JK2260/2280": [
+            "jk2260/2280": [
                   "1603"
             ],
-            "88A": [
+            "88a": [
                   "1604"
             ],
             "9-black-cartridge": [
@@ -1676,41 +1678,38 @@
             "680-color-ink-cartridge-refill": [
                   "1608"
             ],
-            "83A/CB-283A-TONER-CARTRIDGE": [
+            "83a/cb-283a-toner-cartridge": [
                   "1610"
             ],
             "ck-cartridge": [
                   "1611",
                   "1617"
             ],
-            "PZ-SP-300-TONER-CARTRIDGE": [
+            "pz-sp-300-toner-cartridge": [
                   "1612"
             ],
-            "GI-790---G1000---G2000---G3000": [
+            "gi-790---g1000---g2000---g3000": [
                   "1613"
             ],
-            "HL-L2351DW-IND": [
+            "hl-l2351dw-ind": [
                   "1615"
             ],
-            "LaserJet-Pro-MFP-M126nw": [
+            "laserjet-pro-mfp-m126nw": [
                   "1618"
             ],
             "051_230a": [
                   "1621"
             ],
-            "PS_1610_PC": [
+            "ps_1610_pc": [
                   "1622"
             ],
-            "ICSubM": [
+            "icsubm": [
                   "1623"
             ],
-            "refill-ink": [
-                  "1625"
-            ],
-            "PS-101_MLT": [
+            "ps-101_mlt": [
                   "1630"
             ],
-            "ICB810/811": [
+            "icb810/811": [
                   "1631"
             ],
             "925/325-1": [
@@ -1719,236 +1718,234 @@
             "737": [
                   "1634"
             ],
-            "BTD60BK-Twin-Pack": [
+            "btd60bk-twin-pack": [
                   "1638"
             ],
-            "Black-2pcs": [
+            "black-2pcs": [
                   "1639"
             ],
-            "WorkForce-M105": [
+            "workforce-m105": [
                   "1641"
             ],
-            "D101S-Powder": [
+            "d101s-powder": [
                   "1642"
             ],
-            "MA250-YMCKOKO": [
+            "ma250-ymckoko": [
                   "1645"
             ],
-            "Tool-kit-803": [
+            "tool-kit-803": [
                   "1648"
             ],
-            "C9351AA": [
+            "c9351aa": [
                   "1652"
             ],
-            "PICKUP-ROLLER-SET": [
+            "pickup-roller-set": [
                   "1653"
             ],
-            "REF066": [
+            "ref066": [
                   "1654"
             ],
-            "89-Twin/99": [
+            "89-twin/99": [
                   "1656"
             ],
-            "HPGT4F": [
+            "hpgt4f": [
                   "1657"
             ],
-            "Canon-black-ink-cartridge": [
+            "canon-black-ink-cartridge": [
                   "1658"
             ],
-            "ICGseriesb2": [
+            "icgseriesb2": [
                   "1659"
             ],
-            "G1000/-G2000": [
+            "g1000/-g2000": [
                   "1661"
             ],
             "pz-fx-9": [
                   "1662"
             ],
-            "GT52": [
+            "gt52": [
                   "1666"
             ],
-            "81A/CF-0": [
+            "81a/cf-0": [
                   "1667"
             ],
-            "ICCBcolor": [
+            "iccbcolor": [
                   "1669"
             ],
-            "CL99": [
+            "cl99": [
                   "1670"
             ],
-            "ICGT5810": [
+            "icgt5810": [
                   "1672"
             ],
-            "Refill-Ink-For-Epson-L550": [
+            "refill-ink-for-epson-l550": [
                   "1675"
             ],
-            "IR-3570-Copier-Super-Dark": [
+            "ir-3570-copier-super-dark": [
                   "1677"
             ],
-            "Turbo-refill-kit-for-hp-901": [
+            "turbo-refill-kit-for-hp-901": [
                   "1679"
             ],
-            "PZ-DR-116-DRUM-UNIT": [
+            "pz-dr-116-drum-unit": [
                   "1680"
             ],
             "46-colour": [
                   "1682"
             ],
-            "T664": [
+            "t664": [
                   "1685"
             ],
             "810/811": [
                   "1686"
             ],
-            "Laser-108-w": [
+            "laser-108-w": [
                   "1688"
             ],
-            "BCI-3eY": [
+            "bci-3ey": [
                   "1689"
             ],
-            "All-Canon-Inkjet-Printer": [
+            "all-canon-inkjet-printer": [
                   "1691"
             ],
-            "Formujet.230_BT5000_Inks4color": [
+            "formujet.230_bt5000_inks4color": [
                   "1694"
             ],
-            "052CRG": [
+            "052crg": [
                   "1696"
             ],
             "05a-opc-drum-pack-of-5": [
                   "1698"
             ],
-            "PS_12A_6PC": [
+            "ps_12a_6pc": [
                   "1701"
             ],
             "328-ml": [
                   "1704"
             ],
-            "36ApolyTP": [
+            "36apolytp": [
                   "1706"
             ],
-            "CD888AA": [
+            "cd888aa": [
                   "1707"
             ],
-            "LaserJet-Pro-P1108": [
+            "laserjet-pro-p1108": [
                   "1709"
             ],
-            "108A": [
+            "108a": [
                   "1710"
             ],
             "810-black": [
                   "1713"
             ],
-            "ICGT1": [
+            "icgt1": [
                   "1714"
             ],
-            "REFILL-INK-FOR-GT-SERIES": [
+            "refill-ink-for-gt-series": [
                   "1718"
             ],
-            "Q2612A": [
-                  "1719"
+            "q2612a": [
+                  "1719",
+                  "1789"
             ],
             "genuine-220": [
                   "1724"
             ],
-            "CISS-Ink-TanK-BLACK-BODY": [
+            "ciss-ink-tank-black-body": [
                   "1725"
             ],
-            "CZ638AA": [
+            "cz638aa": [
                   "1726"
             ],
-            "Black-Refill-Ink": [
+            "black-refill-ink": [
                   "1727"
             ],
             "tb-45856": [
                   "1729"
             ],
-            "PVC-CARD": [
+            "pvc-card": [
                   "1730"
             ],
-            "PS-712/312": [
+            "ps-712/312": [
                   "1732"
             ],
-            "InkclubL100B4": [
+            "inkclubl100b4": [
                   "1733"
             ],
-            "R-SP100-Toner": [
+            "r-sp100-toner": [
                   "1734"
             ],
-            "FRONTz-7": [
+            "frontz-7": [
                   "1741"
             ],
             "56-black-ink-cartridge-refill": [
                   "1742"
             ],
-            "ink-refilling-bottles-100ML": [
+            "ink-refilling-bottles-100ml": [
                   "1745"
             ],
-            "EPSN-l-SERIES": [
+            "epsn-l-series": [
                   "1746"
             ],
-            "Konica-Minolta-Bizhub-164-/-184": [
+            "konica-minolta-bizhub-164-/-184": [
                   "1748"
             ],
-            "GT-51XL": [
+            "gt-51xl": [
                   "1749"
             ],
             "fz28": [
                   "1750"
             ],
-            "12A_4": [
+            "12a_4": [
                   "1753"
             ],
-            "88A-OEM-CARTRIDGE-SINGLE": [
+            "88a-oem-cartridge-single": [
                   "1756"
             ],
-            "PG-740-Black": [
+            "pg-740-black": [
                   "1758"
             ],
-            "NPG-26-COPIER-CARTRIDGE": [
+            "npg-26-copier-cartridge": [
                   "1759"
             ],
-            "14X-Toner-Cartridge-FC": [
+            "14x-toner-cartridge-fc": [
                   "1762"
             ],
-            "EPD-L350-4C": [
+            "epd-l350-4c": [
                   "1764"
             ],
-            "PZ-2612A-TONER-CARTRIDGE-(100)": [
+            "pz-2612a-toner-cartridge-(100)": [
                   "1766"
             ],
-            "Refill-Ink-Black-4160": [
+            "refill-ink-black-4160": [
                   "1767"
             ],
-            "PG88,-CL98,-ink": [
+            "pg88,-cl98,-ink": [
                   "1769"
             ],
-            "T664-Black": [
+            "t664-black": [
                   "1773"
             ],
-            "eamokCANGYELLOW": [
+            "eamokcangyellow": [
                   "1774"
             ],
-            "003-REFILL-INK-FOR-L3112": [
+            "003-refill-ink-for-l3112": [
                   "1777"
             ],
-            "PS3400_drum": [
+            "ps3400_drum": [
                   "1778"
             ],
-            "EP-001-Refill-Ink": [
+            "ep-001-refill-ink": [
                   "1781"
             ],
-            "T6641-Refill-Ink": [
+            "t6641-refill-ink": [
                   "1782"
             ],
-            "Inkjet-Ink": [
+            "inkjet-ink": [
                   "1783"
             ],
-            "PS_1666-Drum": [
+            "ps_1666-drum": [
                   "1787"
-            ],
-            "Q2612a": [
-                  "1789"
             ],
             "901-black-&-color-ink-refill-kit": [
                   "1790"
@@ -1956,13 +1953,13 @@
             "l405": [
                   "1791"
             ],
-            "FZP12": [
+            "fzp12": [
                   "1794"
             ],
-            "Bro-Univarsal-(JPN)": [
+            "bro-univarsal-(jpn)": [
                   "1795"
             ],
-            "88AA": [
+            "88aa": [
                   "1798"
             ],
             "803-black-&-color-ink-refill-kit": [
@@ -1971,48 +1968,48 @@
             "46-ink-black": [
                   "1802"
             ],
-            "F12A-SS": [
+            "f12a-ss": [
                   "1806"
             ],
             "ep-001-refill-ink-for-l6190": [
                   "1807"
             ],
-            "Refill-Ink-BLACK-pack-of-5": [
+            "refill-ink-black-pack-of-5": [
                   "1810"
             ],
             "003-ink-for-l5190": [
                   "1811"
             ],
-            "PZ-TN-3250": [
+            "pz-tn-3250": [
                   "1815"
             ],
-            "PS_CRG119/319/519/719": [
+            "ps_crg119/319/519/719": [
                   "1816",
                   "1819"
             ],
-            "PS_42A": [
+            "ps_42a": [
                   "1817",
                   "1820"
             ],
             "ep-001-refill-ink-for-l4150": [
                   "1823"
             ],
-            "12A-Toner-Cartridge-Compatible": [
+            "12a-toner-cartridge-compatible": [
                   "1824"
             ],
-            "678--4-COLOR": [
+            "678--4-color": [
                   "1825"
             ],
-            "PS_3410": [
+            "ps_3410": [
                   "1827"
             ],
-            "Ink-Refill-for-T673-/-673": [
+            "ink-refill-for-t673-/-673": [
                   "1830"
             ],
             "46": [
                   "1832"
             ],
-            "802--4-COLOR": [
+            "802--4-color": [
                   "1834"
             ],
             "818-black-ink-cartridge-refill": [
@@ -2021,101 +2018,98 @@
             "k2200-toner-powder-250gms-pkt": [
                   "1837"
             ],
-            "88A/-CB388A": [
+            "88a/-cb388a": [
                   "1839"
             ],
-            "INKJET-PRINTING-CARD-TRAY": [
+            "inkjet-printing-card-tray": [
                   "1842"
             ],
-            "AR-REFILL-INK-00224": [
+            "ar-refill-ink-00224": [
                   "1844"
             ],
-            "L-220-Ink-Bottle": [
+            "l-220-ink-bottle": [
                   "1847"
             ],
-            "PS_310DM": [
+            "ps_310dm": [
                   "1848"
             ],
-            "F-88A": [
+            "f-88a": [
                   "1851"
             ],
             "901-color-ink-cartridge-refill": [
                   "1852"
             ],
-            "UV-950-951-REFILL-INK-SET-100ML": [
+            "uv-950-951-refill-ink-set-100ml": [
                   "1854"
             ],
             "pz-42x": [
                   "1855"
             ],
-            "Refill-BK-T664": [
+            "refill-bk-t664": [
                   "1857"
             ],
-            "TN-2365-Toner-Cartridge": [
+            "tn-2365-toner-cartridge": [
                   "1859"
             ],
-            "PS-53A": [
+            "ps-53a": [
                   "1860"
             ],
-            "PS912": [
+            "ps912": [
                   "1862"
             ],
-            "HGT52": [
+            "hgt52": [
                   "1863"
             ],
-            "TBT500Y3": [
+            "tbt500y3": [
                   "1868"
             ],
-            "Compatible-Refill-ink": [
+            "compatible-refill-ink": [
                   "1870"
             ],
-            "328-TONER-CARTRIDGE": [
-                  "1873"
-            ],
-            "BT5000-&-BT6000BK": [
+            "bt5000-&-bt6000bk": [
                   "1875"
             ],
-            "802-Small": [
+            "802-small": [
                   "1876"
             ],
             "cartridge": [
                   "1879"
             ],
-            "JK1043": [
+            "jk1043": [
                   "1884"
             ],
-            "Canon-40": [
+            "canon-40": [
                   "1885"
             ],
-            "12A/FX9_DB_P": [
+            "12a/fx9_db_p": [
                   "1887"
             ],
-            "49A_pS": [
+            "49a_ps": [
                   "1888"
             ],
-            "REFILLINK-8026": [
+            "refillink-8026": [
                   "1889"
             ],
-            "18A-Powder": [
+            "18a-powder": [
                   "1896"
             ],
-            "Bottles-[Set-of-3]": [
+            "bottles-[set-of-3]": [
                   "1897"
             ],
-            "680-&-703-4-COLOR": [
+            "680-&-703-4-color": [
                   "1900"
             ],
-            "pS-85A": [
+            "ps-85a": [
                   "1901"
             ],
-            "Compatible-88A-Drum": [
+            "compatible-88a-drum": [
                   "1908"
             ],
-            "PS_103": [
+            "ps_103": [
                   "1909"
             ]
       },
-      "Weight": {
+      "weight": {
             "0.1-kg": [
                   "1250"
             ],
@@ -2579,7 +2573,7 @@
                   "1885"
             ]
       },
-      "Width": {
+      "width": {
             "3.7-cm": [
                   "1250",
                   "1251",
@@ -2967,7 +2961,7 @@
                   "1885"
             ]
       },
-      "Ink-Drop": {
+      "ink-drop": {
             "22-pl": [
                   "1251"
             ],
@@ -2980,10 +2974,10 @@
                   "1261",
                   "1402"
             ],
-            "INK-TANK": [
+            "ink-tank": [
                   "1295"
             ],
-            "Epson-Inkjet-Printer": [
+            "epson-inkjet-printer": [
                   "1345",
                   "1361"
             ],
@@ -2996,17 +2990,17 @@
                   "1551",
                   "1649"
             ],
-            "KONICA-MINOLTA-TONER-CARTRIDGE": [
+            "konica-minolta-toner-cartridge": [
                   "1442"
             ],
             "2-pl": [
                   "1463"
             ],
-            "Toner-Powder": [
+            "toner-powder": [
                   "1504",
                   "1555"
             ],
-            "INKJET-INK": [
+            "inkjet-ink": [
                   "1563"
             ],
             "2.3pl": [
@@ -3015,10 +3009,10 @@
             "premium-ink-bottle": [
                   "1616"
             ],
-            "RIBBON": [
+            "ribbon": [
                   "1645"
             ],
-            "DRY-INKJET-INK": [
+            "dry-inkjet-ink": [
                   "1702"
             ],
             "1.3-pl,-4.7-pl": [
@@ -3027,16 +3021,16 @@
             "2.": [
                   "1746"
             ],
-            "INK-TANK-SYSTEM": [
+            "ink-tank-system": [
                   "1754"
             ],
-            "2.3-PL": [
+            "2.3-pl": [
                   "1761"
             ],
-            "Compatible-for-Epson-Printers": [
+            "compatible-for-epson-printers": [
                   "1791"
             ],
-            "BLACK": [
+            "black": [
                   "1798"
             ],
             ".5": [
@@ -3049,7 +3043,7 @@
                   "1843"
             ]
       },
-      "Non-operating-Humidity-Range": {
+      "non-operating-humidity-range": {
             "20%---80%-%": [
                   "1251",
                   "1257",
@@ -3092,7 +3086,7 @@
                   "1808"
             ]
       },
-      "Operating-Humidity-range": {
+      "operating-humidity-range": {
             "20%---80%-%": [
                   "1251",
                   "1259",
@@ -3103,12 +3097,12 @@
                   "1707",
                   "1719"
             ],
-            "20%---80%-RH-%": [
+            "20%---80%-rh-%": [
                   "1256",
                   "1299",
                   "1335"
             ],
-            "Mon-Oct-01-00:00:00-IST-1990-%": [
+            "mon-oct-01-00:00:00-ist-1990-%": [
                   "1257",
                   "1582",
                   "1614",
@@ -3141,7 +3135,7 @@
             "30-60": [
                   "1454"
             ],
-            "15-to-80%-RH-%": [
+            "15-to-80%-rh-%": [
                   "1485",
                   "1599",
                   "1629",
@@ -3161,13 +3155,13 @@
             "not-mention-%": [
                   "1613"
             ],
-            "10-%---80-%-RH-%": [
+            "10-%---80-%-rh-%": [
                   "1618"
             ],
             "40-60": [
                   "1702"
             ],
-            "30-%---70-%-RH-%": [
+            "30-%---70-%-rh-%": [
                   "1709"
             ],
             "30-60-%": [
@@ -3178,8 +3172,8 @@
                   "1843"
             ]
       },
-      "Operating-Temperature-Range": {
-            "15DegC---32DegC-degree-C": [
+      "operating-temperature-range": {
+            "15degc---32degc-degree-c": [
                   "1251",
                   "1259",
                   "1261",
@@ -3190,134 +3184,204 @@
                   "1726",
                   "1836"
             ],
-            "15DegC-\ufffd-32DegC-degree-C": [
+            "15degc---30degc-degree-c": [
+                  "1256",
+                  "1299",
+                  "1335",
+                  "1652"
+            ],
+            "15degc-\ufffd-32degc-degree-c": [
                   "1257"
             ],
-            "20---25-degree-C": [
+            "0-35-degree-c": [
+                  "1257",
+                  "1582",
+                  "1614",
+                  "1644",
+                  "1676",
+                  "1705",
+                  "1736",
+                  "1768",
+                  "1801",
+                  "1833",
+                  "1866",
+                  "1899"
+            ],
+            "20---25-degree-c": [
                   "1286",
                   "1318"
             ],
-            "upto-60D-degree-C": [
+            "upto-60d-degree-c": [
                   "1305"
+            ],
+            "5degc---35degc-degree-c": [
+                  "1324"
             ],
             "20-45": [
                   "1335"
             ],
-            "20-30\u00bac-degree-C": [
+            "20-30\u00bac-degree-c": [
                   "1336",
                   "1381",
                   "1419",
                   "1764"
             ],
-            "20-25\u00b0c-degree-C": [
+            "10---35-degreec": [
+                  "1338",
+                  "1422"
+            ],
+            "20-25\u00b0c-degree-c": [
                   "1339"
             ],
-            "7.5-to-32.5-degree-C": [
+            "7.5-to-32.5-degree-c": [
                   "1354"
+            ],
+            "5-40-degree-c": [
+                  "1435"
             ],
             "20-35": [
                   "1438",
                   "1454"
             ],
-            "20-25-degree-C": [
+            "20-25-degree-c": [
                   "1442"
             ],
-            "10-40-degree-C": [
+            "5---40-degreec": [
+                  "1485",
+                  "1599",
+                  "1629",
+                  "1660",
+                  "1690",
+                  "1720",
+                  "1752",
+                  "1785",
+                  "1818",
+                  "1850",
+                  "1883",
+                  "1915"
+            ],
+            "10-40-degree-c": [
                   "1504"
             ],
-            "5---45-degree-C": [
+            "5---45-degree-c": [
                   "1549",
                   "1599"
             ],
-            "10-32.5-degree-C": [
+            "10-32.5-degree-c": [
                   "1555"
             ],
-            "30-degree-C": [
+            "30-degree-c": [
                   "1563"
             ],
-            "not-mention-degree-C": [
+            "10degc---30degc-degree-c": [
+                  "1566",
+                  "1569"
+            ],
+            "not-mention-degree-c": [
                   "1613"
             ],
-            "20-35-degree-C": [
+            "10---32-degreec": [
+                  "1615",
+                  "1906"
+            ],
+            "15degc---32.5degc-degree-c": [
+                  "1618",
+                  "1709"
+            ],
+            "20-35-degree-c": [
                   "1649"
             ],
-            "15DegC---30DegC-degree-C": [
-                  "1652"
-            ],
-            "20-26-degree-C": [
+            "20-26-degree-c": [
                   "1670",
                   "1808"
             ],
-            "25-45-degree-C": [
+            "25-45-degree-c": [
                   "1701"
             ],
             "20-30": [
                   "1702"
             ],
-            "7.5DegC---32.5DegC-degree-C": [
+            "7.5degc---32.5degc-degree-c": [
                   "1719"
             ],
-            "20-30-degree-C": [
+            "20-30-degree-c": [
                   "1761",
                   "1857"
             ],
-            "10-45-degree-C": [
+            "10-45-degree-c": [
                   "1843"
             ]
       },
-      "Sales-Package": {
-            "1-Black-Ink-Cartridge": [
+      "sales-package": {
+            "1-black-ink-cartridge": [
                   "1251",
+                  "1388",
                   "1404",
+                  "1415",
                   "1495",
                   "1652"
             ],
-            "1-Toner-Cartridges": [
+            "1-toner-cartridges": [
                   "1252",
                   "1255",
                   "1564"
             ],
             "1-ink-cartridge": [
                   "1253",
+                  "1262",
                   "1343",
                   "1456",
                   "1548",
+                  "1612",
+                  "1629",
                   "1644",
+                  "1726",
+                  "1836",
                   "1876"
             ],
-            "1-Tri-color-Ink-Cartridge": [
-                  "1254"
+            "1-tri-color-ink-cartridge": [
+                  "1254",
+                  "1399"
             ],
-            "Pack-of-one": [
-                  "1256"
+            "pack-of-one": [
+                  "1256",
+                  "1288",
+                  "1320",
+                  "1330",
+                  "1349",
+                  "1508",
+                  "1527",
+                  "1620",
+                  "1793",
+                  "1801",
+                  "1816",
+                  "1817",
+                  "1819",
+                  "1820",
+                  "1848",
+                  "1860",
+                  "1888"
             ],
-            "1+1-black-Ink-Cartridge": [
+            "1+1-black-ink-cartridge": [
                   "1257"
             ],
-            "4-Bottle-Set": [
+            "4-bottle-set": [
                   "1258",
                   "1263",
                   "1293"
             ],
-            "1-small-black-Ink-Cartridge": [
+            "1-small-black-ink-cartridge": [
                   "1259"
             ],
-            "Inktoner": [
+            "inktoner": [
                   "1260",
                   "1666",
                   "1869"
             ],
-            "1-Tri--color-Ink-Cartridge": [
+            "1-tri--color-ink-cartridge": [
                   "1261"
             ],
-            "1-Ink-Cartridge": [
-                  "1262",
-                  "1612",
-                  "1629",
-                  "1726",
-                  "1836"
-            ],
-            "Ink-Cartridge": [
+            "ink-cartridge": [
                   "1264",
                   "1268",
                   "1393",
@@ -3333,11 +3397,12 @@
                   "1878",
                   "1910"
             ],
-            "Pack-Of-One-With-Box-Pack": [
+            "pack-of-one-with-box-pack": [
                   "1265"
             ],
-            "1-Toner-Cartridge": [
+            "1-toner-cartridge": [
                   "1266",
+                  "1280",
                   "1426",
                   "1445",
                   "1452",
@@ -3357,48 +3422,9 @@
                   "1583",
                   "1595",
                   "1719",
+                  "1720",
                   "1729",
-                  "1741"
-            ],
-            "3-bottle-inktoner": [
-                  "1267"
-            ],
-            "5-Bottle-of-Toner-Powder": [
-                  "1269"
-            ],
-            "Set-of-3-Black-Ink-100-ml": [
-                  "1270"
-            ],
-            "SUCTION-TOOL-KIT-WITH-SYRINGE": [
-                  "1271"
-            ],
-            "4-ink-bottle-and-4-syringes": [
-                  "1272",
-                  "1479"
-            ],
-            "Set-of-5": [
-                  "1274"
-            ],
-            "Pcak-Of-One-With-Box-Packing": [
-                  "1275",
-                  "1294",
-                  "1641",
-                  "1692",
-                  "1721"
-            ],
-            "04-Cmyk-Colors-+-01-Black-Color": [
-                  "1276"
-            ],
-            "1-ink-bottles-of-100-ml": [
-                  "1278"
-            ],
-            "1-UNIT": [
-                  "1279",
-                  "1459",
-                  "1873"
-            ],
-            "1-TONER-CARTRIDGE": [
-                  "1280",
+                  "1741",
                   "1750",
                   "1752",
                   "1794",
@@ -3406,6 +3432,44 @@
                   "1895",
                   "1904",
                   "1911"
+            ],
+            "3-bottle-inktoner": [
+                  "1267"
+            ],
+            "5-bottle-of-toner-powder": [
+                  "1269"
+            ],
+            "set-of-3-black-ink-100-ml": [
+                  "1270"
+            ],
+            "suction-tool-kit-with-syringe": [
+                  "1271"
+            ],
+            "4-ink-bottle-and-4-syringes": [
+                  "1272",
+                  "1479"
+            ],
+            "set-of-5": [
+                  "1274"
+            ],
+            "pcak-of-one-with-box-packing": [
+                  "1275",
+                  "1294",
+                  "1641",
+                  "1692",
+                  "1721"
+            ],
+            "04-cmyk-colors-+-01-black-color": [
+                  "1276"
+            ],
+            "1-ink-bottles-of-100-ml": [
+                  "1278"
+            ],
+            "1-unit": [
+                  "1279",
+                  "1459",
+                  "1703",
+                  "1873"
             ],
             "1": [
                   "1281",
@@ -3440,41 +3504,27 @@
                   "1896",
                   "1908"
             ],
-            "5-Bottle-Set": [
+            "5-bottle-set": [
                   "1282",
                   "1311"
             ],
-            "4-BOTTLE-ink": [
-                  "1283"
+            "4-bottle-ink": [
+                  "1283",
+                  "1646"
             ],
-            "04-Colors-x-100-ml-each": [
+            "04-colors-x-100-ml-each": [
                   "1284"
             ],
             "1-printer": [
                   "1285"
             ],
-            "2-Bottle": [
+            "2-bottle": [
                   "1286",
                   "1318",
                   "1566",
                   "1569"
             ],
-            "Pack-Of-One": [
-                  "1288",
-                  "1320",
-                  "1330",
-                  "1349",
-                  "1508",
-                  "1527",
-                  "1620",
-                  "1793",
-                  "1801",
-                  "1816",
-                  "1819",
-                  "1848",
-                  "1888"
-            ],
-            "5-Black-ink-bottle": [
+            "5-black-ink-bottle": [
                   "1289"
             ],
             "4-pcs-ink-bottles": [
@@ -3484,11 +3534,11 @@
                   "1745",
                   "1828"
             ],
-            "1-Black-Bottle": [
+            "1-black-bottle": [
                   "1292",
                   "1898"
             ],
-            "ONLY-4-BOTTLES-INK": [
+            "only-4-bottles-ink": [
                   "1295",
                   "1563"
             ],
@@ -3497,28 +3547,25 @@
             ],
             "3-ink": [
                   "1300",
-                  "1385"
+                  "1385",
+                  "1411"
             ],
-            "1-PG745XL-Black": [
+            "1-pg745xl-black": [
                   "1301"
             ],
-            "1-X-Ink-Refill": [
+            "1-x-ink-refill": [
                   "1302"
             ],
-            "Pack-of-10": [
+            "pack-of-10": [
                   "1303"
             ],
             "1-cartridge": [
                   "1304",
-                  "1346",
-                  "1633"
-            ],
-            "1-kg-toner": [
-                  "1305"
-            ],
-            "1-CARTRIDGE": [
                   "1308",
                   "1313",
+                  "1346",
+                  "1347",
+                  "1437",
                   "1446",
                   "1476",
                   "1496",
@@ -3526,14 +3573,23 @@
                   "1543",
                   "1545",
                   "1603",
+                  "1621",
+                  "1633",
+                  "1696",
+                  "1736",
+                  "1853",
                   "1884"
             ],
-            "2-Black-Bottle": [
+            "1-kg-toner": [
+                  "1305"
+            ],
+            "2-black-bottle": [
                   "1309"
             ],
             "4-ink-bottle": [
                   "1310",
                   "1362",
+                  "1487",
                   "1592",
                   "1614",
                   "1683",
@@ -3541,48 +3597,50 @@
                   "1769",
                   "1788",
                   "1791",
+                  "1826",
                   "1841",
                   "1891"
             ],
-            "6-Ink-Bottle": [
+            "6-ink-bottle": [
                   "1312"
             ],
             "4-ink": [
                   "1314"
             ],
-            "2-Black-Color-Bottles": [
+            "2-black-color-bottles": [
                   "1316"
             ],
-            "50-Units-of-PVC-ID-Cards": [
+            "50-units-of-pvc-id-cards": [
                   "1317",
                   "1730"
             ],
-            "Set-of-3-Black": [
+            "set-of-3-black": [
                   "1322"
             ],
             "1bottle": [
                   "1325"
             ],
-            "1-Bottle-inktoner": [
+            "1-bottle-inktoner": [
                   "1326"
             ],
-            "2-UNIT": [
+            "2-unit": [
                   "1327",
-                  "1341"
+                  "1341",
+                  "1367"
             ],
-            "3-x-100-ml-Bottles-of-Black": [
+            "3-x-100-ml-bottles-of-black": [
                   "1329"
             ],
-            "1-NOS-TK4109-PCR": [
+            "1-nos-tk4109-pcr": [
                   "1331"
             ],
-            "4-COLOR-REFILL-INK": [
+            "4-color-refill-ink": [
                   "1332"
             ],
             "1-packet-of-toner-powder": [
                   "1335"
             ],
-            "4-Color-Set": [
+            "4-color-set": [
                   "1336",
                   "1419",
                   "1764"
@@ -3596,94 +3654,84 @@
                   "1562",
                   "1832"
             ],
-            "70gm-Bottle-x-4-individual-box": [
+            "70gm-bottle-x-4-individual-box": [
                   "1339"
             ],
-            "Laser-Toner": [
+            "laser-toner": [
                   "1340"
             ],
-            "1-Cartridge": [
-                  "1347",
-                  "1437",
-                  "1621",
-                  "1696",
-                  "1736",
-                  "1853"
-            ],
-            "Toner-Cartridge": [
+            "toner-cartridge": [
                   "1348"
             ],
-            "PACK-OF-3-BOTTLES": [
+            "pack-of-3-bottles": [
                   "1350"
             ],
             "1-litre-black-ink-bottle": [
                   "1351"
             ],
-            "CONTAINS-230-PLAIN-ID-CARDS": [
+            "contains-230-plain-id-cards": [
                   "1352"
             ],
-            "1-Compatible-12a-Toner": [
+            "1-compatible-12a-toner": [
                   "1354"
             ],
-            "Contains-1-Box-Of-Duplicator-Ink": [
+            "contains-1-box-of-duplicator-ink": [
                   "1355"
             ],
             "one-unit-with-box-packing": [
                   "1358"
             ],
-            "SINGLE-BOTTLE": [
+            "single-bottle": [
                   "1359"
             ],
-            "2-Black-Ink-Bottle": [
+            "2-black-ink-bottle": [
                   "1360"
             ],
-            "Pack-of-100-Cards": [
+            "pack-of-100-cards": [
                   "1361"
             ],
             "1-inktoner": [
                   "1365",
+                  "1369",
                   "1371",
                   "1384",
+                  "1498",
                   "1518",
                   "1557",
                   "1771",
+                  "1786",
                   "1837"
             ],
             "3-pc": [
-                  "1366"
+                  "1366",
+                  "1598"
             ],
-            "2-unit": [
-                  "1367"
-            ],
-            "1-INKTONER": [
-                  "1369"
-            ],
-            "70ml-X-4-bottles-(CMYK)": [
+            "70ml-x-4-bottles-(cmyk)": [
                   "1372"
             ],
             "4-ink-bottles": [
                   "1373"
             ],
-            "Three-Cartridge-Combo-In-a-Box": [
+            "three-cartridge-combo-in-a-box": [
                   "1375"
             ],
-            "2-DRUM": [
+            "2-drum": [
                   "1378",
                   "1716"
             ],
             "4-pcs-ink-bottles-of-100ml-each": [
                   "1379"
             ],
-            "SINGLE-UNIT-OF-CARD-TRAY": [
+            "single-unit-of-card-tray": [
                   "1380"
             ],
-            "6-Color-Set": [
+            "6-color-set": [
                   "1381"
             ],
-            "1-kg-Toner-Powder": [
+            "1-kg-toner-powder": [
                   "1382"
             ],
-            "One-Unit": [
+            "one-unit": [
                   "1383",
                   "1483",
                   "1710",
@@ -3699,42 +3747,41 @@
                   "1387",
                   "1394"
             ],
-            "1-black-ink-cartridge": [
-                  "1388"
-            ],
-            "Three-Pisces-Combo": [
+            "three-pisces-combo": [
                   "1389"
             ],
             "3-units": [
                   "1392"
             ],
-            "1-CARTRIDGES": [
+            "1-cartridges": [
                   "1395"
             ],
-            "1-INK-BOTTLE": [
+            "1-ink-bottle": [
                   "1396",
+                  "1552",
                   "1805"
             ],
-            "2-INK-CARTRIDGE": [
+            "2-ink-cartridge": [
                   "1397",
-                  "1425"
+                  "1408",
+                  "1425",
+                  "1686",
+                  "1735"
             ],
-            "1-Tri-Color-Ink-cartridge": [
-                  "1399"
-            ],
-            "pack-Of-Five-Units": [
+            "pack-of-five-units": [
                   "1401"
             ],
-            "1-small-Tri-Color-Ink-Cartridge": [
+            "1-small-tri-color-ink-cartridge": [
                   "1402"
             ],
-            "Black-ink-60-ml-&-Refill-tools": [
+            "black-ink-60-ml-&-refill-tools": [
                   "1403"
             ],
             "4-unit": [
-                  "1405"
+                  "1405",
+                  "1722"
             ],
-            "4-BOTTLES-70-ml-EACH": [
+            "4-bottles-70-ml-each": [
                   "1406",
                   "1494"
             ],
@@ -3744,120 +3791,122 @@
                   "1616",
                   "1850"
             ],
-            "2-ink-cartridge": [
-                  "1408",
-                  "1735"
-            ],
-            "PACK-OF-4-BOTTLES": [
+            "pack-of-4-bottles": [
                   "1409",
-                  "1784"
+                  "1784",
+                  "1807",
+                  "1823"
             ],
-            "1-Unit-of-Toner-Cartridge": [
+            "1-unit-of-toner-cartridge": [
                   "1410",
                   "1501",
+                  "1502",
+                  "1525",
+                  "1587",
+                  "1588",
+                  "1618",
+                  "1662",
+                  "1680",
                   "1766",
                   "1814",
-                  "1833"
+                  "1815",
+                  "1833",
+                  "1855"
             ],
-            "3-Ink": [
-                  "1411"
-            ],
-            "Yorkker-Epson-ID-Kard-115pc": [
+            "yorkker-epson-id-kard-115pc": [
                   "1414"
             ],
-            "1-Black-Ink-cartridge": [
-                  "1415"
+            "4-unit-of-refill-ink-bottle": [
+                  "1416",
+                  "1486"
             ],
-            "4-Unit-Of-Refill-Ink-Bottle": [
-                  "1416"
-            ],
-            "Black-ink-60ml-&-refill-tool": [
+            "black-ink-60ml-&-refill-tool": [
                   "1417",
                   "1689"
             ],
-            "(5)-Five-in-Package": [
+            "(5)-five-in-package": [
                   "1418"
             ],
-            "1-BLACK-+-3-COLOR-INK-BOTTLE": [
+            "1-black-+-3-color-ink-bottle": [
                   "1421"
             ],
-            "1-Bottle": [
-                  "1422"
+            "1-bottle": [
+                  "1422",
+                  "1914"
             ],
-            "PREMIUM-Drum-05-Units-INKTONER": [
+            "premium-drum-05-units-inktoner": [
                   "1424"
             ],
-            "Pack-Of-One-With-BOX": [
-                  "1428"
+            "pack-of-one-with-box": [
+                  "1428",
+                  "1467",
+                  "1901"
             ],
             "contains-4x100": [
                   "1429"
             ],
-            "4-bottles---CMYK-1-each": [
+            "4-bottles---cmyk-1-each": [
                   "1430"
             ],
-            "1-Pcs": [
-                  "1432"
+            "1-pcs": [
+                  "1432",
+                  "1682"
             ],
-            "1-Unit-of-Waste-Ink-Pad": [
+            "1-unit-of-waste-ink-pad": [
                   "1433"
             ],
             "2-cartridge": [
-                  "1434"
+                  "1434",
+                  "1464",
+                  "1796"
             ],
-            "Drum": [
+            "drum": [
                   "1435"
             ],
-            "Toner-Powder": [
+            "toner-powder": [
                   "1436"
             ],
             "1-pcs-each-of-drum,blade-and-pcr": [
                   "1441"
             ],
-            "1BOX": [
+            "1box": [
                   "1442"
             ],
             "4-pcs-black-ink-of-100ml-each": [
                   "1448"
             ],
-            "12A-Drum-05-Units": [
+            "12a-drum-05-units": [
                   "1451"
             ],
-            "500-gm-Toner": [
-                  "1454"
+            "500-gm-toner": [
+                  "1454",
+                  "1849"
             ],
-            "8-Ink-Bottle": [
+            "8-ink-bottle": [
                   "1455",
                   "1530"
             ],
             "5drum": [
                   "1461"
             ],
-            "Contains-4-Unit-Of-Ink-Bottles": [
+            "contains-4-unit-of-ink-bottles": [
                   "1462"
-            ],
-            "2-CARTRIDGE": [
-                  "1464"
             ],
             "2": [
                   "1465",
                   "1590"
             ],
-            "Pack-Of-One-With-Box": [
-                  "1467",
-                  "1901"
-            ],
-            "1-One-Unit": [
+            "1-one-unit": [
                   "1469"
             ],
-            "4-BOTTLES-OF-INKS-70ML-EACH": [
+            "4-bottles-of-inks-70ml-each": [
                   "1470",
                   "1811"
             ],
-            "R-SP210-CHIP-PACK-3": [
+            "r-sp210-chip-pack-3": [
                   "1471"
             ],
-            "SINGLE-CARTRIDGE": [
+            "single-cartridge": [
                   "1472",
                   "1492",
                   "1510",
@@ -3868,155 +3917,135 @@
                   "1892",
                   "1913"
             ],
-            "36/88A-GREEN-Drum-02-Units": [
+            "36/88a-green-drum-02-units": [
                   "1474"
             ],
-            "100-NOS-PLAIN-WHITE-PVC-ID-CARD": [
+            "100-nos-plain-white-pvc-id-card": [
                   "1475"
             ],
             "1-pc-100ml-black-ink": [
                   "1477"
             ],
-            "3-pcs-BLACK-BOTTLE": [
+            "3-pcs-black-bottle": [
                   "1478"
             ],
-            "5-PCS-TONER-POWDER": [
+            "5-pcs-toner-powder": [
                   "1481",
                   "1539"
             ],
-            "Epson-ID-Card-230pc": [
+            "epson-id-card-230pc": [
                   "1484"
             ],
-            "4-Unit-of-Refill-Ink-Bottle": [
-                  "1486"
-            ],
-            "4-INK-BOTTLE": [
-                  "1487",
-                  "1826"
-            ],
-            "Na": [
+            "na": [
                   "1490"
             ],
-            "2-UNITS-OF-TONER-CARTRIDGES": [
+            "2-units-of-toner-cartridges": [
                   "1491"
             ],
-            "4-UNIT-OF-REFILLABLE-CARTRIDGE": [
+            "4-unit-of-refillable-cartridge": [
                   "1493"
-            ],
-            "1-Inktoner": [
-                  "1498",
-                  "1786"
             ],
             "15-inktoner": [
                   "1500"
             ],
-            "1-UNIT-OF-TONER-CARTRIDGE": [
-                  "1502",
-                  "1525",
-                  "1587",
-                  "1588",
-                  "1618",
-                  "1662",
-                  "1680",
-                  "1815"
-            ],
-            "3-Bottle-of-inktoner": [
+            "3-bottle-of-inktoner": [
                   "1504"
             ],
-            "1-Unit-of-Refill-Ink-Bottle": [
+            "1-unit-of-refill-ink-bottle": [
                   "1512"
             ],
-            "Pack-ten-plus-five": [
+            "pack-ten-plus-five": [
                   "1514"
             ],
-            "SINGLE-ID-TRAY": [
+            "single-id-tray": [
                   "1515"
             ],
-            "Pack-Of-Five-inktoner": [
+            "pack-of-five-inktoner": [
                   "1517"
             ],
             "3-pcs-ink-bottles": [
                   "1519"
             ],
-            "Pack-Of-Four": [
+            "pack-of-four": [
                   "1528"
             ],
-            "100g-x-3-Colors-Bottle": [
+            "100g-x-3-colors-bottle": [
                   "1532"
             ],
-            "1-Nos-Toner-Pouch-of-375-Gms": [
+            "1-nos-toner-pouch-of-375-gms": [
                   "1533"
             ],
-            "Pack-of-15": [
+            "pack-of-15": [
                   "1544"
             ],
-            "SINGLE-TIMIMG-BELT": [
+            "single-timimg-belt": [
                   "1547"
             ],
-            "1-RIBBON-CARTRIDGE": [
+            "1-ribbon-cartridge": [
                   "1550"
             ],
             "5-ink-bottle.-70-ml-each": [
                   "1551"
             ],
-            "1-Ink-Bottle": [
-                  "1552"
-            ],
-            "Toner": [
+            "toner": [
                   "1553"
             ],
-            "CONTAINS-230-PVC-ID-CARDS": [
+            "contains-230-pvc-id-cards": [
                   "1554"
             ],
-            "Single-Laser-Toner-Cartridge": [
+            "single-laser-toner-cartridge": [
                   "1555"
             ],
-            "4-UNITS-OF-INK-BOTTLE": [
+            "4-units-of-ink-bottle": [
                   "1556"
             ],
             "1-piece-ink-toner-catridge": [
                   "1559"
             ],
-            "1-Toner-Pouch": [
+            "1-toner-pouch": [
                   "1560",
                   "1734"
             ],
-            "Set-of-3": [
+            "set-of-3": [
                   "1565"
             ],
-            "5-UNIT": [
+            "5-unit": [
                   "1567",
                   "1570"
             ],
-            "4-Units-of-Refill-Ink-Bottles": [
+            "4-units-of-refill-ink-bottles": [
                   "1568",
                   "1571",
                   "1782",
                   "1847"
             ],
-            "1-Unit-Of-Toner": [
-                  "1572"
+            "1-unit-of-toner": [
+                  "1572",
+                  "1634",
+                  "1665",
+                  "1757",
+                  "1824"
             ],
-            "Two-Units": [
+            "two-units": [
                   "1573"
             ],
-            "Ink-&-Refill-Tools": [
+            "ink-&-refill-tools": [
                   "1577",
                   "1650"
             ],
-            "SINGLE-UNIT-OF-ENCODER-STRIP": [
+            "single-unit-of-encoder-strip": [
                   "1579"
             ],
-            "1-Cyan-Bottle": [
+            "1-cyan-bottle": [
                   "1580"
             ],
-            "2-Pc": [
+            "2-pc": [
                   "1584"
             ],
-            "Set-of-2-(10mm-x-33M)": [
+            "set-of-2-(10mm-x-33m)": [
                   "1586"
             ],
-            "5-TONER-CARTRIDGE": [
+            "5-toner-cartridge": [
                   "1591",
                   "1866",
                   "1881",
@@ -4025,28 +4054,26 @@
             "1-ink-toner-cartridge": [
                   "1593"
             ],
-            "Pack-Of-Ten": [
+            "pack-of-ten": [
                   "1596"
             ],
-            "1-UNIT-OF-CARTRIDGE": [
+            "1-unit-of-cartridge": [
                   "1597",
                   "1668",
                   "1681"
             ],
-            "3-Pc": [
-                  "1598"
-            ],
-            "12A-OEM-Cartridge's-Pack-Of-2": [
+            "12a-oem-cartridge's-pack-of-2": [
                   "1600"
             ],
-            "2-UNIT-OF-ink-BOTTLE": [
+            "2-unit-of-ink-bottle": [
                   "1607"
             ],
             "4-multi-color-bottle": [
                   "1613"
             ],
-            "One-inktoner": [
-                  "1622"
+            "one-inktoner": [
+                  "1622",
+                  "1630"
             ],
             "1-pc-100ml-ink-bottle": [
                   "1623",
@@ -4055,52 +4082,43 @@
             "pack-of-4-bottle": [
                   "1626"
             ],
-            "One-Inktoner": [
-                  "1630"
-            ],
             "pack-of-2": [
                   "1632"
             ],
-            "1-unit-Of-TOner": [
-                  "1634"
-            ],
-            "4-Black-Ink-Bottle": [
+            "4-black-ink-bottle": [
                   "1635"
             ],
             "1-pc-100ml-bottle": [
                   "1637"
             ],
-            "2Pcs-of-ink-Bottle": [
+            "2pcs-of-ink-bottle": [
                   "1638"
             ],
-            "2-Ink-Refill": [
+            "2-ink-refill": [
                   "1639"
             ],
             "toner-powder-*-1": [
                   "1642"
             ],
-            "4-bottle-ink": [
-                  "1646"
-            ],
-            "1-UNIT-OF-WASTE-PAD": [
+            "1-unit-of-waste-pad": [
                   "1651"
             ],
-            "2-Paper-Feed-Pickup-Roller": [
+            "2-paper-feed-pickup-roller": [
                   "1653"
             ],
-            "4-Unit-Of-Refill-Ink": [
+            "4-unit-of-refill-ink": [
                   "1654"
             ],
-            "3-Ink-Cartridge": [
+            "3-ink-cartridge": [
                   "1656"
             ],
-            "4-Color-Bottle": [
+            "4-color-bottle": [
                   "1657"
             ],
             "2-pcs-of-100ml-ink-bottles": [
                   "1659"
             ],
-            "4-Units-of-Refill-Ink-Bottle": [
+            "4-units-of-refill-ink-bottle": [
                   "1660",
                   "1739",
                   "1844",
@@ -4110,96 +4128,78 @@
                   "1661",
                   "1671"
             ],
-            "CONTAINS-1-TONER-CARTRIDGE": [
+            "contains-1-toner-cartridge": [
                   "1663"
-            ],
-            "1-unit-oF-Toner": [
-                  "1665"
             ],
             "2-inktoner": [
                   "1670"
             ],
-            "4-100ml-bottles(CMYK)": [
+            "4-100ml-bottles(cmyk)": [
                   "1672"
             ],
-            "1-DRUM": [
+            "1-drum": [
                   "1673"
             ],
             "5-kg-toner": [
                   "1677",
                   "1768"
             ],
-            "4-Units-of-Toner-Cartridges": [
+            "4-units-of-toner-cartridges": [
                   "1678"
             ],
-            "1-pcs": [
-                  "1682"
-            ],
-            "2-Ink-Cartridge": [
-                  "1686"
-            ],
-            "4-Bottle": [
+            "4-bottle": [
                   "1691"
             ],
-            "4-coolor-inks-BT6000BK": [
+            "4-coolor-inks-bt6000bk": [
                   "1694"
             ],
             "5": [
                   "1698"
             ],
-            "SINGLE-UNIT-OF-PRINTER-TRAY": [
+            "single-unit-of-printer-tray": [
                   "1699"
             ],
-            "TWO-CARTRIDGE": [
+            "two-cartridge": [
                   "1700"
             ],
-            "Pack-Of-Six": [
+            "pack-of-six": [
                   "1701"
             ],
-            "4-BOTTLES-INKTONER": [
+            "4-bottles-inktoner": [
                   "1702"
-            ],
-            "1-unit": [
-                  "1703"
             ],
             "singal-toner": [
                   "1704"
             ],
-            "1-NOS-2430-INK-MAJENTA": [
+            "1-nos-2430-ink-majenta": [
                   "1705"
             ],
-            "36Toner-Powder": [
+            "36toner-powder": [
                   "1706"
             ],
-            "CARTRIAGE": [
+            "cartriage": [
                   "1707"
             ],
-            "PACK-OF-4-CARTRIDGES": [
+            "pack-of-4-cartridges": [
                   "1717"
             ],
-            "1-Toner-cartridge": [
-                  "1720"
-            ],
-            "4-Unit": [
-                  "1722"
-            ],
-            "SINGLE-UNIT-OF-CARTRIDGE": [
+            "single-unit-of-cartridge": [
                   "1723",
                   "1740"
             ],
             "4-color-ink-bottle": [
                   "1724"
             ],
-            "3-ink-bottle-BK": [
+            "3-ink-bottle-bk": [
                   "1727"
             ],
-            "YES": [
+            "yes": [
                   "1728"
             ],
-            "4-Inkbottles": [
+            "4-inkbottles": [
                   "1733"
             ],
-            "TWO-CARTRIDGES": [
+            "two-cartridges": [
                   "1737"
             ],
             "4-inktoner": [
@@ -4207,189 +4207,160 @@
                   "1773",
                   "1777"
             ],
-            "Compatible-Toner-Powder-250-GMS": [
+            "compatible-toner-powder-250-gms": [
                   "1748"
             ],
-            "1-PCS-GT-135ML": [
+            "1-pcs-gt-135ml": [
                   "1749"
             ],
-            "5-Unit-Of-Toner-Cartridge": [
+            "5-unit-of-toner-cartridge": [
                   "1751"
             ],
-            "4-CARTRIDGES": [
+            "4-cartridges": [
                   "1753"
             ],
-            "4-BOTTLES": [
+            "4-bottles": [
                   "1754"
             ],
-            "88A-OEM-CARTRIDGE-PACK-OF-2": [
+            "88a-oem-cartridge-pack-of-2": [
                   "1755"
             ],
-            "88A-OEM-CARTRIDGE-SINGLE": [
+            "88a-oem-cartridge-single": [
                   "1756"
             ],
-            "1-Unit-of-toner": [
-                  "1757"
-            ],
-            "1-PG740-Black": [
+            "1-pg740-black": [
                   "1758"
             ],
-            "Four-unit-Of-Ink-Bottle": [
+            "four-unit-of-ink-bottle": [
                   "1760"
             ],
-            "1-LITERE-X-1-COLOUR": [
+            "1-litere-x-1-colour": [
                   "1761"
             ],
             "3-ink-bottle": [
                   "1767",
                   "1838"
             ],
-            "8-Black-Pigment-Ink": [
+            "8-black-pigment-ink": [
                   "1772"
             ],
-            "1-Yellow-Bottle": [
+            "1-yellow-bottle": [
                   "1774"
             ],
-            "1-Unit-Of-Tone-Cartridge": [
+            "1-unit-of-tone-cartridge": [
                   "1776"
             ],
-            "One-Unit-Pack": [
+            "one-unit-pack": [
                   "1778"
             ],
-            "PACK-OF-50-CARDS": [
+            "pack-of-50-cards": [
                   "1779"
             ],
-            "Set-of-8": [
+            "set-of-8": [
                   "1783"
             ],
-            "2-Cartridge": [
-                  "1796"
-            ],
-            "PACK-OD-4-BOTTLES": [
+            "pack-od-4-bottles": [
                   "1797"
             ],
-            "Compitable-Ink-Cartridge": [
+            "compitable-ink-cartridge": [
                   "1802"
             ],
-            "Pack-of-3": [
+            "pack-of-3": [
                   "1803"
             ],
-            "pack-of-4-bottles": [
-                  "1807",
-                  "1823"
-            ],
-            "1-Toner-Catridge": [
+            "1-toner-catridge": [
                   "1808"
             ],
-            "5-BOTTLE-70-ml-EACH": [
+            "5-bottle-70-ml-each": [
                   "1810"
             ],
-            "Pack-OF-One": [
-                  "1817",
-                  "1820"
-            ],
-            "SINGLE-UNIT-OF-DRUM-UNIT": [
+            "single-unit-of-drum-unit": [
                   "1822"
-            ],
-            "1-Unit-of-Toner": [
-                  "1824"
             ],
             "1-set-ink": [
                   "1829"
             ],
-            "4-Pc": [
+            "4-pc": [
                   "1831"
             ],
             "5-units": [
                   "1839"
             ],
-            "PACK-OF-SINGLE-ID-CARD-TRAY": [
+            "pack-of-single-id-card-tray": [
                   "1842"
             ],
-            "500-gm-toner": [
-                  "1849"
-            ],
-            "88A-Toner-Cartridge": [
+            "88a-toner-cartridge": [
                   "1851"
-            ],
-            "1-unit-of-toner-cartridge": [
-                  "1855"
             ],
             "4-pcs-ink-100ml-each": [
                   "1856"
             ],
-            "1-bottle-in-Box": [
+            "1-bottle-in-box": [
                   "1857"
             ],
-            "1pic-Cartridge": [
+            "1pic-cartridge": [
                   "1859"
             ],
-            "pack-of-one": [
-                  "1860"
-            ],
-            "3-Color-Ink-Bottle": [
+            "3-color-ink-bottle": [
                   "1863"
             ],
-            "4-BOTTLES-OF-INK": [
+            "4-bottles-of-ink": [
                   "1864",
                   "1865"
             ],
-            "3-TONER-CARTRIDGE": [
+            "3-toner-cartridge": [
                   "1867",
                   "1886",
                   "1905"
             ],
-            "3-Color-Ink": [
+            "3-color-ink": [
                   "1868"
             ],
-            "4-Multicolor-ink-bottle": [
+            "4-multicolor-ink-bottle": [
                   "1870"
             ],
-            "1-UNIT-TONNER-CARTRIDGE": [
+            "1-unit-tonner-cartridge": [
                   "1871"
             ],
-            "1-NOS-TASKALFA-1114-TONER-POWDER": [
+            "1-nos-taskalfa-1114-toner-powder": [
                   "1874"
             ],
             "4-color-ink": [
                   "1875"
             ],
-            "4-TONER-CARTRIDGE": [
+            "4-toner-cartridge": [
                   "1877",
                   "1882",
                   "1903"
             ],
-            "2-TONER-CARTRIDGE": [
+            "2-toner-cartridge": [
                   "1880",
                   "1902"
             ],
-            "Black-ink-and-ink-filling-tools": [
+            "black-ink-and-ink-filling-tools": [
                   "1885"
             ],
-            "Pack-Of-Five": [
+            "pack-of-five": [
                   "1887"
             ],
-            "1-Magenta-Bottle": [
+            "1-magenta-bottle": [
                   "1894"
             ],
-            "PREMIUM-Drum-02-Units-INKTONER": [
+            "premium-drum-02-units-inktoner": [
                   "1899"
             ],
             "5-inktoner": [
                   "1906"
             ],
-            "4-UNIT-OFREFILLABLE-CARTRIDGES": [
+            "4-unit-ofrefillable-cartridges": [
                   "1907"
             ],
-            "1-bottle": [
-                  "1914"
-            ],
-            "4-PCS-INK": [
+            "4-pcs-ink": [
                   "1915"
             ]
       },
-      "Storage-Temperature-Range": {
-            "-40DegC---60DegC": [
+      "storage-temperature-range": {
+            "-40degc---60degc": [
                   "1251",
                   "1257",
                   "1259",
@@ -4437,24 +4408,24 @@
             "20-70": [
                   "1649"
             ],
-            "-15DegC---35DegC": [
+            "-15degc---35degc": [
                   "1652"
             ],
-            "upto-60D": [
+            "upto-60d": [
                   "1677",
                   "1768"
             ],
             "25-45": [
                   "1701"
             ],
-            "-20DegC---40DegC": [
+            "-20degc---40degc": [
                   "1719",
                   "1833"
             ],
             "5--45": [
                   "1731"
             ],
-            "20-DEGREE-TO-40-DEGREE": [
+            "20-degree-to-40-degree": [
                   "1761"
             ],
             "10-32": [
@@ -4463,15 +4434,15 @@
             "10-30": [
                   "1843"
             ],
-            "upto-60-D": [
+            "upto-60-d": [
                   "1849"
             ],
-            "20DegC-35DegC": [
+            "20degc-35degc": [
                   "1857"
             ]
       },
-      "Warranty-Summary": {
-            "2-Years-Manufacturer-Warranty": [
+      "warranty-summary": {
+            "2-years-manufacturer-warranty": [
                   "1251",
                   "1254",
                   "1257",
@@ -4487,19 +4458,20 @@
                   "1726",
                   "1836"
             ],
-            "NA": [
+            "na": [
                   "1281",
+                  "1285",
+                  "1377",
                   "1414",
+                  "1420",
+                  "1438",
+                  "1454",
                   "1484",
                   "1488",
                   "1694",
                   "1808"
             ],
-            "na": [
-                  "1285",
-                  "1438"
-            ],
-            "No": [
+            "no": [
                   "1289",
                   "1551",
                   "1684",
@@ -4507,32 +4479,27 @@
                   "1838",
                   "1843"
             ],
-            "Na": [
-                  "1377",
-                  "1420",
-                  "1454"
-            ],
-            "2-Year": [
+            "2-year": [
                   "1453",
                   "1749"
             ],
-            "Canon-Service-Center": [
+            "canon-service-center": [
                   "1456"
             ],
-            "As-Per-Flipkart-Return-Policy": [
+            "as-per-flipkart-return-policy": [
                   "1532"
             ],
             "not-mention": [
                   "1613"
             ],
-            "2-Years-Warranty": [
+            "2-years-warranty": [
                   "1666"
             ],
             "6-months": [
                   "1671"
             ]
       },
-      "Active-Noise-Level": {
+      "active-noise-level": {
             "47": [
                   "1256"
             ],
@@ -4566,7 +4533,7 @@
                   "1709"
             ]
       },
-      "Bit-depth-Colour": {
+      "bit-depth-colour": {
             "24-bit": [
                   "1256",
                   "1335",
@@ -4587,12 +4554,12 @@
                   "1866",
                   "1899"
             ],
-            "30-Bit": [
+            "30-bit": [
                   "1906"
             ]
       },
-      "Borderless-printing": {
-            "Yes": [
+      "borderless-printing": {
+            "yes": [
                   "1256",
                   "1257",
                   "1263",
@@ -4638,8 +4605,8 @@
                   "1915"
             ]
       },
-      "Brand": {
-            "HP": [
+      "brand": {
+            "hp": [
                   "1256",
                   "1299",
                   "1335",
@@ -4708,7 +4675,7 @@
                   "1902",
                   "1915"
             ],
-            "Canon": [
+            "canon": [
                   "1257",
                   "1263",
                   "1324",
@@ -4739,85 +4706,83 @@
                   "1899",
                   "1906"
             ],
-            "Epson": [
+            "epson": [
                   "1272",
                   "1285",
                   "1343",
                   "1641"
             ],
-            "Techleads": [
+            "techleads": [
                   "1281",
                   "1377"
             ],
-            "Brother": [
+            "brother": [
                   "1329",
                   "1338",
                   "1422",
                   "1615"
             ],
-            "Secugen": [
+            "secugen": [
                   "1334"
             ],
-            "3M-Cogent": [
+            "3m-cogent": [
                   "1342"
             ],
-            "Icons": [
+            "icons": [
                   "1390"
             ],
-            "CYSNO": [
+            "cysno": [
                   "1420"
             ],
-            "Mantra": [
+            "mantra": [
                   "1432"
             ],
             "pantum": [
                   "1470"
             ],
             "hoin": [
-                  "1490"
-            ],
-            "HOIN": [
+                  "1490",
                   "1649"
             ]
       },
-      "Compatible-Black-cartridge": {
-            "HP-680-Black-Ink,1-Year": [
+      "compatible-black-cartridge": {
+            "hp-680-black-ink,1-year": [
                   "1256"
             ],
-            "Epson-T6641B,1-Year": [
+            "epson-t6641b,1-year": [
                   "1285"
             ],
-            "TN-2365-Standard-Toner": [
+            "tn-2365-standard-toner": [
                   "1329"
             ],
-            "HP-680-Black-Ink": [
+            "hp-680-black-ink": [
                   "1335",
                   "1530"
             ],
-            "Cartridge-925:-1600-Pages": [
+            "cartridge-925:-1600-pages": [
                   "1566",
                   "1569"
             ],
-            "T7741": [
+            "t7741": [
                   "1641"
             ]
       },
-      "Compatible-Colour-Cartridge": {
-            "HP-HP-680-Tri-Color-Ink": [
+      "compatible-colour-cartridge": {
+            "hp-hp-680-tri-color-ink": [
                   "1256",
                   "1530"
             ],
-            "HP-803-Small-Tri-color-Cartridge": [
+            "hp-803-small-tri-color-cartridge": [
                   "1299"
             ],
-            "CL-746XL,-CL-746,-CL-746S": [
+            "cl-746xl,-cl-746,-cl-746s": [
                   "1324"
             ],
-            "HP-680-Tri-Color-Ink": [
+            "hp-680-tri-color-ink": [
                   "1335"
             ]
       },
-      "Copy-Resolution-Colour": {
+      "copy-resolution-colour": {
             "600-x-300-dpi": [
                   "1256",
                   "1335",
@@ -4854,7 +4819,7 @@
                   "1618"
             ]
       },
-      "Copy-Resolution-Mono": {
+      "copy-resolution-mono": {
             "600-x-300-dpi": [
                   "1256",
                   "1335",
@@ -4887,7 +4852,7 @@
                   "1899"
             ]
       },
-      "Copy-Speed-Color": {
+      "copy-speed-color": {
             "3.5-cpm": [
                   "1256"
             ],
@@ -4927,7 +4892,7 @@
                   "1915"
             ]
       },
-      "Copy-speed-Mono": {
+      "copy-speed-mono": {
             "5-cpm": [
                   "1256",
                   "1335"
@@ -4965,12 +4930,12 @@
                   "1915"
             ]
       },
-      "Display": {
-            "7-Segment-and-Icon-LCD": [
+      "display": {
+            "7-segment-and-icon-lcd": [
                   "1256",
                   "1435"
             ],
-            "Single-Digit": [
+            "single-digit": [
                   "1257",
                   "1582",
                   "1614",
@@ -4984,7 +4949,7 @@
                   "1866",
                   "1899"
             ],
-            "1.2-inch-LCD-Screen": [
+            "1.2-inch-lcd-screen": [
                   "1263",
                   "1590",
                   "1620",
@@ -4998,13 +4963,13 @@
                   "1874",
                   "1906"
             ],
-            "16-Characters-x-1-Lines-LCD": [
+            "16-characters-x-1-lines-lcd": [
                   "1329"
             ],
-            "Button-and-LED-Control-Panel": [
+            "button-and-led-control-panel": [
                   "1335"
             ],
-            "7-Segment,-Icon-LCD": [
+            "7-segment,-icon-lcd": [
                   "1485",
                   "1599",
                   "1629",
@@ -5018,15 +4983,15 @@
                   "1883",
                   "1915"
             ],
-            "2.2-inch-Touch-Mono-Display": [
+            "2.2-inch-touch-mono-display": [
                   "1530"
             ],
-            "2---line-LCD-(Text)": [
+            "2---line-lcd-(text)": [
                   "1618"
             ]
       },
-      "Duplex-Print": {
-            "Manual": [
+      "duplex-print": {
+            "manual": [
                   "1256",
                   "1285",
                   "1299",
@@ -5048,15 +5013,15 @@
                   "1883",
                   "1915"
             ],
-            "Automatic": [
+            "automatic": [
                   "1329",
                   "1641"
             ],
-            "No": [
+            "no": [
                   "1332"
             ]
       },
-      "Duty-cycle-(monthly,-A4)": {
+      "duty-cycle-(monthly,-a4)": {
             "1000-pages": [
                   "1256",
                   "1299",
@@ -5078,6 +5043,7 @@
             ],
             "10000-pages": [
                   "1257",
+                  "1329",
                   "1582",
                   "1614",
                   "1644",
@@ -5097,10 +5063,7 @@
                   "1566",
                   "1569"
             ],
-            "10000-Pages": [
-                  "1329"
-            ],
-            "2500-Pages": [
+            "2500-pages": [
                   "1338",
                   "1422"
             ],
@@ -5139,7 +5102,7 @@
                   "1891",
                   "1894"
             ],
-            "15000-Pages": [
+            "15000-pages": [
                   "1615",
                   "1906"
             ],
@@ -5149,8 +5112,8 @@
                   "1709"
             ]
       },
-      "Fax-Retrieval": {
-            "No": [
+      "fax-retrieval": {
+            "no": [
                   "1256",
                   "1257",
                   "1324",
@@ -5167,7 +5130,7 @@
                   "1899"
             ]
       },
-      "First-Print-Out-Time-(Color)": {
+      "first-print-out-time-(color)": {
             "18-sec": [
                   "1256"
             ],
@@ -5194,7 +5157,7 @@
                   "1530"
             ]
       },
-      "First-Print-Out-Time-(Mono)": {
+      "first-print-out-time-(mono)": {
             "15-sec": [
                   "1256"
             ],
@@ -5231,7 +5194,7 @@
                   "1709"
             ]
       },
-      "Home-&-Small-Office": [
+      "home-&-small-office": [
             "1256",
             "1257",
             "1263",
@@ -5330,7 +5293,7 @@
             "1906",
             "1915"
       ],
-      "Input-tray-capacity": {
+      "input-tray-capacity": {
             "60-sheets": [
                   "1256",
                   "1335",
@@ -5338,32 +5301,30 @@
             ],
             "100-sheets": [
                   "1257",
-                  "1582",
-                  "1614",
-                  "1644",
-                  "1676",
-                  "1705",
-                  "1736",
-                  "1768",
-                  "1801",
-                  "1833",
-                  "1866",
-                  "1899"
-            ],
-            "100-Sheets": [
                   "1263",
                   "1272",
                   "1343",
+                  "1582",
                   "1590",
+                  "1614",
                   "1620",
+                  "1644",
                   "1651",
+                  "1676",
                   "1683",
+                  "1705",
                   "1711",
+                  "1736",
                   "1743",
+                  "1768",
                   "1776",
+                  "1801",
                   "1809",
+                  "1833",
                   "1841",
+                  "1866",
                   "1874",
+                  "1899",
                   "1906"
             ],
             "50-sheets": [
@@ -5394,14 +5355,14 @@
             "250-pages": [
                   "1329"
             ],
-            "250-Sheets": [
+            "250-sheets": [
                   "1615"
             ]
       },
-      "Standard": [
+      "standard": [
             "1256"
       ],
-      "Max-Print-Resolution-(Colour)": {
+      "max-print-resolution-(colour)": {
             "4800-x-1200-dpi": [
                   "1256",
                   "1257",
@@ -5438,14 +5399,14 @@
                   "1285",
                   "1343"
             ],
-            "4800X600-dpi": [
+            "4800x600-dpi": [
                   "1324"
             ],
             "4800-x-600-dpi": [
                   "1332"
             ]
       },
-      "Max-Print-Resolution-(Mono)": {
+      "max-print-resolution-(mono)": {
             "1200-x-1200-dpi": [
                   "1256",
                   "1299",
@@ -5497,7 +5458,7 @@
             "5760-x-1440-dpi": [
                   "1285"
             ],
-            "4800X600-dpi": [
+            "4800x600-dpi": [
                   "1324"
             ],
             "600-x-600-dpi": [
@@ -5505,7 +5466,7 @@
                   "1566",
                   "1569"
             ],
-            "4800-X-600-dpi": [
+            "4800-x-600-dpi": [
                   "1332"
             ],
             "1200-x-600-dpi": [
@@ -5515,7 +5476,7 @@
                   "1641"
             ]
       },
-      "Maximum-Copies": {
+      "maximum-copies": {
             "9-cpm": [
                   "1256",
                   "1335",
@@ -5547,94 +5508,37 @@
                   "1899"
             ]
       },
-      "Media-size-supported": {
-            "A4,-A6,-B5,-DL": [
+      "media-size-supported": {
+            "a4,-a6,-b5,-dl": [
                   "1256"
             ],
-            "A4,-A5,-A6,-B5,-DL,-C6": [
+            "a4,-a5,-a6,-b5,-dl,-c6": [
                   "1285"
             ],
-            "A4,-B5,-A6,-DL": [
+            "a4,-b5,-a6,-dl": [
                   "1299",
                   "1335"
             ],
-            "A4": [
+            "a4": [
                   "1324",
                   "1329",
                   "1332"
             ],
-            "A4,A6,-B5,-DL": [
+            "a4,a6,-b5,-dl": [
                   "1435"
             ],
-            "A4-,-B5-,-A6,-DL": [
+            "a4-,-b5-,-a6,-dl": [
                   "1530"
             ],
-            "A4,-A5,-B5,-C5,-DL": [
+            "a4,-a5,-b5,-c5,-dl": [
                   "1566",
                   "1569"
             ],
-            "A4,-A5,-A6,-B5,-C5,-DL,-B5": [
+            "a4,-a5,-a6,-b5,-c5,-dl,-b5": [
                   "1709"
             ]
       },
-      "Operating-Temperature-range": {
-            "15DegC---30DegC-degree-C": [
-                  "1256",
-                  "1299",
-                  "1335"
-            ],
-            "0-35-degree-C": [
-                  "1257",
-                  "1582",
-                  "1614",
-                  "1644",
-                  "1676",
-                  "1705",
-                  "1736",
-                  "1768",
-                  "1801",
-                  "1833",
-                  "1866",
-                  "1899"
-            ],
-            "5DegC---35DegC-degree-C": [
-                  "1324"
-            ],
-            "10---35-DegreeC": [
-                  "1338",
-                  "1422"
-            ],
-            "5-40-degree-C": [
-                  "1435"
-            ],
-            "5---40-DegreeC": [
-                  "1485",
-                  "1599",
-                  "1629",
-                  "1660",
-                  "1690",
-                  "1720",
-                  "1752",
-                  "1785",
-                  "1818",
-                  "1850",
-                  "1883",
-                  "1915"
-            ],
-            "10DegC---30DegC-degree-C": [
-                  "1566",
-                  "1569"
-            ],
-            "10---32-DegreeC": [
-                  "1615",
-                  "1906"
-            ],
-            "15DegC---32.5DegC-degree-C": [
-                  "1618",
-                  "1709"
-            ]
-      },
-      "Optical-scanning-resolution": {
+      "optical-scanning-resolution": {
             "1200-dpi": [
                   "1256",
                   "1530",
@@ -5680,7 +5584,7 @@
                   "1899",
                   "1906"
             ],
-            "600X1200-dpi": [
+            "600x1200-dpi": [
                   "1324"
             ],
             "500-dpi": [
@@ -5699,7 +5603,7 @@
                   "1615"
             ]
       },
-      "Output-tray-capacity": {
+      "output-tray-capacity": {
             "25-sheets": [
                   "1256",
                   "1299",
@@ -5708,32 +5612,30 @@
             ],
             "50-sheets": [
                   "1257",
-                  "1582",
-                  "1614",
-                  "1644",
-                  "1676",
-                  "1705",
-                  "1736",
-                  "1768",
-                  "1801",
-                  "1833",
-                  "1866",
-                  "1899"
-            ],
-            "50-Sheets": [
                   "1263",
                   "1338",
                   "1422",
+                  "1582",
                   "1590",
+                  "1614",
                   "1620",
+                  "1644",
                   "1651",
+                  "1676",
                   "1683",
+                  "1705",
                   "1711",
+                  "1736",
                   "1743",
+                  "1768",
                   "1776",
+                  "1801",
                   "1809",
+                  "1833",
                   "1841",
+                  "1866",
                   "1874",
+                  "1899",
                   "1906"
             ],
             "30-sheets": [
@@ -5761,11 +5663,11 @@
                   "1915"
             ]
       },
-      "Output-tray-type": {
+      "output-tray-type": {
             "25": [
                   "1256"
             ],
-            "Face-Down": [
+            "face-down": [
                   "1257",
                   "1324",
                   "1566",
@@ -5784,11 +5686,11 @@
                   "1899"
             ]
       },
-      "Part-Number": {
-            "K4U05B#ACJ": [
+      "part-number": {
+            "k4u05b#acj": [
                   "1256"
             ],
-            "2315C023AA": [
+            "2315c023aa": [
                   "1263",
                   "1590",
                   "1620",
@@ -5802,32 +5704,32 @@
                   "1874",
                   "1906"
             ],
-            "C11CG87504": [
+            "c11cg87504": [
                   "1272"
             ],
-            "CC418A#ACJ": [
+            "cc418a#acj": [
                   "1324"
             ],
-            "HL-L2321D": [
+            "hl-l2321d": [
                   "1329"
             ],
-            "C11CG88504": [
+            "c11cg88504": [
                   "1343"
             ],
-            "M2U88B#ACJ": [
+            "m2u88b#acj": [
                   "1400"
             ],
-            "Z6Z95A": [
+            "z6z95a": [
                   "1485"
             ],
-            "F5R96B#ACJ": [
+            "f5r96b#acj": [
                   "1530"
             ],
-            "8468B010AA": [
+            "8468b010aa": [
                   "1566",
                   "1569"
             ],
-            "4QD21A#ACJ": [
+            "4qd21a#acj": [
                   "1570",
                   "1602",
                   "1632",
@@ -5840,7 +5742,7 @@
                   "1853",
                   "1886"
             ],
-            "4RY22A#ACJ": [
+            "4ry22a#acj": [
                   "1574",
                   "1607",
                   "1640",
@@ -5853,7 +5755,7 @@
                   "1861",
                   "1894"
             ],
-            "4RY26A#ACJ": [
+            "4ry26a#acj": [
                   "1577",
                   "1609",
                   "1637",
@@ -5866,7 +5768,7 @@
                   "1858",
                   "1891"
             ],
-            "Z6Z11A": [
+            "z6z11a": [
                   "1599",
                   "1629",
                   "1660",
@@ -5879,18 +5781,18 @@
                   "1883",
                   "1915"
             ],
-            "CZ175A#ACJ": [
+            "cz175a#acj": [
                   "1618"
             ],
-            "4ZB80A#ACJ": [
+            "4zb80a#acj": [
                   "1688"
             ],
-            "CE655A#ACJ": [
+            "ce655a#acj": [
                   "1709"
             ]
       },
-      "Power-consumption-(active)": {
-            "10-W": [
+      "power-consumption-(active)": {
+            "10-w": [
                   "1256",
                   "1299",
                   "1335",
@@ -5908,7 +5810,7 @@
                   "1883",
                   "1915"
             ],
-            "11-W": [
+            "11-w": [
                   "1257",
                   "1582",
                   "1614",
@@ -5922,41 +5824,41 @@
                   "1866",
                   "1899"
             ],
-            "12-W": [
+            "12-w": [
                   "1272",
                   "1343"
             ],
-            "9-W": [
+            "9-w": [
                   "1285"
             ],
-            "250-W": [
+            "250-w": [
                   "1324"
             ],
-            "537-W": [
+            "537-w": [
                   "1329"
             ],
-            "3-W": [
+            "3-w": [
                   "1338"
             ],
-            "2.5-W": [
+            "2.5-w": [
                   "1422"
             ],
-            "320-W": [
+            "320-w": [
                   "1566",
                   "1569"
             ],
-            "48-W": [
+            "48-w": [
                   "1615"
             ],
-            "360-W": [
+            "360-w": [
                   "1709"
             ],
-            "455-W": [
+            "455-w": [
                   "1906"
             ]
       },
-      "Power-consumption-(manual-off)": {
-            "0.07-W": [
+      "power-consumption-(manual-off)": {
+            "0.07-w": [
                   "1256",
                   "1435",
                   "1485",
@@ -5972,7 +5874,7 @@
                   "1883",
                   "1915"
             ],
-            "0.4-W": [
+            "0.4-w": [
                   "1257",
                   "1324",
                   "1582",
@@ -5987,29 +5889,29 @@
                   "1866",
                   "1899"
             ],
-            "0.3-W": [
+            "0.3-w": [
                   "1272",
                   "1285",
                   "1343"
             ],
-            "0.1-W": [
+            "0.1-w": [
                   "1299",
                   "1335"
             ],
-            "0.2-W": [
+            "0.2-w": [
                   "1338",
                   "1422"
             ],
-            "0.03-W": [
+            "0.03-w": [
                   "1615",
                   "1906"
             ],
-            "0.6-W": [
+            "0.6-w": [
                   "1709"
             ]
       },
-      "Power-consumption-(standby)": {
-            "2.1-W": [
+      "power-consumption-(standby)": {
+            "2.1-w": [
                   "1256",
                   "1435",
                   "1485",
@@ -6025,7 +5927,7 @@
                   "1883",
                   "1915"
             ],
-            "0.8-W": [
+            "0.8-w": [
                   "1257",
                   "1582",
                   "1614",
@@ -6039,36 +5941,36 @@
                   "1866",
                   "1899"
             ],
-            "3.9-W": [
+            "3.9-w": [
                   "1272",
                   "1343"
             ],
-            "2.2-W": [
+            "2.2-w": [
                   "1285"
             ],
-            "1.3-W": [
+            "1.3-w": [
                   "1299"
             ],
-            "1-W": [
+            "1-w": [
                   "1324"
             ],
-            "1.9-W": [
+            "1.9-w": [
                   "1335"
             ],
-            "1.4-W": [
+            "1.4-w": [
                   "1709"
             ],
-            "42-W": [
+            "42-w": [
                   "1906"
             ]
       },
-      "Power-requirements": {
-            "AC-200---240-V,-50/60-Hz": [
+      "power-requirements": {
+            "ac-200---240-v,-50/60-hz": [
                   "1256",
                   "1299",
                   "1335"
             ],
-            "200-to-240-V,-50/60-Hz": [
+            "200-to-240-v,-50/60-hz": [
                   "1257",
                   "1582",
                   "1614",
@@ -6082,34 +5984,34 @@
                   "1866",
                   "1899"
             ],
-            "AC-220---240-V,-50/60-Hz": [
+            "ac-220---240-v,-50/60-hz": [
                   "1272",
                   "1338",
                   "1343",
                   "1422",
                   "1615"
             ],
-            "100-to-240-V,-50/60-Hz": [
+            "100-to-240-v,-50/60-hz": [
                   "1285"
             ],
-            "AC-100---240V,-50-/-60Hz": [
+            "ac-100---240v,-50-/-60hz": [
                   "1324"
             ],
-            "220-to-240-V,-50/60-Hz": [
+            "220-to-240-v,-50/60-hz": [
                   "1566",
                   "1569"
             ],
-            "AC-100-240V,-50~60-Hz": [
+            "ac-100-240v,-50~60-hz": [
                   "1641"
             ],
-            "115-to-240-V,-50/60-Hz": [
+            "115-to-240-v,-50/60-hz": [
                   "1709"
             ],
-            "AC-220---240-V,-50---60-Hz": [
+            "ac-220---240-v,-50---60-hz": [
                   "1906"
             ]
       },
-      "Print-Speed-Color": {
+      "print-speed-color": {
             "5.5-ppm": [
                   "1256"
             ],
@@ -6180,7 +6082,7 @@
                   "1332"
             ]
       },
-      "Print-Speed-Mono": {
+      "print-speed-mono": {
             "20": [
                   "1256"
             ],
@@ -6302,7 +6204,7 @@
                   "1641"
             ]
       },
-      "Inkjet": [
+      "inkjet": [
             "1256",
             "1257",
             "1263",
@@ -6366,7 +6268,7 @@
             "1906",
             "1915"
       ],
-      "Color": [
+      "color": [
             "1256",
             "1257",
             "1263",
@@ -6429,7 +6331,7 @@
             "1906",
             "1915"
       ],
-      "Ink-Cartridge": [
+      "ink-cartridge": [
             "1256",
             "1299",
             "1324",
@@ -6439,7 +6341,7 @@
             "1435",
             "1530"
       ],
-      "Contact-Image-Sensor-(CIS)": [
+      "contact-image-sensor-(cis)": [
             "1256",
             "1257",
             "1324",
@@ -6470,7 +6372,7 @@
             "1899",
             "1915"
       ],
-      "Flatbed": [
+      "flatbed": [
             "1256",
             "1257",
             "1324",
@@ -6502,7 +6404,7 @@
             "1899",
             "1915"
       ],
-      "Scan-area-size": {
+      "scan-area-size": {
             "216-x-297-mm": [
                   "1256",
                   "1257",
@@ -6535,9 +6437,21 @@
                   "1883",
                   "1899",
                   "1915"
+            ],
+            "15.24-mm-x-20.32-mm-mm": [
+                  "1334"
+            ],
+            "81.28-x-76.2-mm": [
+                  "1342"
+            ],
+            "500-dpi-mm": [
+                  "1390"
+            ],
+            "2x2x2": [
+                  "1432"
             ]
       },
-      "Multi-function": [
+      "multi-function": [
             "1256",
             "1257",
             "1263",
@@ -6621,8 +6535,8 @@
             "1906",
             "1915"
       ],
-      "USB-support": {
-            "USB-2.0": [
+      "usb-support": {
+            "usb-2.0": [
                   "1256",
                   "1257",
                   "1263",
@@ -6694,20 +6608,18 @@
                   "1906",
                   "1915"
             ],
-            "YES": [
-                  "1334"
-            ],
-            "Yes": [
+            "yes": [
+                  "1334",
                   "1342"
             ],
-            "USB-Support": [
+            "usb-support": [
                   "1390"
             ],
             "2.0": [
                   "1432"
             ]
       },
-      "Google-Assistant-and-Alexa": [
+      "google-assistant-and-alexa": [
             "1256",
             "1359",
             "1400",
@@ -6727,8 +6639,8 @@
             "1869",
             "1902"
       ],
-      "Wireless-Support": {
-            "Yes": [
+      "wireless-support": {
+            "yes": [
                   "1256",
                   "1263",
                   "1338",
@@ -6751,7 +6663,7 @@
                   "1874",
                   "1906"
             ],
-            "No": [
+            "no": [
                   "1257",
                   "1272",
                   "1285",
@@ -6805,8 +6717,8 @@
                   "1915"
             ]
       },
-      "Auto-Dial": {
-            "No": [
+      "auto-dial": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -6821,8 +6733,8 @@
                   "1899"
             ]
       },
-      "Auto-Document-Feeder": {
-            "No": [
+      "auto-document-feeder": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -6836,11 +6748,11 @@
                   "1866",
                   "1899"
             ],
-            "Yes,-35-Sheets": [
+            "yes,-35-sheets": [
                   "1530"
             ]
       },
-      "Bit-depth-Mono": {
+      "bit-depth-mono": {
             "16-bit": [
                   "1257",
                   "1582",
@@ -6860,7 +6772,7 @@
                   "1618"
             ]
       },
-      "Broadcasting-Locations": {
+      "broadcasting-locations": {
             "0": [
                   "1257",
                   "1582",
@@ -6876,7 +6788,7 @@
                   "1899"
             ]
       },
-      "Copier-resize": {
+      "copier-resize": {
             "1": [
                   "1257",
                   "1582",
@@ -6895,8 +6807,8 @@
                   "1530"
             ]
       },
-      "Dual-Access": {
-            "No": [
+      "dual-access": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -6911,8 +6823,8 @@
                   "1899"
             ]
       },
-      "Ethernet-Support": {
-            "No": [
+      "ethernet-support": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -6927,8 +6839,8 @@
                   "1899"
             ]
       },
-      "Fax-Forwarding": {
-            "No": [
+      "fax-forwarding": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -6943,8 +6855,8 @@
                   "1899"
             ]
       },
-      "Fax-delayed-sending": {
-            "No": [
+      "fax-delayed-sending": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -6959,7 +6871,7 @@
                   "1899"
             ]
       },
-      "First-Copy-Out-Time": {
+      "first-copy-out-time": {
             "32-sec": [
                   "1257",
                   "1582",
@@ -6975,7 +6887,7 @@
                   "1899"
             ]
       },
-      "Print,-Copy,-Scan": [
+      "print,-copy,-scan": [
             "1257",
             "1324",
             "1338",
@@ -7007,7 +6919,7 @@
             "1899",
             "1915"
       ],
-      "Group-Dials": {
+      "group-dials": {
             "0-groups": [
                   "1257",
                   "1582",
@@ -7023,8 +6935,8 @@
                   "1899"
             ]
       },
-      "Hard-Drive": {
-            "1.0-GB-Free-Hard-Disk-Space": [
+      "hard-drive": {
+            "1.0-gb-free-hard-disk-space": [
                   "1257",
                   "1582",
                   "1614",
@@ -7038,14 +6950,14 @@
                   "1866",
                   "1899"
             ],
-            "120-MB-free-hard-disk-space": [
+            "120-mb-free-hard-disk-space": [
                   "1324"
             ],
-            "350-MB-Free-Hard-Disk-Space": [
+            "350-mb-free-hard-disk-space": [
                   "1709"
             ]
       },
-      "Paper-Cassette": [
+      "paper-cassette": [
             "1257",
             "1582",
             "1614",
@@ -7059,8 +6971,8 @@
             "1866",
             "1899"
       ],
-      "Internal-Memory": {
-            "16-MB": [
+      "internal-memory": {
+            "16-mb": [
                   "1257",
                   "1582",
                   "1614",
@@ -7074,19 +6986,19 @@
                   "1866",
                   "1899"
             ],
-            "2-MB": [
+            "2-mb": [
                   "1324",
                   "1709"
             ],
-            "8-MB": [
+            "8-mb": [
                   "1329"
             ],
-            "32-MB": [
+            "32-mb": [
                   "1566",
                   "1569"
             ]
       },
-      "Interpolated-scanning-resolution": {
+      "interpolated-scanning-resolution": {
             "25-x-19200-dpi": [
                   "1257",
                   "1582",
@@ -7106,7 +7018,7 @@
                   "1422"
             ]
       },
-      "Maximum-Multicopy": {
+      "maximum-multicopy": {
             "21-pages": [
                   "1257",
                   "1582",
@@ -7121,11 +7033,11 @@
                   "1866",
                   "1899"
             ],
-            "99-Pages": [
+            "99-pages": [
                   "1906"
             ]
       },
-      "Labels,-Paper,-Envelopes": [
+      "labels,-paper,-envelopes": [
             "1257",
             "1582",
             "1614",
@@ -7139,8 +7051,8 @@
             "1866",
             "1899"
       ],
-      "Memory": {
-            "16-MB-Ram": [
+      "memory": {
+            "16-mb-ram": [
                   "1257",
                   "1582",
                   "1614",
@@ -7154,7 +7066,7 @@
                   "1866",
                   "1899"
             ],
-            "Integrated": [
+            "integrated": [
                   "1485",
                   "1599",
                   "1629",
@@ -7169,7 +7081,7 @@
                   "1915"
             ]
       },
-      "Memory-Capacity": {
+      "memory-capacity": {
             "0-pages": [
                   "1257",
                   "1582",
@@ -7184,20 +7096,20 @@
                   "1866",
                   "1899"
             ],
-            "128-MB": [
+            "128-mb": [
                   "1338",
                   "1422"
             ],
-            "256-MB": [
+            "256-mb": [
                   "1400"
             ],
-            "64-MB": [
+            "64-mb": [
                   "1615",
                   "1906"
             ]
       },
-      "Model-Series": {
-            "Refillable-Ink-Tank-All-In-One": [
+      "model-series": {
+            "refillable-ink-tank-all-in-one": [
                   "1257",
                   "1582",
                   "1614",
@@ -7211,43 +7123,41 @@
                   "1866",
                   "1899"
             ],
-            "EcoTank": [
+            "ecotank": [
                   "1272",
                   "1343"
             ],
-            "Deskjet": [
+            "deskjet": [
                   "1299"
             ],
-            "Pixma": [
-                  "1324"
-            ],
-            "PIXMA": [
+            "pixma": [
+                  "1324",
                   "1332"
             ],
-            "DCP": [
+            "dcp": [
                   "1338",
                   "1422"
             ],
-            "Laser-Shot": [
+            "laser-shot": [
                   "1376"
             ],
-            "Multi-function": [
+            "multi-function": [
                   "1400"
             ],
-            "DeskJet-Ink-Advantage-Ultra-4729": [
+            "deskjet-ink-advantage-ultra-4729": [
                   "1435"
             ],
-            "M-Series": [
+            "m-series": [
                   "1641"
             ],
-            "LaserJet-Pro": [
+            "laserjet-pro": [
                   "1709"
             ],
-            "NA": [
+            "na": [
                   "1906"
             ]
       },
-      "Modem-Speed": {
+      "modem-speed": {
             "0-kbps": [
                   "1257",
                   "1582",
@@ -7263,7 +7173,7 @@
                   "1899"
             ]
       },
-      "Multipurpose-tray-capacity": {
+      "multipurpose-tray-capacity": {
             "1-sheets": [
                   "1257",
                   "1582",
@@ -7282,7 +7192,7 @@
                   "1329"
             ]
       },
-      "Print-speed-Photo-(10-x-15)": {
+      "print-speed-photo-(10-x-15)": {
             "60-sec": [
                   "1257",
                   "1263",
@@ -7320,8 +7230,8 @@
                   "1641"
             ]
       },
-      "Printer-Languages": {
-            "English": [
+      "printer-languages": {
+            "english": [
                   "1257",
                   "1582",
                   "1614",
@@ -7335,11 +7245,11 @@
                   "1866",
                   "1899"
             ],
-            "ESC-/-P-R": [
+            "esc-/-p-r": [
                   "1272",
                   "1343"
             ],
-            "HP-PCL-3-GUI": [
+            "hp-pcl-3-gui": [
                   "1299",
                   "1335",
                   "1435",
@@ -7356,20 +7266,20 @@
                   "1883",
                   "1915"
             ],
-            "Host-Based": [
+            "host-based": [
                   "1324",
                   "1709"
             ],
-            "HP-PCL-3-GUI,-PCLm,-URF": [
+            "hp-pcl-3-gui,-pclm,-urf": [
                   "1530"
             ],
-            "UFR-II-LT": [
+            "ufr-ii-lt": [
                   "1566",
                   "1569"
             ]
       },
-      "Processor": {
-            "200-MHz-ARM9-Processor": [
+      "processor": {
+            "200-mhz-arm9-processor": [
                   "1257",
                   "1582",
                   "1614",
@@ -7384,7 +7294,7 @@
                   "1899"
             ]
       },
-      "Ink-Bottle": [
+      "ink-bottle": [
             "1257",
             "1263",
             "1272",
@@ -7440,8 +7350,8 @@
             "1906",
             "1915"
       ],
-      "Remote-Reception": {
-            "No": [
+      "remote-reception": {
+            "no": [
                   "1257",
                   "1582",
                   "1614",
@@ -7456,7 +7366,7 @@
                   "1899"
             ]
       },
-      "Resolution": {
+      "resolution": {
             "0-dpi": [
                   "1257",
                   "1582",
@@ -7478,23 +7388,19 @@
                   "1649"
             ],
             "na": [
-                  "1285"
+                  "1285",
+                  "1377",
+                  "1485"
             ],
             "5760-x-1440-dpi": [
                   "1343"
-            ],
-            "Na": [
-                  "1377"
-            ],
-            "NA": [
-                  "1485"
             ],
             "600-x-600-dpi": [
                   "1615",
                   "1906"
             ]
       },
-      "Scanning-Speed-Colour": {
+      "scanning-speed-colour": {
             "19-sec": [
                   "1257",
                   "1582",
@@ -7518,7 +7424,7 @@
                   "1332"
             ]
       },
-      "Scanning-Speed-Mono": {
+      "scanning-speed-mono": {
             "19-sec": [
                   "1257",
                   "1582",
@@ -7538,7 +7444,7 @@
                   "1343"
             ]
       },
-      "Speed-Dials-Memory": {
+      "speed-dials-memory": {
             "0-numbers": [
                   "1257",
                   "1582",
@@ -7554,7 +7460,7 @@
                   "1899"
             ]
       },
-      "Standby-Noise-Level": {
+      "standby-noise-level": {
             "5": [
                   "1257",
                   "1582",
@@ -7574,14 +7480,18 @@
                   "1709"
             ]
       },
-      "NA": [
+      "na": [
             "1257",
             "1263",
+            "1281",
+            "1285",
             "1299",
             "1324",
             "1332",
             "1335",
             "1376",
+            "1377",
+            "1420",
             "1566",
             "1569",
             "1570",
@@ -7654,7 +7564,7 @@
             "1906",
             "1915"
       ],
-      "Scan,-Print,-Copy": [
+      "scan,-print,-copy": [
             "1263",
             "1272",
             "1400",
@@ -7670,8 +7580,8 @@
             "1874",
             "1906"
       ],
-      "Domestic-Warranty": {
-            "1-Year": [
+      "domestic-warranty": {
+            "1-year": [
                   "1266",
                   "1323",
                   "1420",
@@ -7683,7 +7593,7 @@
                   "1851",
                   "1904"
             ],
-            "1-Months": [
+            "1-months": [
                   "1279",
                   "1299",
                   "1319",
@@ -7755,7 +7665,7 @@
                   "1890",
                   "1912"
             ],
-            "0-Months": [
+            "0-months": [
                   "1289",
                   "1438",
                   "1454",
@@ -7770,7 +7680,7 @@
                   "1843",
                   "1891"
             ],
-            "6-Months": [
+            "6-months": [
                   "1295",
                   "1563",
                   "1671",
@@ -7778,14 +7688,14 @@
                   "1754",
                   "1859"
             ],
-            "2-Months": [
+            "2-months": [
                   "1324",
                   "1423",
                   "1825",
                   "1834",
                   "1900"
             ],
-            "1-Month": [
+            "1-month": [
                   "1348",
                   "1376",
                   "1403",
@@ -7799,60 +7709,55 @@
                   "1689",
                   "1693"
             ],
-            "2-Year": [
+            "2-year": [
                   "1354",
                   "1453",
                   "1749"
             ],
-            "3-Month": [
+            "3-month": [
                   "1375"
             ],
-            "0-Year": [
+            "0-year": [
                   "1421"
             ]
       },
-      "Covered-in-Warranty": {
-            "NA": [
+      "covered-in-warranty": {
+            "na": [
                   "1271",
+                  "1281",
+                  "1285",
+                  "1377",
+                  "1420",
                   "1739"
             ],
-            "Na": [
-                  "1281",
-                  "1377",
-                  "1420"
-            ],
-            "na": [
-                  "1285"
-            ],
-            "No": [
+            "no": [
                   "1289",
+                  "1438",
                   "1454",
                   "1551",
                   "1684",
+                  "1724",
                   "1788",
                   "1838",
                   "1843"
             ],
-            "Covers-all-manufacturing-defects": [
+            "covers-all-manufacturing-defects": [
                   "1292",
                   "1898"
             ],
-            "All-items": [
+            "all-items": [
                   "1376",
                   "1403",
                   "1417",
+                  "1619",
                   "1679",
                   "1689"
             ],
-            "NO_RETURN_APPLICABLE": [
+            "no_return_applicable": [
                   "1396",
                   "1628"
             ],
-            "no": [
-                  "1438",
-                  "1724"
-            ],
-            "GERENTED": [
+            "gerented": [
                   "1442"
             ],
             "all-iterms": [
@@ -7860,23 +7765,23 @@
             ],
             "manufacturer-defects": [
                   "1485",
+                  "1490",
                   "1609"
             ],
-            "Manufacturer-Defects": [
-                  "1490"
-            ],
-            "NO-RETURNS-APPLICABLE": [
+            "no-returns-applicable": [
                   "1493",
                   "1858",
                   "1907"
             ],
             "manufacturing-defects": [
-                  "1533"
+                  "1533",
+                  "1649",
+                  "1734"
             ],
-            "Manufacture-defective": [
+            "manufacture-defective": [
                   "1555"
             ],
-            "Warranty-For-Ink-&-Tools": [
+            "warranty-for-ink-&-tools": [
                   "1577",
                   "1650",
                   "1693"
@@ -7884,14 +7789,7 @@
             "not-mention": [
                   "1613"
             ],
-            "all-items": [
-                  "1619"
-            ],
-            "Manufacturing-Defects": [
-                  "1649",
-                  "1734"
-            ],
-            "Not-covered-in-Warranty": [
+            "not-covered-in-warranty": [
                   "1808"
             ],
             "all-parts": [
@@ -7901,21 +7799,18 @@
                   "1869"
             ]
       },
-      "Not-Covered-in-Warranty": {
-            "NA": [
+      "not-covered-in-warranty": {
+            "na": [
                   "1271",
+                  "1281",
+                  "1285",
+                  "1377",
+                  "1420",
                   "1739"
             ],
-            "Na": [
-                  "1281",
-                  "1377",
-                  "1420"
-            ],
-            "na": [
-                  "1285"
-            ],
-            "Yes": [
+            "yes": [
                   "1289",
+                  "1438",
                   "1454",
                   "1551",
                   "1684",
@@ -7924,17 +7819,14 @@
                   "1838",
                   "1843"
             ],
-            "HP-802-Combo-Pack-Ink": [
+            "hp-802-combo-pack-ink": [
                   "1290"
             ],
-            "Nill": [
+            "nill": [
                   "1381"
             ],
-            "No-Returns-Applicable": [
+            "no-returns-applicable": [
                   "1421"
-            ],
-            "yes": [
-                  "1438"
             ],
             "not-mention": [
                   "1613"
@@ -7942,351 +7834,349 @@
             "no-return": [
                   "1644"
             ],
-            "Physical-Damage-not-covered": [
+            "physical-damage-not-covered": [
                   "1649"
             ]
       },
-      "CIS": [
+      "cis": [
             "1272",
             "1343"
       ],
-      "Flatbed-Color-Image-Scanner": [
+      "flatbed-color-image-scanner": [
             "1272",
             "1343"
       ],
-      "Compatible-With": {
-            "Printer": [
+      "compatible-with": {
+            "printer": [
                   "1273",
-                  "1364"
+                  "1364",
+                  "1439",
+                  "1615"
             ],
-            "HP,-CANON,-SAMSUNG,-BROTHER": [
+            "hp,-canon,-samsung,-brother": [
                   "1284"
             ],
-            "HP-PRINTERS": [
+            "hp-printers": [
                   "1299",
                   "1319",
                   "1457",
                   "1460",
                   "1593"
             ],
-            "G-printer": [
+            "g-printer": [
                   "1309"
             ],
-            "Epson-L805-Ink-Tank-Printer": [
+            "epson-l805-ink-tank-printer": [
                   "1312"
             ],
-            "Brother,-Canon,-Samsung,-HP": [
+            "brother,-canon,-samsung,-hp": [
                   "1316"
             ],
-            "All-cartridge-inkjet-printers": [
+            "all-cartridge-inkjet-printers": [
                   "1321",
                   "1329"
             ],
-            "Epson-M200,-Epson-Printer-M100": [
+            "epson-m200,-epson-printer-m100": [
                   "1323"
             ],
             "hp-ink": [
                   "1325"
             ],
-            "Epson-M1100,-M1120,-M2140": [
+            "epson-m1100,-m1120,-m2140": [
                   "1328"
             ],
-            "Canon-PG-740-ink-cartridge": [
+            "canon-pg-740-ink-cartridge": [
                   "1337"
             ],
-            "Epson-L800,L805,L810,L850": [
+            "epson-l800,l805,l810,l850": [
                   "1345",
                   "1361"
             ],
-            "HP-1020": [
+            "hp-1020": [
                   "1347"
             ],
-            "HP-LaserJet-1020-Plus-Printer": [
+            "hp-laserjet-1020-plus-printer": [
                   "1348",
                   "1800"
             ],
-            "All-Type-Inkjet-Printers": [
+            "all-type-inkjet-printers": [
                   "1360",
                   "1635"
             ],
-            "Canon-PG-47-ink-cartridge": [
+            "canon-pg-47-ink-cartridge": [
                   "1363"
             ],
-            "HP-803-black-cartridge": [
+            "hp-803-black-cartridge": [
                   "1376"
             ],
-            "HP-,-Canon-,-Epson": [
+            "hp-,-canon-,-epson": [
                   "1377",
                   "1410",
                   "1501",
                   "1512"
             ],
-            "Canon": [
+            "canon": [
                   "1390",
                   "1391"
             ],
-            "Canon-E510,-Canon-E610": [
+            "canon-e510,-canon-e610": [
                   "1393"
             ],
-            "HP-CF218A-Laserjet-Pro": [
+            "hp-cf218a-laserjet-pro": [
                   "1395"
             ],
-            "HP-901-Black-cartridge": [
+            "hp-901-black-cartridge": [
                   "1403"
             ],
-            "Canon-PG-745-cartridge": [
+            "canon-pg-745-cartridge": [
                   "1417"
             ],
             "black-&-color-cartridge-filling": [
                   "1423",
                   "1900"
             ],
-            "Printers": [
+            "printers": [
                   "1432"
             ],
-            "printer": [
-                  "1439",
-                  "1615"
-            ],
-            "Canon-57-colour-ink-cartridge": [
+            "canon-57-colour-ink-cartridge": [
                   "1444"
             ],
-            "Photo-Quality-Ink-Refill": [
+            "photo-quality-ink-refill": [
                   "1448"
             ],
-            "HP-678/818/802": [
+            "hp-678/818/802": [
                   "1450"
             ],
-            "HP-deskjet-printers": [
+            "hp-deskjet-printers": [
                   "1466",
                   "1482"
             ],
-            "Canon-ink-cartridge": [
+            "canon-ink-cartridge": [
                   "1489",
                   "1658"
             ],
-            "Canon-98-colour-ink-cartridge": [
+            "canon-98-colour-ink-cartridge": [
                   "1499"
             ],
-            "Canon-ImageClass-MF244dw": [
+            "canon-imageclass-mf244dw": [
                   "1502"
             ],
-            "HP-LaserJet-3030": [
+            "hp-laserjet-3030": [
                   "1511"
             ],
-            "HP-LaserJet-1015-Printer-fzb": [
+            "hp-laserjet-1015-printer-fzb": [
                   "1513"
             ],
-            "12A": [
+            "12a": [
                   "1514"
             ],
             "hp-818-ink-cartridge-refilling": [
                   "1516"
             ],
-            "HP-inkjet-printer": [
+            "hp-inkjet-printer": [
                   "1521",
                   "1523",
                   "1617",
                   "1879"
             ],
-            "J-430-/625-/6510": [
+            "j-430-/625-/6510": [
                   "1526"
             ],
-            "Ricoh-Aficio-MP2014-Photocopier": [
+            "ricoh-aficio-mp2014-photocopier": [
                   "1533"
             ],
-            "M436n-MFP,-M436nda-MFP": [
+            "m436n-mfp,-m436nda-mfp": [
                   "1535"
             ],
-            "EP-L3100/L3101/L3110/L3150": [
+            "ep-l3100/l3101/l3110/l3150": [
                   "1537"
             ],
-            "HP-LaserJet-1012-Printer": [
+            "hp-laserjet-1012-printer": [
                   "1540"
             ],
-            "ALL-INKJET-PRINTERS": [
+            "all-inkjet-printers": [
                   "1554"
             ],
-            "EPSON-L380-PRINTER": [
+            "epson-l380-printer": [
                   "1556"
             ],
-            "SL-K2200,-SL-K2200ND": [
+            "sl-k2200,-sl-k2200nd": [
                   "1564"
             ],
-            "Epson-Printers-L210": [
+            "epson-printers-l210": [
                   "1568",
                   "1571"
             ],
-            "Canon-811-color-cartridge": [
+            "canon-811-color-cartridge": [
                   "1577"
             ],
-            "Epson": [
+            "epson": [
                   "1578"
             ],
             "hp-818-ink-cartridge": [
                   "1589"
             ],
-            "All-Inkjet-Printer": [
+            "all-inkjet-printer": [
                   "1590"
             ],
-            "USED-IN-XEX-3119": [
+            "used-in-xex-3119": [
                   "1597"
             ],
-            "All-Canon-Cartridges": [
+            "all-canon-cartridges": [
                   "1599"
             ],
-            "Canon-PG-89-ink-cartridge": [
+            "canon-pg-89-ink-cartridge": [
                   "1606"
             ],
-            "USED-IN-SCX-4200": [
+            "used-in-scx-4200": [
                   "1609"
             ],
-            "Ricoh-SP-300dn-Series-Printer": [
+            "ricoh-sp-300dn-series-printer": [
                   "1612"
             ],
             "canen": [
                   "1613"
             ],
-            "Canon-CL-98-Cartridge": [
+            "canon-cl-98-cartridge": [
                   "1619"
             ],
-            "Epson-printers": [
+            "epson-printers": [
                   "1623",
                   "1637"
             ],
-            "compatible-with-HP": [
+            "compatible-with-hp": [
                   "1629"
             ],
-            "ImageCLASS-LBP6030B": [
+            "imageclass-lbp6030b": [
                   "1633"
             ],
-            "Epson-Ink-Tank-L3110": [
+            "epson-ink-tank-l3110": [
                   "1643"
             ],
-            "Canon-PIXMA-E-560-Printer": [
+            "canon-pixma-e-560-printer": [
                   "1644"
             ],
-            "All-Pixma-Model": [
+            "all-pixma-model": [
                   "1646"
             ],
             "hp-803-ink-cartridge": [
                   "1648"
             ],
-            "Canon-PG-740-cartridge": [
+            "canon-pg-740-cartridge": [
                   "1650"
             ],
-            "Canon-PIXMA-E-560-Printers": [
+            "canon-pixma-e-560-printers": [
                   "1656"
             ],
-            "HP-Deskjet-GT-Series-Printers": [
+            "hp-deskjet-gt-series-printers": [
                   "1666"
             ],
-            "Sp1000": [
+            "sp1000": [
                   "1668"
             ],
-            "HP-901-color-cartridge": [
+            "hp-901-color-cartridge": [
                   "1679"
             ],
-            "HP-703-Black-cartridge": [
+            "hp-703-black-cartridge": [
                   "1689"
             ],
-            "Canon-CL-831-cartridge": [
+            "canon-cl-831-cartridge": [
                   "1693"
             ],
-            "Canon-PG-40-ink-cartridge": [
+            "canon-pg-40-ink-cartridge": [
                   "1711"
             ],
-            "REFILL-INK-FOR-HP-GT-SERIES": [
+            "refill-ink-for-hp-gt-series": [
                   "1718"
             ],
-            "YES": [
+            "yes": [
                   "1728"
             ],
-            "Epson-L-Series-Printers": [
+            "epson-l-series-printers": [
                   "1733"
             ],
-            "ALL-EPSON-PRINTERS": [
+            "all-epson-printers": [
                   "1746"
             ],
-            "Inktoners": [
+            "inktoners": [
                   "1749"
             ],
-            "Inkjet-Printers": [
+            "inkjet-printers": [
                   "1772"
             ],
-            "EP-L3112-SERIES": [
+            "ep-l3112-series": [
                   "1777"
             ],
-            "70ML-BLACK-PACKOF4-001": [
+            "70ml-black-packof4-001": [
                   "1782"
             ],
-            "EP-L3100": [
+            "ep-l3100": [
                   "1784"
             ],
-            "Premium-Drum-For-Samsung-ML-1666": [
+            "premium-drum-for-samsung-ml-1666": [
                   "1787"
             ],
-            "CN-PIXMA-G1000,G1010,G1100": [
+            "cn-pixma-g1000,g1010,g1100": [
                   "1797"
             ],
-            "HP": [
+            "hp": [
                   "1798"
             ],
-            "Epson-L4150,L4160,6150,6160,6190": [
+            "epson-l4150,l4160,6150,6160,6190": [
                   "1818",
                   "1821"
             ],
-            "EP-L4150-Ink-Tank-Printer": [
+            "ep-l4150-ink-tank-printer": [
                   "1823"
             ],
-            "PG-745XL-Black-&-CL-746XL-Color": [
+            "pg-745xl-black-&-cl-746xl-color": [
                   "1828"
             ],
-            "Epson-T673": [
+            "epson-t673": [
                   "1830"
             ],
             "hp-46": [
                   "1832"
             ],
-            "mlt-707-TONER-CARTRIDGE": [
+            "mlt-707-toner-cartridge": [
                   "1837"
             ],
-            "HP-Desk-jet-5810,5820": [
+            "hp-desk-jet-5810,5820": [
                   "1843"
             ],
-            "Epson-Printers-L220": [
+            "epson-printers-l220": [
                   "1847"
             ],
             "364/564/862/178/655/685/670/920": [
                   "1850"
             ],
-            "For-HP-Deskjet-Printers": [
+            "for-hp-deskjet-printers": [
                   "1863"
             ],
-            "EP-L6160-INK-TANK-PRINTERS": [
+            "ep-l6160-ink-tank-printers": [
                   "1864"
             ],
-            "EP-L6170-INK-TANK-PRINTERS": [
+            "ep-l6170-ink-tank-printers": [
                   "1865"
             ],
-            "Konica-Minolta-1580mf": [
+            "konica-minolta-1580mf": [
                   "1869"
             ],
             "brother": [
                   "1875"
             ],
-            "Q2612A,-Canon-303": [
+            "q2612a,-canon-303": [
                   "1887"
             ],
-            "HP-Officejet-Pro-80": [
+            "hp-officejet-pro-80": [
                   "1889"
             ],
-            "88A-toner-cartridge": [
+            "88a-toner-cartridge": [
                   "1908"
             ]
       },
-      "International-Warranty": {
-            "1-Months": [
+      "international-warranty": {
+            "1-months": [
                   "1279",
                   "1299",
                   "1319",
@@ -8302,7 +8192,7 @@
                   "1645",
                   "1873"
             ],
-            "0-Months": [
+            "0-months": [
                   "1289",
                   "1438",
                   "1454",
@@ -8317,7 +8207,7 @@
                   "1838",
                   "1843"
             ],
-            "6-Months": [
+            "6-months": [
                   "1295",
                   "1563",
                   "1671",
@@ -8325,30 +8215,32 @@
                   "1754",
                   "1859"
             ],
-            "0-Year": [
+            "0-year": [
                   "1421",
                   "1891"
             ],
-            "2-Year": [
+            "2-year": [
                   "1453",
                   "1749"
             ],
-            "1-Year": [
+            "1-year": [
                   "1601",
                   "1761"
             ]
       },
-      "Usb": [
+      "usb": [
             "1281",
-            "1377"
+            "1285",
+            "1377",
+            "1420",
+            "1609",
+            "1649"
       ],
-      "Compatible-Paper-Width": {
-            "Na": [
-                  "1281",
-                  "1377"
-            ],
+      "compatible-paper-width": {
             "na": [
-                  "1285"
+                  "1281",
+                  "1285",
+                  "1377"
             ],
             "60mm": [
                   "1420"
@@ -8363,7 +8255,7 @@
                   "1649"
             ]
       },
-      "Manual": [
+      "manual": [
             "1281",
             "1285",
             "1377",
@@ -8371,7 +8263,7 @@
             "1609",
             "1649"
       ],
-      "Paper-Roll-Diameter": {
+      "paper-roll-diameter": {
             "58-mm": [
                   "1281",
                   "1285",
@@ -8388,62 +8280,60 @@
                   "1609"
             ]
       },
-      "Portable": {
-            "No": [
+      "portable": {
+            "no": [
                   "1281",
                   "1285",
                   "1377"
             ],
-            "Yes": [
+            "yes": [
                   "1420",
                   "1485",
                   "1609",
                   "1649"
             ]
       },
-      "Power-Consumption": {
-            "3-W": [
+      "power-consumption": {
+            "3-w": [
                   "1281",
                   "1285",
                   "1377"
             ],
-            "12-W": [
+            "12-w": [
                   "1420"
             ],
-            "24v-W": [
+            "24v-w": [
                   "1485"
             ],
-            "60-W": [
+            "60-w": [
                   "1609"
             ],
-            "12W-W": [
+            "12w-w": [
                   "1649"
             ]
       },
-      "Power-Requirement": {
+      "power-requirement": {
             "50": [
                   "1281"
             ],
             "power": [
-                  "1285"
-            ],
-            "Power": [
+                  "1285",
                   "1377"
             ],
             "12v": [
                   "1420"
             ],
-            "NA": [
+            "na": [
                   "1485"
             ],
-            "12V,-50Hz": [
+            "12v,-50hz": [
                   "1609"
             ],
-            "8-V": [
+            "8-v": [
                   "1649"
             ]
       },
-      "Print-Speed": {
+      "print-speed": {
             "1": [
                   "1281",
                   "1285",
@@ -8455,14 +8345,14 @@
             "300-mm/second": [
                   "1485"
             ],
-            "8-PPM": [
+            "8-ppm": [
                   "1609"
             ],
             "99": [
                   "1649"
             ]
       },
-      "Monochrome": [
+      "monochrome": [
             "1281",
             "1285",
             "1329",
@@ -8515,45 +8405,35 @@
             "1891",
             "1894"
       ],
-      "Na": [
-            "1281",
-            "1377",
-            "1420"
-      ],
-      "Software-Requirement": {
-            "uSB": [
+      "software-requirement": {
+            "usb": [
                   "1281"
             ],
             "na": [
-                  "1285"
-            ],
-            "Na": [
+                  "1285",
                   "1377"
             ],
-            "CD-Provided": [
+            "cd-provided": [
                   "1420"
             ],
-            "IOS,-Linux,-Win7,-Win8,-Win10": [
+            "ios,-linux,-win7,-win8,-win10": [
                   "1485"
             ],
-            "Android-and-IOS-system": [
+            "android-and-ios-system": [
                   "1609"
             ],
-            "EPSON-ESC/POS": [
+            "epson-esc/pos": [
                   "1649"
             ]
       },
-      "Thermal": [
+      "thermal": [
             "1281",
             "1377",
             "1420",
             "1649",
             "1649"
       ],
-      "usb": [
-            "1285"
-      ],
-      "Print": [
+      "print": [
             "1285",
             "1299",
             "1329",
@@ -8565,44 +8445,41 @@
             "1678",
             "1709"
       ],
-      "In-The-Box": {
-            "Guide-Book,-Cable,-Printer": [
+      "in-the-box": {
+            "guide-book,-cable,-printer": [
                   "1285"
             ],
-            "SECUGEN-HAMSTER-PRO-20": [
+            "secugen-hamster-pro-20": [
                   "1334"
             ],
-            "1-Printer": [
+            "1-printer": [
                   "1338",
                   "1376",
                   "1422",
                   "1618",
                   "1641"
             ],
-            "1-Cogent": [
+            "1-cogent": [
                   "1342"
             ],
-            "Startek-FM-220u": [
+            "startek-fm-220u": [
                   "1390"
             ],
             "1-scanner": [
                   "1432"
             ]
       },
-      "Standard-Cassette": [
+      "standard-cassette": [
             "1285",
             "1329",
             "1566",
             "1569",
             "1618"
       ],
-      "Paper,-Envelopes": [
+      "paper,-envelopes": [
             "1285"
       ],
-      "na": [
-            "1285"
-      ],
-      "Single-Function": [
+      "single-function": [
             "1285",
             "1299",
             "1329",
@@ -8627,8 +8504,8 @@
             "1861",
             "1894"
       ],
-      "Warranty-Service-Type": {
-            "No": [
+      "warranty-service-type": {
+            "no": [
                   "1289",
                   "1551",
                   "1684",
@@ -8636,18 +8513,17 @@
                   "1838",
                   "1843"
             ],
-            "REPLACEMENT": [
+            "replacement": [
                   "1299",
                   "1319",
-                  "1460"
+                  "1376",
+                  "1460",
+                  "1885"
             ],
-            "Nill": [
+            "nill": [
                   "1336"
             ],
-            "replacement": [
-                  "1376"
-            ],
-            "Free-replacement": [
+            "free-replacement": [
                   "1403",
                   "1417",
                   "1450",
@@ -8657,15 +8533,16 @@
             ],
             "na": [
                   "1438",
-                  "1649"
+                  "1649",
+                  "1808"
             ],
-            "Not-covered-in-warranty": [
+            "not-covered-in-warranty": [
                   "1454"
             ],
             "only-in-umbai-service-centre.": [
                   "1533"
             ],
-            "Replacement-Warranty": [
+            "replacement-warranty": [
                   "1577",
                   "1650",
                   "1693"
@@ -8673,28 +8550,22 @@
             "not-mention": [
                   "1613"
             ],
-            "Only-at-Mumbai-Service-Center.": [
+            "only-at-mumbai-service-center.": [
                   "1734"
             ],
-            "Manufacturer": [
+            "manufacturer": [
                   "1806"
-            ],
-            "NA": [
-                  "1808"
-            ],
-            "Replacement": [
-                  "1885"
             ]
       },
-      "Paper": [
+      "paper": [
             "1324",
             "1329",
             "1332"
       ],
-      "USB-Port,-CD-ROM": [
+      "usb-port,-cd-rom": [
             "1324"
       ],
-      "Business": [
+      "business": [
             "1329",
             "1376",
             "1566",
@@ -8702,7 +8573,7 @@
             "1618",
             "1709"
       ],
-      "Laser": [
+      "laser": [
             "1329",
             "1376",
             "1470",
@@ -8747,7 +8618,7 @@
             "1891",
             "1894"
       ],
-      "Toner-Cartridge": [
+      "toner-cartridge": [
             "1329",
             "1376",
             "1566",
@@ -8791,24 +8662,24 @@
             "1891",
             "1894"
       ],
-      "Copy,-Print,-Scan": [
+      "copy,-print,-scan": [
             "1332",
             "1618"
       ],
-      "Basic": [
+      "basic": [
             "1332",
             "1335"
       ],
-      "Colour": {
+      "colour": {
             "500dpi": [
                   "1334"
             ]
       },
-      "Media-Type-supported": {
-            "FINGERPRINT-SCAN": [
+      "media-type-supported": {
+            "fingerprint-scan": [
                   "1334"
             ],
-            "Window": [
+            "window": [
                   "1342"
             ],
             "-": [
@@ -8821,51 +8692,33 @@
       "window,-android": [
             "1334"
       ],
-      "Scan-Area-Size": {
-            "15.24-mm-x-20.32-mm-mm": [
-                  "1334"
-            ],
-            "81.28-x-76.2-mm": [
-                  "1342"
-            ],
-            "500-DPI-mm": [
-                  "1390"
-            ],
-            "2x2x2": [
-                  "1432"
-            ]
-      },
       "fingerprint-scan": [
             "1334"
       ],
-      "Series": {
-            "HAMSTER-PRO-20": [
+      "series": {
+            "hamster-pro-20": [
                   "1334"
             ],
-            "Handheld": [
+            "handheld": [
                   "1342"
             ]
       },
-      "USB": [
-            "1420",
+      "usb,-lan": [
+            "1485"
+      ],
+      "auto": [
+            "1485"
+      ],
+      "repair": [
+            "1485",
+            "1490",
             "1609",
             "1649"
       ],
-      "USB,-LAN": [
-            "1485"
-      ],
-      "Auto": [
-            "1485"
-      ],
-      "Repair": [
-            "1485",
-            "1490",
-            "1649"
-      ],
-      "Black": [
+      "black": [
             "1490"
       ],
-      "Length": {
+      "length": {
             "0-cm": [
                   "1490"
             ],
@@ -8874,39 +8727,36 @@
                   "1710"
             ]
       },
-      "Plastic": [
+      "plastic": [
             "1490"
       ],
-      "Model-Number": {
-            "H58-58MM-USB-+-Bluetooth": [
+      "model-number": {
+            "h58-58mm-usb-+-bluetooth": [
                   "1490"
             ],
-            "HOP-H58-USB-Portable-Thermal": [
+            "hop-h58-usb-portable-thermal": [
                   "1609"
             ],
-            "H58": [
+            "h58": [
                   "1649"
             ]
       },
-      "AC-Adapter": [
+      "ac-adapter": [
             "1490"
       ],
-      "EPSON-ESC/POS": [
+      "epson-esc/pos": [
             "1490"
       ],
-      "Print-Paper-Included": {
-            "No": [
+      "print-paper-included": {
+            "no": [
                   "1490"
             ]
       },
-      "POS-,-Restaurants": [
+      "pos-,-restaurants": [
             "1490"
       ],
-      "repair": [
-            "1609"
-      ],
-      "Other-Print-Features": {
-            "Print-Speed:-Up-to-30/32-ppm": [
+      "other-print-features": {
+            "print-speed:-up-to-30/32-ppm": [
                   "1615"
             ]
       }

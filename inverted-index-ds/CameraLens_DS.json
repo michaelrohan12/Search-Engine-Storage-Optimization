@@ -1,32 +1,32 @@
 {
-      "Aperture-with-Max-Focal-Length": {
-            "f/4-5.6-IS-II": [
+      "aperture-with-max-focal-length": {
+            "f/4-5.6-is-ii": [
                   "1001"
             ],
-            "f/1.8-G": [
+            "f/1.8-g": [
                   "1002"
             ],
-            "f/1.8-STM": [
+            "f/1.8-stm": [
                   "1003"
             ],
-            "f/3.5-5.6G-ED-VR": [
+            "f/3.5-5.6g-ed-vr": [
                   "1004"
             ],
-            "f/3.5-5.6G": [
+            "f/3.5-5.6g": [
                   "1005"
             ],
             "f/1.8": [
                   "1007",
                   "1008"
             ],
-            "F/3.5-6.3": [
+            "f/3.5-6.3": [
                   "1009"
             ],
-            "f/4-L-USM": [
+            "f/4-l-usm": [
                   "1010"
             ]
       },
-      "Aperture-with-Min-Focal-Length": {
+      "aperture-with-min-focal-length": {
             "f/22---32": [
                   "1001"
             ],
@@ -42,12 +42,12 @@
                   "1010"
             ]
       },
-      "Canon": [
+      "canon": [
             "1001",
             "1003",
             "1010"
       ],
-      "Black": [
+      "black": [
             "1001",
             "1002",
             "1003",
@@ -59,28 +59,28 @@
             "1009",
             "1010"
       ],
-      "Canon-DSLRs": [
+      "canon-dslrs": [
             "1001",
             "1003"
       ],
-      "Dimensions": {
-            "70-x-108-mm-(Diameter-x-Length)": [
+      "dimensions": {
+            "70-x-108-mm-(diameter-x-length)": [
                   "1001"
             ],
-            "72-x-52.5-mm-(Diameter-x-Length)": [
+            "72-x-52.5-mm-(diameter-x-length)": [
                   "1002"
             ],
-            "72-x-85-mm-(Diameter-x-Length)": [
+            "72-x-85-mm-(diameter-x-length)": [
                   "1005"
             ],
-            "78.1-x-99-mm-(Diameter-x-Length)": [
+            "78.1-x-99-mm-(diameter-x-length)": [
                   "1006"
             ]
       },
-      "MM": [
+      "mm": [
             "1001"
       ],
-      "Filter-Attachment-Size": {
+      "filter-attachment-size": {
             "58-mm": [
                   "1001",
                   "1002"
@@ -99,18 +99,18 @@
                   "1010"
             ]
       },
-      "Canon-Mount": [
+      "canon-mount": [
             "1001",
             "1006",
             "1008",
             "1009"
       ],
-      "Telephoto": [
+      "telephoto": [
             "1001",
             "1007",
             "1009"
       ],
-      "Maximum-Focal-Length": {
+      "maximum-focal-length": {
             "250-mm": [
                   "1001"
             ],
@@ -136,7 +136,7 @@
                   "1010"
             ]
       },
-      "Maximum-Magnification-(x)": {
+      "maximum-magnification-(x)": {
             "0.31": [
                   "1001"
             ],
@@ -157,25 +157,25 @@
                   "1010"
             ]
       },
-      "Minimum-Aperture": {
+      "minimum-aperture": {
             "22---32": [
                   "1001"
             ],
-            "F/22": [
+            "f/22": [
                   "1003"
             ],
             "22": [
                   "1006",
                   "1010"
             ],
-            "F/16": [
+            "f/16": [
                   "1007"
             ],
-            "F/22---40": [
+            "f/22---40": [
                   "1009"
             ]
       },
-      "Minimum-Focal-Length": {
+      "minimum-focal-length": {
             "55-mm": [
                   "1001"
             ],
@@ -199,36 +199,36 @@
                   "1010"
             ]
       },
-      "Model": {
-            "EF-S-55---250-mm-f/4-5.6-IS-II": [
+      "model": {
+            "ef-s-55---250-mm-f/4-5.6-is-ii": [
                   "1001"
             ],
-            "AF-S-NIKKOR-50mm-f/1.8G-Lens": [
+            "af-s-nikkor-50mm-f/1.8g-lens": [
                   "1002"
             ],
-            "EF-50-mm-f/1.8-STM": [
+            "ef-50-mm-f/1.8-stm": [
                   "1003"
             ],
-            "F013N": [
+            "f013n": [
                   "1007"
             ],
-            "SP-45mm-Lens": [
+            "sp-45mm-lens": [
                   "1008"
             ],
-            "A010E-Lens\u00ef\u00bf\u00bd": [
+            "a010e-lens\u00ef\u00bf\u00bd": [
                   "1009"
             ],
-            "EF-17---40-mm-f/4L-USM": [
+            "ef-17---40-mm-f/4l-usm": [
                   "1010"
             ]
       },
-      "Telephoto-Zoom": [
+      "telephoto-zoom": [
             "1001",
             "1001",
             "1005",
             "1005"
       ],
-      "Zoom": [
+      "zoom": [
             "1001",
             "1004",
             "1004",
@@ -238,31 +238,31 @@
             "1010",
             "1010"
       ],
-      "Sales-Package": {
-            "Lens": [
+      "sales-package": {
+            "lens": [
                   "1001",
                   "1004",
                   "1010"
             ],
-            "EF-50-mm-f/1.8-STM-Lens": [
+            "ef-50-mm-f/1.8-stm-lens": [
                   "1003"
             ],
-            "Lens,-Lens-Hood": [
+            "lens,-lens-hood": [
                   "1006"
             ],
-            "1-Lens,-Mount-Cap,-Owners-Manual": [
+            "1-lens,-mount-cap,-owners-manual": [
                   "1007",
                   "1009"
             ],
-            "Lense-&-Manual": [
+            "lense-&-manual": [
                   "1008"
             ]
       },
-      "Wildlife": [
+      "wildlife": [
             "1001"
       ],
-      "Warranty": {
-            "2-Years": [
+      "warranty": {
+            "2-years": [
                   "1001",
                   "1002",
                   "1003",
@@ -278,7 +278,7 @@
                   "1009"
             ]
       },
-      "Weight": {
+      "weight": {
             "0.345-kg": [
                   "1001"
             ],
@@ -308,61 +308,61 @@
                   "1010"
             ]
       },
-      "Nikon": [
+      "nikon": [
             "1002",
             "1004",
             "1005"
       ],
-      "Nikon-DSLRs": [
+      "nikon-dslrs": [
             "1002",
             "1005"
       ],
-      "Lens-Cap": {
-            "Snap-on": [
+      "lens-cap": {
+            "snap-on": [
                   "1002",
                   "1005"
             ],
-            "Yes": [
+            "yes": [
                   "1003"
             ]
       },
-      "Lens-Case": {
-            "CL-1013": [
+      "lens-case": {
+            "cl-1013": [
                   "1002"
             ],
-            "No": [
+            "no": [
                   "1003"
             ],
-            "CL-1015": [
+            "cl-1015": [
                   "1005"
             ]
       },
-      "FX": [
+      "fx": [
             "1002"
       ],
-      "Lens-Hood": {
-            "HB-47": [
+      "lens-hood": {
+            "hb-47": [
                   "1002"
             ],
-            "No": [
+            "no": [
                   "1003"
             ],
-            "HB-39": [
+            "hb-39": [
                   "1005"
             ]
       },
-      "AF-S": [
+      "af-s": [
             "1002",
             "1004",
             "1005"
       ],
-      "Standard": [
+      "standard": [
             "1002",
             "1002",
             "1003",
             "1008"
       ],
-      "Maximum-Reproduction-Ratio": {
+      "maximum-reproduction-ratio": {
             "0.15x": [
                   "1002"
             ],
@@ -370,7 +370,7 @@
                   "1005"
             ]
       },
-      "Minimum-Focusing-Distance": {
+      "minimum-focusing-distance": {
             "0.45-m": [
                   "1002"
             ],
@@ -381,7 +381,7 @@
                   "1006"
             ]
       },
-      "Minimum-f/stop": {
+      "minimum-f/stop": {
             "16": [
                   "1002"
             ],
@@ -389,17 +389,17 @@
                   "1005"
             ]
       },
-      "Prime": [
+      "prime": [
             "1002",
             "1002",
             "1003",
             "1007",
             "1008"
       ],
-      "Journalism": [
+      "journalism": [
             "1002"
       ],
-      "Diameter": {
+      "diameter": {
             "69.2-mm": [
                   "1003"
             ],
@@ -410,10 +410,10 @@
                   "1009"
             ]
       },
-      "STM": [
+      "stm": [
             "1003"
       ],
-      "Length": {
+      "length": {
             "39.3-mm": [
                   "1003"
             ],
@@ -424,102 +424,102 @@
                   "1009"
             ]
       },
-      "EF": [
+      "ef": [
             "1003",
             "1010"
       ],
-      "Angle-of-View": {
-            "76-Degree---11-Degree30": [
+      "angle-of-view": {
+            "76-degree---11-degree30": [
                   "1004"
             ],
-            "75\u00c2\u00b0---8\u00c2\u00b0": [
+            "75\u00e2\u00b0---8\u00e2\u00b0": [
                   "1006"
             ]
       },
-      "Wide-angle": [
+      "wide-angle": [
             "1004",
             "1005",
             "1006",
             "1010"
       ],
-      "DX": [
+      "dx": [
             "1005"
       ],
-      "Tamron": [
+      "tamron": [
             "1006",
             "1007",
             "1008",
             "1009"
       ],
-      "Macro": [
+      "macro": [
             "1006"
       ],
-      "Zoom,-Macro": [
+      "zoom,-macro": [
             "1006"
       ],
-      "USD": [
+      "usd": [
             "1007"
       ],
-      "Auto-Focus": [
+      "auto-focus": [
             "1007",
             "1009"
       ],
-      "Image-Stabilisation": {
-            "Yes": [
+      "image-stabilisation": {
+            "yes": [
                   "1007",
                   "1009"
             ]
       },
-      "Full-Frame": [
+      "full-frame": [
             "1007",
             "1009"
       ],
-      "Nikon-Mount": [
+      "nikon-mount": [
             "1007"
       ],
-      "Class-Close-Focusing": [
+      "class-close-focusing": [
             "1007"
       ],
-      "Pack-of": {
+      "pack-of": {
             "1": [
                   "1007",
                   "1009"
             ]
       },
-      "Wedding-&-Events": [
+      "wedding-&-events": [
             "1007"
       ],
-      "Water-Resistant": {
-            "Yes": [
+      "water-resistant": {
+            "yes": [
                   "1007",
                   "1009"
             ],
-            "No": [
+            "no": [
                   "1008"
             ]
       },
-      "Portrait": [
+      "portrait": [
             "1008"
       ],
-      "Fix": [
+      "fix": [
             "1008"
       ],
-      "PZD": [
+      "pzd": [
             "1009"
       ],
-      "Rotation": [
+      "rotation": [
             "1009"
       ],
-      "Ring-type-USM": [
+      "ring-type-usm": [
             "1010"
       ],
-      "Auto": [
+      "auto": [
             "1010"
       ],
-      "Ultra-Wide-Angle": [
+      "ultra-wide-angle": [
             "1010"
       ],
-      "Art": [
+      "art": [
             "1010"
       ]
 }
