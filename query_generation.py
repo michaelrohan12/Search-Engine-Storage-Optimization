@@ -39,7 +39,6 @@ def generate_queries(json_file):
     queries = pd.concat([queries,query], ignore_index=True)
     
     return result.name
-        # queries.head()
 
 
 def main():

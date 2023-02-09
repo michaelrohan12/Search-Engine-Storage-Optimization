@@ -7,54 +7,53 @@ from pathlib import Path
 import tempfile
 import itertools 
 
-# class BloomFilter(object):
-#     def __init__(self, capacity, error_rate=0.001):
-#         if not(0 < error_rate < 1):
-#             raise ValueError("Bloom filter must have an error_rate between 0 and 1")
-#         if not capacity > 0:
-#             raise ValueError("Bloom filter must have capacity greater than 0")
-            
 def create_bloom_filter(json_file):
     data = json.load(json_file)
     
     keywords_list = data.keys()
     
-    # count = 0
     key_items = []
+    key_items2 = []
     
     for keyword in keywords_list:
         if (type(data[keyword]) is dict):
-            # count += 1
             key_items.append(keyword)
             keyword2_list = data[keyword].keys()
             for keyword_2 in keyword2_list:
-                key_items.append(keyword_2)
-                # count += 1
+                key_items2.append(keyword + ' ' + keyword_2)
         else:
             key_items.append(keyword)
             
     key_items = [*set(key_items)]
-    
-    # print(len(key_items))
+    key_items2 = [*set(key_items2)]
             
     data_filter = BloomFilter(capacity=len(key_items), error_rate=0.001)
+    data_filter2 = BloomFilter(capacity=len(key_items2), error_rate=0.001)
     
     for i in range(len(key_items)):
         data_filter.add(key_items[i])
+        
+    for i in range(len(key_items2)):
+        data_filter2.add(key_items2[i])
     
     result = Path(json_file.name)
     
     name = re.sub('_DS.json','_Filter',result.name)
+    name2 = name + '1'
     
     path = sys.path[0] + '\\Bloom-Filters\\' 
     
     tempfile._get_candidate_names = lambda: itertools.repeat(name) 
     
     f = tempfile.NamedTemporaryFile(prefix='',suffix = '', dir=path, delete=False) 
-    data_filter.tofile(f)        
+    data_filter.tofile(f)
+    
+    tempfile._get_candidate_names = lambda: itertools.repeat(name2) 
+    
+    f = tempfile.NamedTemporaryFile(prefix='',suffix = '', dir=path, delete=False) 
+    data_filter2.tofile(f)  
+            
     return name
-        
-    # print("Canon" in data_filter)
     
 
 
